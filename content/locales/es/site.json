@@ -1,0 +1,52 @@
+{
+  "siteUrl": "https://thedementiatimes.com",
+  "title": "The Dementia Times",
+  "presentedBy": "Presentado por el Dr. Erik Ilyayev",
+  "description": "Información basada en evidencia sobre el cuidado de personas con demencia, por el Dr. Erik Ilyayev.",
+  "newsletterUrl": "https://www.linkedin.com/newsletters/the-dementia-times-7452443336956899329/",
+  "author": {
+    "name": "Dr. Erik Ilyayev, MD",
+    "role": "CEO, MedBetter Health",
+    "linkedinUrl": "https://www.linkedin.com/in/erik-ilyayev-b9795084/",
+    "headshot": "/assets/brand/dr-erik-headshot.jpeg"
+  },
+  "brand": {
+    "medBetterUrl": "https://medbetterhealth.org/",
+    "logo": "/assets/brand/medbetter-health-logo-transparent.png",
+    "publicationMark": "/assets/brand/dementia-times-mark.svg",
+    "youtubeUrl": "https://www.youtube.com/@erikilyayev",
+    "youtubePlaylistUrl": "https://www.youtube.com/watch?v=58ziiR8eujM&list=PLghCRz2fTSjo_WUu-kYFhMsBGDJz-ExPE&pp=sAgC",
+    "youtubeBanner": "/assets/brand/straight-talk-with-dr-erik-banner.jpg"
+  },
+  "analytics": {
+    "enabled": true,
+    "provider": "plausible",
+    "plausibleDomain": "thedementiatimes.com"
+  },
+  "newsletterCapture": {
+    "enabled": false,
+    "provider": "formspree",
+    "endpoint": ""
+  },
+  "ringCentral": {
+    "enabled": false,
+    "smsEndpoint": ""
+  },
+  "guide": {
+    "label": "Programa de Medicare · Participante del Modelo GUIDE",
+    "title": "Imagine un mundo en el que cuidar a su ser querido con demencia no signifique hacerlo sin ayuda.",
+    "body": "Un mundo donde tiene a alguien que puede ayudar en casa y acceso a apoyo las 24 horas, los 7 días de la semana, cuando lo necesita. Ya no tiene que imaginarlo. Ahora es una realidad y está cubierto por Medicare*.",
+    "secondaryBody": "A través del Modelo GUIDE de MedBetterHealth, Medicare cubre servicios elegibles de cuidado en el hogar para ayudarle a apoyar a su ser querido. Usted recibe el apoyo que necesita. ¿Listo para empezar? Vea si califica.",
+    "compactTitle": "Apoyo cuando el cuidado de la demencia empieza a sentirse demasiado pesado",
+    "compactBody": "Ayuda en casa, apoyo 24/7 y orientación para cuidadores pueden estar cubiertos por Medicare a través del Modelo GUIDE.",
+    "benefitScenarios": [
+      "Medicare puede cubrir servicios de cuidado en el hogar para que usted pueda descansar, ir a su propia cita o cenar con la familia mientras su ser querido recibe cuidado.",
+      "Una línea de apoyo 24/7 le da un lugar a donde llamar cuando mamá actúa diferente por la noche y usted no está seguro de qué hacer.",
+      "La orientación de cuidado puede ayudarle a manejar el rechazo al baño, el rechazo a los medicamentos, la agitación o la confusión con pasos más tranquilos.",
+      "El apoyo de respiro puede devolverles tiempo real a los cuidadores cuando se cumplen los requisitos de elegibilidad."
+    ],
+    "finePrint": "La elegibilidad generalmente requiere un diagnóstico confirmado de demencia y estar inscrito en Medicare tradicional, Partes A y B. Las personas que residen en centros de cuidado a largo plazo generalmente no son elegibles. MedBetterHealth es un participante aprobado del Modelo GUIDE y no está afiliado ni respaldado por CMS ni por el gobierno de los EE. UU. salvo por esa condición de participante.",
+    "url": "https://intakeguide.medbetterhealth.org",
+    "cta": "Vea si califica"
+  }
+}

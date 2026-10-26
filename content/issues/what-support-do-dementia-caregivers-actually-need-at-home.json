@@ -1,0 +1,958 @@
+{
+  "title": "What Support Do Dementia Caregivers Actually Need at Home?",
+  "slug": "what-support-do-dementia-caregivers-actually-need-at-home",
+  "issueNumber": 29,
+  "publishedDate": "2026-06-12",
+  "sourceUrl": "https://www.linkedin.com/pulse/what-support-do-dementia-caregivers-actually-need-home-erik-ilyayev-iy0pc",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Every week, caregivers ask me some version of the same question: “Dr. Erik, I’m taking care of my loved one with dementia at home, but I feel like I’m drowning.",
+  "topics": [
+    "Guide Model And Caregiver Support"
+  ],
+  "coverImage": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 801
+    },
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 804
+    },
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 803
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Every week, caregivers ask me some version of the same question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, I’m taking care of my loved one with dementia at home, but I feel like I’m drowning. Is there any real support for families like mine?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And I want to answer that honestly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes."
+    },
+    {
+      "type": "paragraph",
+      "text": "But first, we have to understand why this support matters so much."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia care is not only about the person living with dementia. It is also about the caregiver. It is about the spouse who is not sleeping. The adult child who is missing work. The daughter trying to manage medications, showers, meals, wandering, doctor appointments, and family conflict at the same time."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about the family member who says, “I love my mom, but I do not know how much longer I can keep doing this.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That caregiver is not weak."
+    },
+    {
+      "type": "paragraph",
+      "text": "That caregiver is carrying a medical system, a home care system, a transportation system, a medication system, and an emotional support system on their own back."
+    },
+    {
+      "type": "paragraph",
+      "text": "And eventually, that weight can crush a person."
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I’m a dementia care physician, a board member of the South Florida Alzheimer's Association®, and the CEO of MedBetterHealth.org — one of the organizations selected by Medicare to participate in a groundbreaking program designed to change how America cares for people living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this issue, I want to talk about why dementia care in Florida is growing so quickly, what caregivers are carrying, and how the GUIDE Model was designed to support families in the home — not just in the clinic."
+    },
+    {
+      "type": "heading",
+      "text": "THE NUMBERS ARE NOT SMALL"
+    },
+    {
+      "type": "paragraph",
+      "text": "I am a big believer in numbers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because numbers help us understand the scale of the problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2020, there were about 580,000 people in Florida living with Alzheimer’s disease or another dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "By 2025, that number was estimated to rise to about 720,000 people."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is a 24.1% increase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Almost 25%."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is huge."
+    },
+    {
+      "type": "paragraph",
+      "text": "And you may say, “Okay, Dr. Erik, that is interesting. But how do we know that number is even accurate?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where it gets even more important."
+    },
+    {
+      "type": "paragraph",
+      "text": "Around 40% of primary care doctors and clinicians report that they feel uncomfortable or do not feel they have the proper tools to diagnose dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if we already estimate 720,000 people in Florida are living with dementia, but many clinicians are uncomfortable making the diagnosis, then I have to ask the question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the real number actually higher?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It probably is."
+    },
+    {
+      "type": "paragraph",
+      "text": "And this is not surprising. People are living longer. Families are living with conditions that previous generations did not always survive long enough to experience at the same scale. Years ago, many people passed away in their 70s. Now, many families are caring for loved ones into their 80s, 90s, and beyond."
+    },
+    {
+      "type": "paragraph",
+      "text": "My grandmother is 92."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of my grandmothers lived with Alzheimer’s disease. Another family member cared for a loved one into the mid-90s. And I see this every day in families across Florida and New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia is not rare anymore."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is all around us."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the question is no longer, “Is this a growing problem?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The question is, “How are we going to support the families living through it?”"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "THE HIDDEN PATIENT: THE CAREGIVER"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let’s talk about the caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Florida alone, there are hundreds of thousands of unpaid dementia caregivers. The transcript conversation referenced approximately 827,000 unpaid caregivers in Florida and more than 1.3 billion hours of unpaid care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Think about that."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not paid staff."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not facility care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Family members."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spouses. Adult children. Siblings. Friends. Neighbors."
+    },
+    {
+      "type": "paragraph",
+      "text": "People who are giving medications, preparing meals, helping with showers, watching for wandering, managing appointments, dealing with nighttime confusion, calling doctors, coordinating care, and trying to keep the person safe at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the cost is not only financial."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost is physical."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cost is emotional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Many caregivers are older themselves. A 70-year-old daughter may be caring for a 92-year-old mother. A spouse with their own health problems may be caring for a husband or wife who wakes up all night. An adult child may be trying to care for a parent while also raising children and working full-time."
+    },
+    {
+      "type": "paragraph",
+      "text": "And many caregivers are not healthy."
+    },
+    {
+      "type": "paragraph",
+      "text": "A large percentage of dementia caregivers live with multiple chronic conditions themselves. Many experience depression. Many are sleep-deprived. Many are isolated."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why I always tell families:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver is not a side issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver is part of the care plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the caregiver collapses, the whole care environment collapses."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "THE AIRPLANE MASK EXAMPLE"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you are on an airplane and the oxygen masks come down, what do they tell you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Put your own mask on first before helping the person next to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because if you lose oxygen, you cannot help anyone else."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia caregiving works the same way."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are the caregiver and you never sleep, never rest, never recover, never leave the house, never go to your own doctor appointments, and never get support, eventually you will not be able to care safely."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean you do not love your loved one."
+    },
+    {
+      "type": "paragraph",
+      "text": "It means you are human."
+    },
+    {
+      "type": "paragraph",
+      "text": "Caregivers often put everything on their own shoulders. They say, “I have to do this.” They say, “Nobody else understands Mom.” They say, “Dad only listens to me.” They say, “If I leave, something bad will happen.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And slowly, they fall into isolation."
+    },
+    {
+      "type": "paragraph",
+      "text": "They stop seeing friends."
+    },
+    {
+      "type": "paragraph",
+      "text": "They stop sleeping."
+    },
+    {
+      "type": "paragraph",
+      "text": "They stop exercising."
+    },
+    {
+      "type": "paragraph",
+      "text": "They stop caring for themselves."
+    },
+    {
+      "type": "paragraph",
+      "text": "And eventually, the caregiver becomes the next patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why respite matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not because caregivers want to abandon their loved one."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because caregivers need oxygen."
+    },
+    {
+      "type": "heading",
+      "text": "WHAT THE GUIDE MODEL IS"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where the GUIDE Model comes in."
+    },
+    {
+      "type": "paragraph",
+      "text": "GUIDE stands for Guiding an Improved Dementia Experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is a Medicare model designed to support people living with dementia and the family caregivers caring for them at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "The model is not only about the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the key."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the first time, Medicare is recognizing that dementia care has to support the caregiver too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because in dementia, the caregiver is often the person keeping everything from falling apart."
+    },
+    {
+      "type": "paragraph",
+      "text": "For eligible families, the GUIDE Model may provide structured dementia-care support through organizations like MedBetter Health."
+    },
+    {
+      "type": "paragraph",
+      "text": "At MedBetter Health, we currently support eligible families in Florida and New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the model has two major arms I want families to understand:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respite support."
+    },
+    {
+      "type": "paragraph",
+      "text": "And care navigation with clinical support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s talk about both."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 801
+    },
+    {
+      "type": "heading",
+      "text": "RESPITE: GIVING THE CAREGIVER ROOM TO BREATHE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s use a simple example."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine you are caring for your grandmother."
+    },
+    {
+      "type": "paragraph",
+      "text": "You love her. You want her safe. You want her home."
+    },
+    {
+      "type": "paragraph",
+      "text": "But you are exhausted."
+    },
+    {
+      "type": "paragraph",
+      "text": "You have not slept well. You are missing time with your family. You cannot get out of the house. You feel guilty every time you even think about taking a break."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now imagine a trained home care agency comes into the home for a few hours so you can breathe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe they help with laundry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe they prepare a meal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe they sit with your loved one."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe they give you enough time to play golf, take a walk, go to the store, see your own doctor, or just sit in silence without having to listen for the next crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is respite."
+    },
+    {
+      "type": "paragraph",
+      "text": "And sometimes, those few hours are the difference between a caregiver surviving and a caregiver collapsing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Respite can also look different depending on the family’s needs."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may be in-home respite."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may be adult day care, where a loved one can spend part of the day in a structured setting."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may be a short-term assisted living stay in certain situations, when the caregiver has to travel, attend a major family event, or respond to an emergency."
+    },
+    {
+      "type": "paragraph",
+      "text": "The point is not one-size-fits-all."
+    },
+    {
+      "type": "paragraph",
+      "text": "The point is that caregivers need relief that is practical, planned, and safe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia care is not sustainable when one person is carrying the entire load every hour of every day."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 804
+    },
+    {
+      "type": "heading",
+      "text": "CARE NAVIGATION: SOMEONE TO HELP CONNECT THE DOTS"
+    },
+    {
+      "type": "paragraph",
+      "text": "The second major arm is care navigation and clinical support."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is huge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say your loved one is taking 19 medications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three from a neurologist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Six from a psychiatrist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten from a primary care doctor."
+    },
+    {
+      "type": "paragraph",
+      "text": "And as many families know, those doctors may not always be talking to each other."
+    },
+    {
+      "type": "paragraph",
+      "text": "So now the caregiver is standing in the middle, trying to understand which medication does what, whether medications are interacting, whether something is making the dementia worse, whether something is causing dizziness, agitation, sleepiness, falls, or confusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is too much for most families to manage alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Through GUIDE Model support, a care navigator and dementia-proficient clinician may help review the care picture, identify concerns, communicate with the medical team, and help the family ask better questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "That matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because medication issues in dementia care can be serious."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes a medication that was added years ago no longer makes sense. Sometimes two medications interact. Sometimes a medication worsens confusion. Sometimes a discharge from the hospital creates a new medication list that nobody explains clearly to the family."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the caregiver is left staring at paperwork that might as well be written in Greek."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where care navigation can change everything."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver does not just need more paperwork."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need someone who can help translate the system."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "type": "heading",
+      "text": "WHEN HOSPITAL DISCHARGE BECOMES CONFUSING"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another common example is hospitalization."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your loved one goes to the hospital. Then they come home with discharge papers, medication changes, follow-up instructions, maybe therapy orders, maybe home health instructions, maybe warning signs to watch for."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the caregiver is supposed to figure it out."
+    },
+    {
+      "type": "paragraph",
+      "text": "What changed?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Which medications were stopped?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Which medications were added?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Who do we call?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When is the follow-up?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What symptoms are urgent?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does the primary care doctor know what happened?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does the specialist know?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do we need home care?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do we need equipment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do we need to watch for delirium, weakness, falls, appetite changes, or new confusion?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where families get overwhelmed."
+    },
+    {
+      "type": "paragraph",
+      "text": "A care navigator can help review what happened, communicate with the right clinicians, and make sure the family does not leave the hospital system with a stack of paper and no plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is what dementia care should look like."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not diagnosis and goodbye."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not discharge and good luck."
+    },
+    {
+      "type": "paragraph",
+      "text": "A team."
+    },
+    {
+      "type": "paragraph",
+      "text": "A plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Someone helping the family connect the dots."
+    },
+    {
+      "type": "heading",
+      "text": "THE 2 AM DEMENTIA PROBLEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let’s talk about the situations that do not happen neatly during office hours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your loved one refuses to shower."
+    },
+    {
+      "type": "paragraph",
+      "text": "You say, “Mom, you need to shower.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "She says, “I already showered.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "You know she has not showered in a week."
+    },
+    {
+      "type": "paragraph",
+      "text": "So you push again."
+    },
+    {
+      "type": "paragraph",
+      "text": "She refuses."
+    },
+    {
+      "type": "paragraph",
+      "text": "You get frustrated."
+    },
+    {
+      "type": "paragraph",
+      "text": "She gets angry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now the whole house is escalated."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the caregiver thinks:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What am I supposed to do?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is one of those moments where dementia education matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the problem is not only the shower."
+    },
+    {
+      "type": "paragraph",
+      "text": "The person living with dementia may not remember that they did not shower. They may truly believe they already did. They may feel embarrassed. They may not want their adult child seeing their body. They may feel cold. They may be afraid of water. They may not understand the sequence. They may feel like someone is invading their privacy."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if the caregiver approaches with logic, correction, or pressure, the behavior often gets worse."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why families need dementia coaching."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need to learn the language of dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need to understand that correction often fails. Reasoning often fails. Arguing often fails. Testing often fails."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, we use validation."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use redirection."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use routine."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use dignity."
+    },
+    {
+      "type": "paragraph",
+      "text": "We use a better approach."
+    },
+    {
+      "type": "paragraph",
+      "text": "That kind of support can change the entire day."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "type": "heading",
+      "text": "WHAT CAREGIVERS ACTUALLY NEED"
+    },
+    {
+      "type": "paragraph",
+      "text": "Caregivers do not need someone to hand them a brochure and say, “Good luck.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "They need real support."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need help understanding dementia behaviors."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need someone to explain why showering is hard."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need someone to help with medication questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need someone to support them after hospitalization."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need respite."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need care coordination."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need access to dementia education."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need someone to help them connect to community resources, home care agencies, adult day programs, support groups, and organizations like the Alzheimer’s Association."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need someone to say:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“You are not crazy.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“You are not failing.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“This behavior has a reason.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Let’s figure out what is going on.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Let’s build a plan.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the work."
+    },
+    {
+      "type": "paragraph",
+      "text": "And that is what families have been missing for too long."
+    },
+    {
+      "type": "heading",
+      "text": "WHY HOME CARE PARTNERSHIPS MATTER"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the reasons I was glad to have this conversation with Tino from ComForCare is because home care agencies are often on the front line of dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are in the house."
+    },
+    {
+      "type": "paragraph",
+      "text": "They see the routines."
+    },
+    {
+      "type": "paragraph",
+      "text": "They see the caregiver stress."
+    },
+    {
+      "type": "paragraph",
+      "text": "They see when the shower is not happening."
+    },
+    {
+      "type": "paragraph",
+      "text": "They see when medications are confusing."
+    },
+    {
+      "type": "paragraph",
+      "text": "They see when the person is refusing care."
+    },
+    {
+      "type": "paragraph",
+      "text": "They see when the family is exhausted."
+    },
+    {
+      "type": "paragraph",
+      "text": "And when home care agencies, dementia clinicians, care navigators, and family caregivers work together, the family is no longer alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the model dementia care needs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not fragmented care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Coordinated care."
+    },
+    {
+      "type": "paragraph",
+      "text": "The physician, the care navigator, the caregiver, the home care agency, the support group, and the community resources all working toward the same goal:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keeping the person living with dementia as safe, stable, and supported as possible at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "And protecting the caregiver while doing it."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-support-do-dementia-caregivers-actually-need-at-home/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    }
+  ],
+  "disclaimer": "This is education, not medical advice. Dementia diagnosis, medication changes, hospital discharge instructions, behavioral symptoms, caregiver burnout, respite needs, and safety concerns should be discussed with qualified healthcare professionals.",
+  "youtubeVideo": {
+    "id": "6ZlQDHwb7V8",
+    "title": "Dementia Caregiver Support & the CMS GUIDE Model | Dr. Erik Ilyayev",
+    "publishedDate": "2026-06-15",
+    "description": "Dementia care is not just about the person diagnosed. It is also about the caregiver trying to hold everything together. Learn more about the GUIDE Model: https://medbetterhealth.org/guide In this full presentation, Dr. Erik Ilyayev speaks about dementia caregiver support, the CMS GUIDE Model, care navigation, respite, behavioral symptoms, home safety, medication concerns, and the real challenges families face when caring for someone living with dementia. This presentation was recorded during the Florida Geriatrics Society Annual Meeting / Florida Department of Elder Affairs DCCI Statewide Meeting on Friday, June 12. Dr. Erik explains why dementia care cannot only focus on the person diagnosed. Families also need support, education, guidance, and practical help as they navigate the day-to-day realities of caregiving. Topics covered in this video include: - What the CMS GUIDE Model is designed to support - Why caregiver burden is such a major issue in dementia care - How care navigation can help families - The importance of caregiver education and support groups - Dementia-related behaviors and why behavior is often communication - Practical examples involving shower refusal, hoarding, nighttime fear, medication concerns, and home safety - Why respite matters for caregivers - How eligible families in Florida and New York can learn more about dementia care support through MedBetterHealth MedBetterHealth is participating in the CMS GUIDE Model for eligible families in Florida and New York. Learn more about the GUIDE Model: https://medbetterhealth.org/guide Special thank you to Peggy Crowley, Amber Ladd, the Florida Geriatrics Society, and the Florida Department of Elder Affairs for helping bring this important conversation together. This video is for educational purposes only and is not medical advice. Always speak with your doctor or qualified healthcare professional about medical decisions for yourself or your loved one. Subscribe to Straight Talk with Dr. Erik for more practical dementia care education for families, caregivers, and healthcare professionals.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6ZlQDHwb7V8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=6ZlQDHwb7V8",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/6ZlQDHwb7V8"
+  }
+}

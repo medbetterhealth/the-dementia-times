@@ -1,0 +1,1226 @@
+{
+  "title": "Can You Still Trust What You Hear in the Age of AI?",
+  "slug": "can-you-still-trust-what-you-hear-in-the-age-of-ai",
+  "issueNumber": 34,
+  "publishedDate": "2026-06-19",
+  "sourceUrl": "https://www.linkedin.com/pulse/can-you-still-trust-what-hear-age-ai-erik-ilyayev-5chze",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Every week, caregivers ask me some version of the same question: “Dr. Erik, how do I keep my loved one safe when they already struggle with memory, judgment, or recognizing risk?",
+  "topics": [
+    "Ai Scams",
+    "Senior Safety",
+    "Dementia Care"
+  ],
+  "coverImage": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-1.jpg",
+      "alt": "Article content",
+      "width": 1125,
+      "height": 1500
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 813
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-9.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-10.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-11.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 824
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Every week, caregivers ask me some version of the same question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, how do I keep my loved one safe when they already struggle with memory, judgment, or recognizing risk?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually, we talk about falls."
+    },
+    {
+      "type": "paragraph",
+      "text": "We talk about wandering."
+    },
+    {
+      "type": "paragraph",
+      "text": "We talk about medication mistakes."
+    },
+    {
+      "type": "paragraph",
+      "text": "We talk about unsafe driving."
+    },
+    {
+      "type": "paragraph",
+      "text": "We talk about leaving the stove on."
+    },
+    {
+      "type": "paragraph",
+      "text": "But today, I want to talk about a different kind of risk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Digital deception."
+    },
+    {
+      "type": "paragraph",
+      "text": "AI scams."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voice cloning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fake caller IDs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deepfake video."
+    },
+    {
+      "type": "paragraph",
+      "text": "Criminals using personal information to manipulate older adults, caregivers, and families before they have time to think."
+    },
+    {
+      "type": "paragraph",
+      "text": "And I want to be very clear:"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is not science fiction anymore."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is happening now."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yesterday, I had the opportunity to meet Frank Abagnale. Many of you know his story from the movie Catch Me If You Can with Leonardo DiCaprio. Frank spent his life understanding fraud, identity theft, deception, and how criminals manipulate trust."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-1.jpg",
+      "alt": "Article content",
+      "width": 1125,
+      "height": 1500
+    },
+    {
+      "type": "paragraph",
+      "text": "And one of the biggest things I took away from that conversation is this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The old rules of trust no longer work."
+    },
+    {
+      "type": "paragraph",
+      "text": "For decades, we told families, “If it sounds like your son, it is probably your son.” “If the bank calls from the bank’s number, it is probably the bank.” “If someone knows personal details, they must be legitimate.” “If a document or video looks real, it probably is real.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not anymore."
+    },
+    {
+      "type": "paragraph",
+      "text": "AI has changed the rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "And for seniors — especially people living with dementia — this is a serious safety issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I’m a dementia care physician, a board member of the South Florida Alzheimer's Association®, and the CEO of MedBetterHealth.org — one of the organizations selected by Medicare to participate in a groundbreaking new program designed to change how America cares for people living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this issue, I want to walk you through how modern scams work, why people living with dementia and their caregivers are especially vulnerable, and the practical family protections every household should put in place now."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 813
+    },
+    {
+      "type": "heading",
+      "text": "THE OLD RULES DO NOT PROTECT US ANYMORE"
+    },
+    {
+      "type": "paragraph",
+      "text": "For most of our lives, trust was built on simple signals."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar voice."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar phone number."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar story."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar detail."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar face."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your mother called you, you believed it was your mother. If your son’s number showed up on caller ID, you believed it was your son. If a bank called from a number that looked official, most people believed the call was real."
+    },
+    {
+      "type": "paragraph",
+      "text": "That world is gone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Today, voice cloning can mimic a loved one’s voice. Caller ID can be spoofed. Personal information can be bought, stolen, aggregated, and used to make a scam feel personal. AI-generated documents, videos, and messages can look legitimate enough to fool intelligent people."
+    },
+    {
+      "type": "paragraph",
+      "text": "That last part matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "People think scams only happen to someone who is careless."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not true."
+    },
+    {
+      "type": "paragraph",
+      "text": "These scams work because they are built around emotion, urgency, and trust. They are designed to bypass the logical part of the brain and activate panic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now think about a person living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "They may already struggle with memory, judgment, sequencing, impulse control, and recognizing inconsistencies. They may already be more trusting. They may already rely on familiar voices and familiar routines to feel safe."
+    },
+    {
+      "type": "paragraph",
+      "text": "So when a scammer uses AI to sound like a grandchild, spoof a number, and create urgency, that is not a normal scam."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is a targeted attack on vulnerability."
+    },
+    {
+      "type": "heading",
+      "text": "THE ANATOMY OF A MODERN SCAM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most modern scams follow a formula."
+    },
+    {
+      "type": "paragraph",
+      "text": "First, there is synthetic familiarity."
+    },
+    {
+      "type": "paragraph",
+      "text": "That may be a cloned voice. A spoofed caller ID. A fake official identity. A message that sounds like a family member. A person who knows your child’s name, your grandchild’s school, your doctor’s office, your address, or something from social media."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second, there is manufactured urgency."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Grandma, I’m in trouble.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Don’t tell Mom.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“I need money immediately.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“I’m in jail.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“I was in an accident.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“This is confidential.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“We need to move now.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Third, there is an untraceable or hard-to-reverse payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gift cards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wire transfers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cryptocurrency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Direct bank transfers."
+    },
+    {
+      "type": "paragraph",
+      "text": "And when those three pieces come together — familiarity, urgency, and untraceable payment — the scam becomes dangerous."
+    },
+    {
+      "type": "paragraph",
+      "text": "The person does not have time to verify."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are afraid."
+    },
+    {
+      "type": "paragraph",
+      "text": "They want to protect the person they love."
+    },
+    {
+      "type": "paragraph",
+      "text": "They act before thinking."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is exactly what the scammer wants."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "THE THREE-SECOND VOICE PROBLEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most frightening parts of this new world is voice cloning."
+    },
+    {
+      "type": "paragraph",
+      "text": "A scammer may not need hours of audio."
+    },
+    {
+      "type": "paragraph",
+      "text": "A short public clip can be enough to create a voice that sounds real enough to deceive someone in the moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Think about how much audio exists online now."
+    },
+    {
+      "type": "paragraph",
+      "text": "Facebook videos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instagram reels."
+    },
+    {
+      "type": "paragraph",
+      "text": "TikToks."
+    },
+    {
+      "type": "paragraph",
+      "text": "YouTube videos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podcasts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voicemails."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public clips of children, grandchildren, parents, and professionals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now imagine a caregiver’s mother gets a phone call."
+    },
+    {
+      "type": "paragraph",
+      "text": "The voice sounds like her son."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Mom, listen. I’m in trouble. I need you to send money right now.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caller knows family details because those details are online. They know the names of children. They know where people live. They know what school someone went to. They know vacation photos, pet names, birthdays, and family relationships."
+    },
+    {
+      "type": "paragraph",
+      "text": "To a healthy adult, this may still be frightening."
+    },
+    {
+      "type": "paragraph",
+      "text": "To an older adult with cognitive impairment, it can be overwhelming."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if the voice sounds right, if the story creates panic, and if the person feels they must act immediately, the scammer has already taken control of the situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why families cannot rely on voice alone anymore."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar voice is not enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar phone number is not enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "A familiar story is not enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "We need verification."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "type": "heading",
+      "text": "IF CORPORATIONS CAN BE FOOLED, SO CAN FAMILIES"
+    },
+    {
+      "type": "paragraph",
+      "text": "There was a story shared about a corporation that believed it was on a video call with a senior financial executive."
+    },
+    {
+      "type": "paragraph",
+      "text": "The person looked real."
+    },
+    {
+      "type": "paragraph",
+      "text": "The voice sounded real."
+    },
+    {
+      "type": "paragraph",
+      "text": "The details sounded real."
+    },
+    {
+      "type": "paragraph",
+      "text": "The request sounded like it came from inside the company."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it was not the real person."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was an AI-generated impersonation. And the company transferred a massive amount of money because the fraud looked convincing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now think about that."
+    },
+    {
+      "type": "paragraph",
+      "text": "If sophisticated businesses with professional systems can be deceived, what do we think happens to a 78-year-old grandmother at home? What happens to a caregiver who is sleep-deprived and overwhelmed? What happens to a person living with dementia who already has trouble judging whether something is real?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why I do not want families to feel embarrassed when scams happen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scammers are not only guessing anymore."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are studying people."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are using personal information."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are using social engineering."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are using AI."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are creating scenarios that feel emotionally impossible to ignore."
+    },
+    {
+      "type": "paragraph",
+      "text": "That means our response has to change."
+    },
+    {
+      "type": "paragraph",
+      "text": "We do not shame the victim."
+    },
+    {
+      "type": "paragraph",
+      "text": "We build better defenses."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "SOCIAL ENGINEERING: WHY THE DETAILS SOUND SO REAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Social engineering means the scammer learns enough about a person, family, business, or medical situation to make the lie feel believable."
+    },
+    {
+      "type": "paragraph",
+      "text": "They do not have to know everything."
+    },
+    {
+      "type": "paragraph",
+      "text": "They only need to know enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "A name."
+    },
+    {
+      "type": "paragraph",
+      "text": "A birthday."
+    },
+    {
+      "type": "paragraph",
+      "text": "A family relationship."
+    },
+    {
+      "type": "paragraph",
+      "text": "A child’s school."
+    },
+    {
+      "type": "paragraph",
+      "text": "A doctor’s visit."
+    },
+    {
+      "type": "paragraph",
+      "text": "A phone number."
+    },
+    {
+      "type": "paragraph",
+      "text": "An address."
+    },
+    {
+      "type": "paragraph",
+      "text": "A pet name."
+    },
+    {
+      "type": "paragraph",
+      "text": "A recent vacation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A medication."
+    },
+    {
+      "type": "paragraph",
+      "text": "A hospital discharge."
+    },
+    {
+      "type": "paragraph",
+      "text": "A Medicare number."
+    },
+    {
+      "type": "paragraph",
+      "text": "A caregiver’s name."
+    },
+    {
+      "type": "paragraph",
+      "text": "And because so much of our information is online or exposed through data breaches, criminals can compile profiles that make them sound legitimate."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is especially dangerous in healthcare."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine someone calls and says:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Hi, is this Mr. Smith? I’m calling about your recent doctor visit on July 2nd. We see your physician ordered blood work and referred you to a specialist. We just need to verify your Medicare information.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now the older adult thinks:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“How would they know that unless this was real?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the trap."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scammer uses real details to create false trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "And once trust is created, they ask for sensitive information, banking information, Medicare information, or payment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families need to understand this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Knowing personal details does not prove someone is legitimate anymore."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "WHY SENIORS AND PEOPLE WITH DEMENTIA ARE TARGETED"
+    },
+    {
+      "type": "paragraph",
+      "text": "Older adults grew up in what I call the handshake generation."
+    },
+    {
+      "type": "paragraph",
+      "text": "A generation where trust meant something different."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone gave their word, it mattered."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone called from the bank, many people believed them."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone sounded official, many people respected that authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a family member asked for help, they helped."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is a beautiful thing."
+    },
+    {
+      "type": "paragraph",
+      "text": "But scammers weaponize it."
+    },
+    {
+      "type": "paragraph",
+      "text": "They target trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "They target isolation."
+    },
+    {
+      "type": "paragraph",
+      "text": "They target fear."
+    },
+    {
+      "type": "paragraph",
+      "text": "They target cognitive vulnerability."
+    },
+    {
+      "type": "paragraph",
+      "text": "They target financial access."
+    },
+    {
+      "type": "paragraph",
+      "text": "They target the desire to protect children and grandchildren."
+    },
+    {
+      "type": "paragraph",
+      "text": "And in dementia care, this becomes even more serious because judgment and impulse control can decline before families fully realize how much risk exists."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person living with dementia may not be able to pause and ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Does this make sense?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Should I verify this?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Why are they asking for gift cards?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Why do they need this immediately?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Why can’t I call my daughter first?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That pause is critical."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if the disease weakens that pause, the family has to build a system around the person before something happens."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "THE CAREGIVER’S DIAGNOSTIC RADAR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Caregivers need a fraud radar the same way they need a fall-risk radar."
+    },
+    {
+      "type": "paragraph",
+      "text": "In dementia care, we do not only ask, “Can Mom walk safely?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "We also have to ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can Mom safely answer phone calls from strangers?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can Dad manage text messages?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can he recognize a fake bank alert?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can she tell the difference between Medicare and a scammer pretending to be Medicare?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can he safely use Zelle, gift cards, wire transfers, or online banking?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Does she understand not to give out her Medicare number?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Does he know not to click strange links?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is not about taking away dignity."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about protecting independence through the right level of support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the right intervention is not removing the phone completely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it is call screening."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it is a trusted contact list."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it is family password protection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it is disabling certain payment apps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it is setting bank alerts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it is freezing credit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it is having a caregiver review suspicious messages."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is not to scare the person."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is to build a safer environment."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "MEDICARE SCAMS: HANG UP AND VERIFY"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want families to remember something very clearly:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicare will not randomly call you and ask for sensitive information."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone calls and says they need your Medicare number, banking information, genetic testing information, or personal details immediately, slow down."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not keep talking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not give information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not let urgency control you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hang up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Call back through an official number that you already trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is especially important because Medicare scams can sound very official. The caller may say they are from a doctor’s office, a lab, a genetic testing company, or a medical equipment provider. They may know real details. They may say your doctor requested something. They may say your benefits will be lost if you do not act now."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not assume the call is real because they know something about you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verification has to become the new habit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hang up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verify."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then act."
+    },
+    {
+      "type": "heading",
+      "text": "THE FAMILY PASSWORD"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the simplest protections every family should create is a family password."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not a password stored on a sticky note."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not something obvious like a birthday, pet name, or grandchild’s name."
+    },
+    {
+      "type": "paragraph",
+      "text": "A private phrase only the family knows."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone calls and says, “Grandma, I’m in trouble, send money,” the response should be:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What is the family password?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "If they cannot answer, the call ends."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is not rude."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "And you need to practice it before the crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell Mom."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell Dad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell Grandma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell the home health aide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell the caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell the adult children."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell the grandchildren."
+    },
+    {
+      "type": "paragraph",
+      "text": "“If anyone calls asking for money, secrecy, banking information, Medicare information, gift cards, wire transfers, cryptocurrency, or immediate action, we ask for the family password first. If they cannot give it, we hang up and call the real family member directly.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That one step can break the scam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because scams depend on panic."
+    },
+    {
+      "type": "paragraph",
+      "text": "The password creates a pause."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-9.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "type": "heading",
+      "text": "WHAT TO DO NOW"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want every caregiver reading this to take action."
+    },
+    {
+      "type": "paragraph",
+      "text": "First, create a family password."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second, freeze credit where appropriate, especially for vulnerable adults and children whose credit may go unchecked for years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Third, set up bank alerts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fourth, remove or limit risky payment methods when cognitive impairment is present."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fifth, teach your loved one that gift cards, cryptocurrency, wire transfers, and urgent payment demands are red flags."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sixth, create a rule:"
+    },
+    {
+      "type": "paragraph",
+      "text": "No financial decision under pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone says, “You must act now,” the answer is no."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seventh, protect Medicare information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not give your Medicare number to a caller who contacted you unexpectedly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eighth, reduce public exposure where possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Be thoughtful about what family information is posted online."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ninth, have a caregiver or trusted family member review suspicious calls, texts, emails, and letters."
+    },
+    {
+      "type": "paragraph",
+      "text": "And tenth, talk about this before something happens."
+    },
+    {
+      "type": "paragraph",
+      "text": "This conversation may feel uncomfortable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Have it anyway."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is better to build the defense before the crisis."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-10.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "THE RULE: VERIFY BEFORE YOU TRUST"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ultimate target is not only money."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ultimate target is trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scammers want to get inside the relationship between parent and child, grandparent and grandchild, patient and doctor, caregiver and family."
+    },
+    {
+      "type": "paragraph",
+      "text": "They want to make the person feel afraid, rushed, and alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "So the new family rule has to be simple:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verify before sharing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verify before sending."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verify before clicking."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verify before believing."
+    },
+    {
+      "type": "paragraph",
+      "text": "If something feels urgent, slow down."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone says not to tell the family, tell the family."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone asks for gift cards, stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone asks for cryptocurrency, stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone asks for wire transfers, stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone asks for Medicare information unexpectedly, stop."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a loved one calls in panic, ask the family password."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is how we protect seniors."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is how we protect people living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is how we protect caregivers from one more crisis they did not need."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-11.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 824
+    }
+  ],
+  "disclaimer": "This is education, not medical advice, legal advice, financial advice, or cybersecurity advice. If you believe a loved one has been scammed, contact the appropriate financial institution, report the incident to the proper authorities, and speak with qualified professionals. Dementia symptoms, caregiver burnout, safety concerns, and decision-making capacity should be discussed with qualified healthcare professionals.",
+  "youtubeVideo": {
+    "id": "P4dUDW1zRH8",
+    "title": "Grandparent Scams, AI Voice Cloning, and Dementia: How Families Can Stay Safe",
+    "publishedDate": "2026-06-19",
+    "description": "If you are caring for someone living with dementia, scams are not just annoying phone calls anymore. They are becoming more personal, more believable, and more dangerous. With AI voice cloning, caller ID spoofing, deepfake video, and social engineering, families can no longer rely only on what they hear, what they see, or what appears on a phone screen. In this video, I talk about what dementia caregivers need to know about modern scams targeting older adults. I also share one simple protection strategy every family should consider: a private family password. Years ago, if your son called and sounded like your son, you believed it was your son. If caller ID showed your bank, Medicare, or a doctor’s office, many people trusted it. But today, scammers can clone voices, fake phone numbers, collect personal information online, and create emergencies that feel real. They may call a parent or grandparent and say there was an accident, they need money right away, or they are in danger. They may tell the person not to call anyone else. That urgency is part of the scam. This becomes even more concerning when the person receiving the call is older, isolated, overwhelmed, or living with dementia. That is why families need a plan before the phone rings. A family password can help. If someone calls asking for money, claiming there is an emergency, or pretending to be a loved one, ask for the password. If they cannot give it, hang up and call the person back using a number you already trust. I also talk about Medicare scams, fake genetic testing calls, identity theft, debit card risk, and why caregivers should be careful before giving personal information over the phone. If you are caring for someone living with dementia in New York or Florida, MedBetterHealth may be able to support eligible families through the GUIDE Model. Learn more here: medbetterhealth.org/guide The GUIDE Model is designed to support eligible families with dementia care education, caregiver support, care coordination, access to 24/7 support, and respite support when eligible. Timestamps: 00:00 - Why this matters for dementia caregivers 00:17 - Meeting Frank Abagnale from Catch Me If You Can 00:41 - Fraud, scams, and seniors in the age of AI 01:10 - Why trust has changed 01:38 - Voice cloning, deepfakes, and fake video calls 02:04 - Caller ID spoofing and stolen personal data 02:49 - How scammers can record and clone your voice 03:19 - How a fake emergency call can fool a parent 04:13 - The urgency tactic scammers use 04:38 - AI deepfake story involving a fake CFO 05:31 - Social engineering and believable scams 06:28 - Why people living with dementia are at higher risk 06:58 - Identity theft and debit card risk 07:27 - Why children’s identities are also targeted 08:52 - The family password strategy 09:20 - Medicare fraud and fake genetic testing scams 10:37 - Medicare will not randomly call for sensitive information 10:53 - The grandparent scam 11:03 - Why scam protection matters for dementia caregivers 11:23 - How MedBetterHealth supports caregivers through GUIDE 12:07 - 24/7 support, care navigation, and respite support when eligible 13:17 - Subscribe to Straight Talk with Dr. Erik In this video, you’ll learn: - Why AI scams are harder to recognize - How voice cloning can imitate a loved one - Why caller ID cannot be trusted by itself - How scammers use urgency and emotion - Why people living with dementia may be more vulnerable - What the “grandparent scam” is - Why every family should create a private family password - How Medicare scams and fake genetic testing calls may target older adults - What caregivers can do before sending money or giving personal information This video is for educational purposes only and is not medical, legal, financial, cybersecurity, or fraud-prevention advice. If you believe you or your loved one has been targeted by fraud, contact your bank, credit card company, Medicare, local law enforcement, or the appropriate fraud-reporting agency. Subscribe to Straight Talk with Dr. Erik for more dementia care education, Alzheimer’s caregiver support, and practical strategies for families caring for someone living with dementia. Keywords: AI scams targeting seniors, voice cloning scam, dementia caregiver scam prevention, senior fraud prevention, grandparent scam, Medicare scam, AI voice cloning elderly, dementia fraud risk, protect elderly parents from scams, social engineering scams, caller ID spoofing, identity theft seniors, GUIDE Model, MedBetterHealth, Straight Talk with Dr. Erik",
+    "thumbnailUrl": "https://i.ytimg.com/vi/P4dUDW1zRH8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=P4dUDW1zRH8",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/P4dUDW1zRH8"
+  }
+}

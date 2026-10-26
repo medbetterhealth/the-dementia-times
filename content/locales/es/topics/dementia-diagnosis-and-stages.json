@@ -1,0 +1,39 @@
+{
+  "title": "Diagnóstico y etapas de la demencia",
+  "slug": "dementia-diagnosis-and-stages",
+  "description": "Cómo pueden las familias pensar sobre el envejecimiento normal, las señales de alerta de demencia, el diagnóstico, las etapas y por qué importa la detección temprana.",
+  "directAnswer": "La demencia no se diagnostica por una palabra olvidada o por un mal día. La preocupación clave es un cambio cognitivo que empieza a interferir con la independencia diaria, la seguridad, las finanzas, el manejo de medicamentos, la comunicación o el juicio. La evaluación temprana importa porque las familias pueden planificar antes, buscar causas reversibles y adaptar el cuidado a la etapa de la persona.",
+  "keyTakeaways": [
+    "El envejecimiento normal puede hacer más lenta la recuperación de recuerdos, pero la demencia afecta la función y la independencia.",
+    "El diagnóstico generalmente requiere historia clínica, evaluación funcional, pruebas cognitivas, revisión médica y a veces análisis o imágenes.",
+    "Conocer la etapa ayuda a las familias a planificar seguridad, apoyo, comunicación y necesidades del cuidador."
+  ],
+  "issueSlugs": [
+    "what-is-dementia",
+    "normal-aging-vs-dementia",
+    "how-is-dementia-actually-diagnosed",
+    "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+    "why-is-early-dementia-diagnosis-so-important-for-families",
+    "why-does-early-alzheimer-s-detection-matter-more-than-ever"
+  ],
+  "faqs": [
+    {
+      "question": "¿Dónde está la línea entre envejecimiento normal y demencia?",
+      "answer": "La línea práctica es la función. La demencia preocupa más cuando los cambios cognitivos interfieren con la vida diaria independiente, no solo cuando alguien tiene olvidos ocasionales."
+    },
+    {
+      "question": "¿Por qué importa el diagnóstico temprano?",
+      "answer": "El diagnóstico temprano les da a las familias tiempo para planificar, abordar factores reversibles, revisar medicamentos, mejorar la seguridad y acceder a apoyo antes de una crisis."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: ¿Cómo se diagnostica realmente la demencia?",
+      "url": "https://thedementiatimes.com/es/issues/how-is-dementia-actually-diagnosed/"
+    },
+    {
+      "title": "National Institute on Aging: ¿Qué es la demencia?",
+      "url": "https://www.nia.nih.gov/health/what-is-dementia"
+    }
+  ]
+}

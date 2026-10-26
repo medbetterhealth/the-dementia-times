@@ -1,0 +1,36 @@
+{
+  "title": "Pérdida auditiva y demencia",
+  "slug": "hearing-loss-and-dementia",
+  "description": "Una guía breve sobre la conexión entre pérdida auditiva no tratada, esfuerzo de comunicación, aislamiento y riesgo de demencia.",
+  "directAnswer": "La pérdida auditiva no significa que alguien desarrollará demencia con seguridad, pero la pérdida auditiva no tratada se asocia con mayor riesgo de deterioro cognitivo. Para las familias, el paso práctico es simple: tomar la audición en serio, evaluarla y reducir el esfuerzo de comunicación antes de que aumente la confusión y el aislamiento.",
+  "keyTakeaways": [
+    "La salud auditiva forma parte de las conversaciones sobre salud cerebral y cuidado de la demencia.",
+    "La confusión puede parecer peor cuando una persona no oye toda la pregunta o instrucción.",
+    "Una evaluación auditiva, apoyo con audífonos, menos ruido de fondo y respaldo por escrito pueden hacer el cuidado más seguro y menos frustrante."
+  ],
+  "issueSlugs": [
+    "is-hearing-loss-linked-to-dementia",
+    "normal-aging-vs-dementia",
+    "how-is-dementia-actually-diagnosed"
+  ],
+  "faqs": [
+    {
+      "question": "¿La pérdida auditiva causa demencia?",
+      "answer": "La forma más segura de decirlo es que la pérdida auditiva está asociada con un mayor riesgo de demencia. No es una garantía y no reemplaza una evaluación médica."
+    },
+    {
+      "question": "¿Los audífonos pueden ayudar con el riesgo de demencia?",
+      "answer": "Los audífonos pueden reducir el esfuerzo de comunicación y el aislamiento en personas con pérdida auditiva. Las familias deben hablar sobre pruebas y opciones de tratamiento con un profesional auditivo calificado."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: ¿La pérdida auditiva está vinculada con la demencia?",
+      "url": "https://thedementiatimes.com/es/issues/is-hearing-loss-linked-to-dementia/"
+    },
+    {
+      "title": "National Institute on Aging: Investigación sobre audífonos y deterioro cognitivo",
+      "url": "https://www.nia.nih.gov/news/hearing-aids-may-slow-cognitive-decline-older-adults-hearing-loss-and-high-risk-dementia"
+    }
+  ]
+}

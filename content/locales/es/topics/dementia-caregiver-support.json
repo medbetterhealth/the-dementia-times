@@ -1,0 +1,39 @@
+{
+  "title": "Apoyo para cuidadores de personas con demencia",
+  "slug": "dementia-caregiver-support",
+  "description": "Una guía práctica sobre la sobrecarga del cuidador, los grupos de apoyo, el respiro, el apoyo en el hogar y el cuidado integral de la familia en la demencia.",
+  "directAnswer": "El cuidado de la demencia no se trata solo del paciente. Los cuidadores necesitan educación, apoyo emocional, coordinación de cuidados, respiro y un plan para cuando la enfermedad cambie. Pedir apoyo no es fallar; es parte de mantener estable el sistema de cuidado en casa.",
+  "keyTakeaways": [
+    "El estrés del cuidador es un riesgo clínico, no solo una molestia personal.",
+    "Los grupos de apoyo, el respiro, la navegación y la planificación estructurada del cuidado pueden ayudar a las familias a mantenerse estables por más tiempo.",
+    "Un buen cuidado de la demencia incluye a la persona que vive con demencia y a quienes cargan con el día a día."
+  ],
+  "issueSlugs": [
+    "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia",
+    "the-power-of-caregiver-support-groups",
+    "what-support-do-dementia-caregivers-actually-need-at-home",
+    "why-can-t-dementia-care-focus-only-on-the-patient",
+    "the-one-resource-most-dementia-caregivers-overlook-and-it-s-not-a-medication",
+    "why-does-respite-care-sometimes-fail-for-dementia-caregivers"
+  ],
+  "faqs": [
+    {
+      "question": "¿Es normal sentirse sobrecargado al cuidar a alguien con demencia?",
+      "answer": "Es común, pero no debe ignorarse. La sobrecarga es una señal de que el sistema de cuidado necesita más apoyo, estructura o alivio."
+    },
+    {
+      "question": "¿Qué apoyo necesitan los cuidadores de personas con demencia en casa?",
+      "answer": "Muchas familias necesitan educación, navegación, planificación de seguridad, apoyo para conductas, respiro y ayuda para coordinar recursos médicos y comunitarios."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: ¿Qué apoyo necesitan realmente en casa los cuidadores de personas con demencia?",
+      "url": "https://thedementiatimes.com/es/issues/what-support-do-dementia-caregivers-actually-need-at-home/"
+    },
+    {
+      "title": "Centers for Disease Control and Prevention: Cuidar a una persona con enfermedad de Alzheimer o una demencia relacionada",
+      "url": "https://www.cdc.gov/aging/caregiving/alzheimer.htm"
+    }
+  ]
+}

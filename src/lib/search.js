@@ -1,0 +1,416 @@
+export const SEARCH_GUIDES = [
+  {
+    id: "basics",
+    label: "Dementia basics",
+    description: "Start here for plain-language explanations of dementia, warning signs, diagnosis, and stages.",
+    defaultQuery: "what is dementia normal aging diagnosis stages",
+    category: "basics",
+    topic: "Dementia basics",
+    topicSlug: "dementia-diagnosis-and-stages",
+    terms: {
+      en: ["memory", "forgetful", "normal aging", "diagnosis", "stage", "what is dementia"],
+      es: ["memoria", "olvidos", "envejecimiento normal", "diagnóstico", "etapas", "demencia"],
+      ru: ["память", "забывчивость", "нормальное старение", "диагноз", "стадии", "деменция"]
+    },
+    commonQuestions: [
+      { question: "What is dementia?", query: "what is dementia", answerSlug: "what-is-dementia" },
+      { question: "Is this normal aging or dementia?", query: "normal aging dementia", answerSlug: "normal-aging-vs-dementia" },
+      { question: "What stage of dementia is my loved one in?", query: "stage of dementia", answerSlug: "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next" }
+    ],
+    issueSlugs: [
+      "what-is-dementia",
+      "is-hearing-loss-linked-to-dementia",
+      "normal-aging-vs-dementia",
+      "how-is-dementia-actually-diagnosed",
+      "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+      "why-is-early-dementia-diagnosis-so-important-for-families",
+      "why-does-early-alzheimer-s-detection-matter-more-than-ever"
+    ]
+  },
+  {
+    id: "behavior",
+    label: "Behavior problems",
+    description: "Use this for agitation, aggression, accusations, hallucinations, wandering, confusion, or refusing care.",
+    defaultQuery: "behavior agitation aggression refusal hallucination wandering confusion",
+    category: "behavior",
+    topic: "Behavior changes",
+    topicSlug: "dementia-behaviors-and-communication",
+    terms: {
+      en: ["behavior", "behaviour", "agitation", "aggressive", "yelling", "hallucination", "delusion", "confusion", "wandering", "refusal"],
+      es: ["conducta", "comportamiento", "agitación", "agresivo", "gritos", "alucinación", "delirio", "confusión", "deambular", "rechazo"],
+      ru: ["поведение", "возбуждение", "агрессия", "крики", "галлюцинации", "бред", "спутанность", "бродяжничество", "отказ"]
+    },
+    commonQuestions: [
+      { question: "Why is Mom suddenly aggressive?", query: "mom aggressive agitation behavior changed", answerSlug: "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them" },
+      { question: "Why is my loved one accusing me of stealing?", query: "accusing stealing paranoia money", answerSlug: "why-is-my-loved-one-with-dementia-accusing-me-of-stealing" },
+      { question: "What should we do when behavior changes?", query: "dementia behavior changed what to do", answerSlug: "why-do-dementia-behaviors-happen-and-what-should-families-do" }
+    ],
+    issueSlugs: [
+      "why-do-dementia-behaviors-happen-and-what-should-families-do",
+      "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them",
+      "why-is-my-loved-one-with-dementia-accusing-me-of-stealing",
+      "delusions-and-hallucinations",
+      "wandering-and-elopement",
+      "why-did-my-loved-one-with-dementia-suddenly-become-confused",
+      "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it",
+      "what-my-grandmother-taught-me-about-dementia-care",
+      "should-medication-be-the-first-answer-for-dementia-agitation",
+      "why-is-my-l-o-accusing-me-of-stealing",
+      "why-does-bathing-become-a-battle-in-dementia"
+    ]
+  },
+  {
+    id: "refusing-help",
+    label: "Refusing help",
+    description: "Find articles for showers, medications, driving limits, home care, and the dementia blind spot.",
+    defaultQuery: "refuses help shower medication driving anosognosia",
+    category: "refusing-help",
+    topic: "Refusing care",
+    topicSlug: "dementia-behaviors-and-communication",
+    terms: {
+      en: ["refuse", "refuses", "won't", "wont", "resist", "help", "anosognosia", "shower", "medication", "driving"],
+      es: ["rechaza", "niega", "resiste", "ayuda", "anosognosia", "ducha", "baño", "medicación", "conducir"],
+      ru: ["отказывается", "отказ", "сопротивляется", "помощь", "анозогнозия", "душ", "купание", "лекарства", "вождение"]
+    },
+    commonQuestions: [
+      { question: "Why does my loved one refuse help?", query: "refuses help thinks nothing wrong", answerSlug: "why-do-dementia-patients-refuse-help" },
+      { question: "How do I get Mom to shower?", query: "mom shower bath hygiene refuses", answerSlug: "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it" },
+      { question: "What if they will not take medication?", query: "refuses medication pills", answerSlug: "why-won-t-my-loved-one-with-dementia-take-their-medication" }
+    ],
+    issueSlugs: [
+      "why-do-dementia-patients-refuse-help",
+      "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it",
+      "why-won-t-my-loved-one-with-dementia-take-their-medication",
+      "when-should-someone-with-dementia-stop-driving",
+      "why-does-bathing-become-a-battle-in-dementia"
+    ]
+  },
+  {
+    id: "sleep-sundowning",
+    label: "Sleep and sundowning",
+    description: "Use this for nighttime wakefulness, late-day agitation, sundowning, and routine problems.",
+    defaultQuery: "sleep awake all night sundowning routine 4pm",
+    category: "sleep-sundowning",
+    topic: "Sleep and sundowning",
+    topicSlug: "sundowning-in-dementia",
+    terms: {
+      en: ["sleep", "night", "nighttime", "awake", "sundowning", "evening", "routine", "4pm"],
+      es: ["sueño", "noche", "despierto", "insomnio", "atardecer", "rutina"],
+      ru: ["сон", "ночь", "бессонница", "не спит", "вечер", "синдром заката", "рутина"]
+    },
+    commonQuestions: [
+      { question: "Why is my loved one awake all night?", query: "awake all night sleep", answerSlug: "why-is-my-loved-one-awake-all-night-the-biological-reason-dementia-destroys-sleep" },
+      { question: "What is sundowning?", query: "sundowning evening agitation", answerSlug: "sundowning" },
+      { question: "Why does routine matter so much?", query: "routine dementia care", answerSlug: "why-does-routine-matter-so-much-in-dementia-care" }
+    ],
+    issueSlugs: [
+      "sundowning",
+      "why-is-my-loved-one-awake-all-night-the-biological-reason-dementia-destroys-sleep",
+      "the-4pm-reset-preventing-the-dementia-sundowning-spiral-before-it-starts",
+      "why-does-routine-matter-so-much-in-dementia-care"
+    ]
+  },
+  {
+    id: "diagnosis-planning",
+    label: "Diagnosis and planning",
+    description: "Use this for diagnosis, stages, family meetings, hospital transitions, and care planning.",
+    defaultQuery: "diagnosis planning stages family hospital discharge",
+    category: "diagnosis-planning",
+    topic: "Diagnosis and planning",
+    topicSlug: "dementia-diagnosis-and-stages",
+    terms: {
+      en: ["diagnosis", "stage", "planning", "family meeting", "hospital", "discharge", "early detection"],
+      es: ["diagnóstico", "etapa", "planificación", "familia", "hospital", "alta", "detección temprana"],
+      ru: ["диагноз", "стадия", "планирование", "семья", "больница", "выписка", "раннее выявление"]
+    },
+    commonQuestions: [
+      { question: "How is dementia actually diagnosed?", query: "diagnosis dementia", answerSlug: "how-is-dementia-actually-diagnosed" },
+      { question: "What should families plan before a crisis?", query: "families wait too long to plan", answerSlug: "what-happens-if-dementia-families-wait-too-long-to-plan" },
+      { question: "Why is early diagnosis important?", query: "early dementia diagnosis families", answerSlug: "why-is-early-dementia-diagnosis-so-important-for-families" }
+    ],
+    issueSlugs: [
+      "how-is-dementia-actually-diagnosed",
+      "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+      "what-happens-if-dementia-families-wait-too-long-to-plan",
+      "why-does-dementia-care-get-harder-after-a-hospital-stay",
+      "why-do-dementia-care-decisions-tear-families-apart",
+      "why-does-alzheimer-s-advocacy-matter-for-families-living-with-dementia",
+      "how-do-we-keep-the-patient-at-the-center-when-care-conversations-get-difficult",
+      "why-is-early-dementia-diagnosis-so-important-for-families",
+      "why-does-early-alzheimer-s-detection-matter-more-than-ever"
+    ]
+  },
+  {
+    id: "medication-treatment",
+    label: "Medication and treatment",
+    description: "Find articles on dementia medications, agitation medication, and newer Alzheimer’s treatments.",
+    defaultQuery: "medication treatment pills agitation antipsychotic alzheimer",
+    category: "medication-treatment",
+    topic: "Medication and treatment",
+    topicSlug: "dementia-medications-and-treatment",
+    terms: {
+      en: ["medication", "medicine", "meds", "pills", "treatment", "agitation", "antipsychotic", "Alzheimer"],
+      es: ["medicación", "medicina", "pastillas", "tratamiento", "agitación", "antipsicótico", "Alzheimer"],
+      ru: ["лекарства", "таблетки", "лечение", "возбуждение", "антипсихотик", "Альцгеймер"]
+    },
+    commonQuestions: [
+      { question: "What dementia medications should families understand?", query: "dementia medications", answerSlug: "dementia-medications" },
+      { question: "Should medication be first for agitation?", query: "agitation medication first answer", answerSlug: "should-medication-be-the-first-answer-for-dementia-agitation" },
+      { question: "Are there treatments that slow Alzheimer’s disease?", query: "new treatments slow alzheimer", answerSlug: "are-there-any-new-treatments-that-can-actually-slow-alzheimer-s-disease" }
+    ],
+    issueSlugs: [
+      "dementia-medications",
+      "should-medication-be-the-first-answer-for-dementia-agitation",
+      "are-there-any-new-treatments-that-can-actually-slow-alzheimer-s-disease",
+      "why-is-dementia-care-more-than-medication",
+      "why-won-t-my-loved-one-with-dementia-take-their-medication"
+    ]
+  },
+  {
+    id: "food-eating",
+    label: "Food and eating",
+    description: "Use this for eating changes, swallowing, food pocketing, nutrition, and dementia risk.",
+    defaultQuery: "eating food swallowing nutrition pocketing aspiration",
+    category: "food-eating",
+    topic: "Food and eating",
+    terms: {
+      en: ["eat", "eating", "food", "meal", "swallowing", "pocketing", "nutrition", "aspiration"],
+      es: ["comer", "comida", "alimento", "tragar", "bolsillo", "nutrición", "aspiración"],
+      ru: ["еда", "есть", "питание", "глотание", "пища во рту", "аспирация"]
+    },
+    commonQuestions: [
+      { question: "Why does eating become hard in dementia?", query: "eating swallowing food pocketing", answerSlug: "why-does-eating-become-so-hard-in-dementia" },
+      { question: "Can food affect dementia risk?", query: "food nutrition dementia risk", answerSlug: "can-what-you-eat-affect-your-dementia-risk" }
+    ],
+    issueSlugs: ["why-does-eating-become-so-hard-in-dementia", "can-what-you-eat-affect-your-dementia-risk"]
+  },
+  {
+    id: "caregiver-support",
+    label: "Caregiver support",
+    description: "Use this for caregiver overwhelm, respite, support groups, home support, and whole-family care.",
+    defaultQuery: "caregiver support overwhelmed respite home care guide",
+    category: "caregiver-support",
+    topic: "Caregiver support",
+    topicSlug: "dementia-caregiver-support",
+    terms: {
+      en: ["caregiver", "overwhelmed", "burnout", "respite", "support", "home care", "guide"],
+      es: ["cuidador", "agotamiento", "sobrecarga", "respiro", "apoyo", "cuidado en casa"],
+      ru: ["уход", "опекун", "выгорание", "перерыв", "поддержка", "уход на дому"]
+    },
+    commonQuestions: [
+      { question: "Is it normal to feel overwhelmed?", query: "caregiver overwhelmed burnout", answerSlug: "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia" },
+      { question: "What support do caregivers need at home?", query: "caregiver support at home", answerSlug: "what-support-do-dementia-caregivers-actually-need-at-home" },
+      { question: "Why does respite sometimes fail?", query: "respite care fails caregiver", answerSlug: "why-does-respite-care-sometimes-fail-for-dementia-caregivers" }
+    ],
+    issueSlugs: [
+      "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia",
+      "what-support-do-dementia-caregivers-actually-need-at-home",
+      "why-does-respite-care-sometimes-fail-for-dementia-caregivers",
+      "the-power-of-caregiver-support-groups",
+      "the-one-resource-most-dementia-caregivers-overlook-and-it-s-not-a-medication",
+      "what-does-it-really-take-to-fight-alzheimer-s-in-south-florida",
+      "what-my-grandmother-taught-me-about-dementia-care",
+      "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+      "why-does-alzheimer-s-advocacy-matter-for-families-living-with-dementia",
+      "how-do-we-keep-the-patient-at-the-center-when-care-conversations-get-difficult",
+      "why-can-t-dementia-care-focus-only-on-the-patient",
+      "why-does-healthcare-innovation-fail-before-it-reaches-dementia-families",
+      "why-do-core-values-matter-in-dementia-care",
+      "why-is-dementia-care-more-than-medication"
+    ]
+  },
+  {
+    id: "safety",
+    label: "Safety, scams, and driving",
+    description: "Use this for wandering, driving, scams, unsafe transitions, and practical safety decisions.",
+    defaultQuery: "safety wandering driving scams hospital",
+    category: "safety",
+    topic: "Safety",
+    terms: {
+      en: ["safety", "wandering", "driving", "scam", "fraud", "hospital", "unsafe"],
+      es: ["seguridad", "deambular", "conducir", "estafa", "fraude", "hospital", "inseguro"],
+      ru: ["безопасность", "бродяжничество", "вождение", "мошенничество", "больница", "опасно"]
+    },
+    commonQuestions: [
+      { question: "When should someone stop driving?", query: "stop driving dementia", answerSlug: "when-should-someone-with-dementia-stop-driving" },
+      { question: "What should we do about wandering?", query: "wandering elopement getting lost", answerSlug: "wandering-and-elopement" },
+      { question: "Can AI voice scams target families?", query: "ai voice scam fraud", answerSlug: "can-you-still-trust-what-you-hear-in-the-age-of-ai" }
+    ],
+    issueSlugs: ["when-should-someone-with-dementia-stop-driving", "wandering-and-elopement", "can-you-still-trust-what-you-hear-in-the-age-of-ai"]
+  }
+];
+
+const STOP_WORDS = new Set([
+  "a",
+  "about",
+  "and",
+  "are",
+  "care",
+  "dementia",
+  "do",
+  "does",
+  "for",
+  "get",
+  "help",
+  "how",
+  "i",
+  "is",
+  "it",
+  "me",
+  "my",
+  "of",
+  "on",
+  "or",
+  "someone",
+  "the",
+  "their",
+  "them",
+  "to",
+  "what",
+  "when",
+  "where",
+  "why",
+  "with",
+  "you",
+  "your"
+]);
+
+const SEARCH_SYNONYMS = {
+  "baño": ["baño", "bano", "bañar", "bañarse", "ducha", "ducharse", "shower", "bath", "hygiene", "душ", "купание"],
+  bath: ["bath", "bathing", "shower", "hygiene", "wash", "ducha", "baño", "душ"],
+  bathing: ["bath", "bathing", "shower", "hygiene", "wash", "ducha", "ducharse", "baño", "bañar", "bañarse", "душ"],
+  behavior: ["behavior", "behaviour", "conducta", "comportamiento", "поведение", "agitation", "aggressive", "refusal"],
+  behaviour: ["behavior", "behaviour", "conducta", "comportamiento", "поведение", "agitation", "aggressive", "refusal"],
+  ducha: ["ducha", "ducharse", "baño", "bano", "bañar", "bañarse", "shower", "bath", "hygiene", "душ", "купание"],
+  medication: ["medication", "medicine", "meds", "pills", "medicación", "pastillas", "лекарства", "таблетки"],
+  refuse: ["refuse", "refuses", "refusal", "resist", "won't", "wont", "rechaza", "отказывается", "отказ"],
+  refuses: ["refuse", "refuses", "refusal", "resist", "won't", "wont", "rechaza", "отказывается", "отказ"],
+  shower: ["bath", "bathing", "shower", "hygiene", "wash", "ducha", "ducharse", "baño", "bañar", "bañarse", "душ", "купание"],
+  sleep: ["night", "nighttime", "sleep", "awake", "sundowning", "sueño", "сон", "ночь"],
+  stealing: ["stealing", "stole", "accuse", "accusing", "accusation", "paranoia", "robo", "украл", "обвиняет"],
+  "душ": ["душ", "купание", "гигиена", "shower", "bath", "ducha", "baño"],
+  "лекарства": ["лекарства", "таблетки", "medication", "medicine", "pills", "medicación"],
+  "сон": ["сон", "ночь", "sleep", "night", "sueño"],
+  "поведение": ["поведение", "behavior", "behaviour", "conducta", "comportamiento"]
+};
+
+export function normalizeSearchValue(value) {
+  return String(value || "")
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/['’]/g, "")
+    .replace(/[^\p{Letter}\p{Number}]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+export function queryTokens(value) {
+  return normalizeSearchValue(value)
+    .split(" ")
+    .map((token) => token.trim())
+    .filter((token) => token.length > 1 && !STOP_WORDS.has(token));
+}
+
+export function tokenMatchesHaystack(token, haystack) {
+  const candidates = SEARCH_SYNONYMS[token] || [token];
+  return candidates.some((candidate) => {
+    const normalized = normalizeSearchValue(candidate);
+    if (!normalized) return false;
+    if (haystack.includes(normalized)) return true;
+    if (normalized.endsWith("s") && haystack.includes(normalized.slice(0, -1))) return true;
+    if (normalized.endsWith("ing") && haystack.includes(normalized.slice(0, -3))) return true;
+    return false;
+  });
+}
+
+export function searchGuideById(guides = SEARCH_GUIDES) {
+  return new Map(guides.map((guide) => [guide.id, guide]));
+}
+
+export function searchGuideForIssue(issue, guides = SEARCH_GUIDES) {
+  return guides.filter((guide) => (guide.issueSlugs ?? []).includes(issue.slug));
+}
+
+export function searchCategoriesForIssue(issue, guides = SEARCH_GUIDES) {
+  return [...new Set(searchGuideForIssue(issue, guides).map((guide) => guide.category || guide.id))];
+}
+
+function sectionText(section) {
+  if (section.text) return section.text;
+  if (Array.isArray(section.items)) return section.items.join(" ");
+  if (section.alt) return section.alt;
+  return "";
+}
+
+export function issueSearchText(issue, guides = SEARCH_GUIDES) {
+  const guideText = searchGuideForIssue(issue, guides)
+    .map((guide) => [
+      guide.label,
+      guide.description,
+      guide.defaultQuery,
+      ...(guide.commonQuestions ?? []).flatMap((question) => [question.question, question.query]),
+      ...Object.values(guide.terms ?? {}).flat()
+    ].join(" "))
+    .join(" ");
+  return normalizeSearchValue(
+    [
+      issue.title,
+      issue.excerpt,
+      (issue.topics ?? []).join(" "),
+      guideText,
+      (issue.sections ?? []).map(sectionText).join(" ")
+    ].join(" ")
+  );
+}
+
+export function issueSectionSnippets(issue, guides = SEARCH_GUIDES) {
+  let currentHeading = "";
+  const snippets = [];
+  for (const section of issue.sections ?? []) {
+    if (section.type === "heading") {
+      currentHeading = section.text || currentHeading;
+      continue;
+    }
+    const text = sectionText(section).replace(/\s+/g, " ").trim();
+    if (!text) continue;
+    snippets.push({
+      heading: currentHeading || issue.title,
+      text,
+      searchText: normalizeSearchValue([currentHeading, text].join(" "))
+    });
+  }
+  if (snippets.length === 0) {
+    snippets.push({ heading: issue.title, text: issue.excerpt, searchText: issueSearchText(issue, guides) });
+  }
+  return snippets;
+}
+
+export function bestSnippetForIssue(issue, query = "", guides = SEARCH_GUIDES) {
+  const tokens = queryTokens(query || issue.title);
+  const snippets = issueSectionSnippets(issue, guides);
+  let best = snippets[0];
+  let bestScore = -1;
+  for (const snippet of snippets) {
+    const score = tokens.reduce((total, token) => total + (tokenMatchesHaystack(token, snippet.searchText) ? 1 : 0), 0);
+    if (score > bestScore) {
+      best = snippet;
+      bestScore = score;
+    }
+  }
+  return best;
+}
+
+export function buildSearchIndex(issues = [], guides = SEARCH_GUIDES) {
+  return issues.map((issue) => ({
+    slug: issue.slug,
+    title: issue.title,
+    date: issue.publishedDate,
+    issueNumber: issue.issueNumber ?? "",
+    excerpt: issue.excerpt,
+    coverImage: issue.coverImage,
+    topics: issue.topics ?? [],
+    categories: searchCategoriesForIssue(issue, guides),
+    snippets: issueSectionSnippets(issue, guides).map(({ heading, text }) => ({ heading, text }))
+  }));
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Conductas y comunicación en la demencia",
+  "slug": "dementia-behaviors-and-communication",
+  "description": "Una guía para cuidadores sobre rechazo, acusaciones, deambulación, delirios, alucinaciones, agitación y cambios en la comunicación durante la demencia.",
+  "directAnswer": "Las conductas en la demencia por lo general no son aleatorias. A menudo comunican miedo, dolor, confusión, necesidades no satisfechas, sobreestimulación, pérdida de control o un desajuste entre el entorno y el cerebro cambiante de la persona. El primer paso es preguntar qué puede estar comunicando la conducta antes de intentar corregirla.",
+  "keyTakeaways": [
+    "Discutir con la realidad de la demencia suele aumentar la angustia.",
+    "Un cambio conductual repentino debe llevar a buscar causas médicas como infección, dolor, deshidratación, cambios de medicamentos, alteración del sueño o pérdida sensorial.",
+    "La validación, la redirección, la rutina, los ajustes del entorno y el tono del cuidador pueden ser tan importantes como los medicamentos."
+  ],
+  "issueSlugs": [
+    "why-do-dementia-behaviors-happen-and-what-should-families-do",
+    "why-do-dementia-patients-refuse-help",
+    "why-is-my-loved-one-with-dementia-accusing-me-of-stealing",
+    "delusions-and-hallucinations",
+    "wandering-and-elopement",
+    "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it",
+    "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them"
+  ],
+  "faqs": [
+    {
+      "question": "¿Por qué una persona con demencia rechaza la ayuda?",
+      "answer": "El rechazo puede venir del miedo, la falta de conciencia de la enfermedad, la vergüenza, el dolor, la confusión o sentirse apurada. La respuesta debe reducir la sensación de amenaza y preservar la dignidad."
+    },
+    {
+      "question": "¿Qué deben hacer las familias cuando aparecen acusaciones o alucinaciones de repente?",
+      "answer": "Un cambio repentino debe motivar una revisión médica para buscar desencadenantes reversibles antes de asumir que la demencia simplemente ha avanzado."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: ¿Por qué ocurren las conductas en la demencia?",
+      "url": "https://thedementiatimes.com/es/issues/why-do-dementia-behaviors-happen-and-what-should-families-do/"
+    },
+    {
+      "title": "National Institute on Aging: Manejo de cambios de personalidad y conducta",
+      "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/managing-personality-and-behavior-changes-alzheimers"
+    }
+  ]
+}

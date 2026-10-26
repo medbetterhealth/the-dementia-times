@@ -1,0 +1,867 @@
+{
+  "title": "How Is Dementia Actually Diagnosed?",
+  "slug": "how-is-dementia-actually-diagnosed",
+  "issueNumber": 19,
+  "publishedDate": "2026-05-27",
+  "sourceUrl": "https://www.linkedin.com/pulse/how-dementia-actually-diagnosed-erik-ilyayev-dmpxe",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Every week, caregivers ask me some version of the same question: “Dr. Erik, how do we actually know if this is dementia?” And it is a fair question.",
+  "topics": [
+    "Dementia Diagnostic Pathway"
+  ],
+  "coverImage": "/assets/issues/how-is-dementia-actually-diagnosed/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 834
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 837
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 838
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-9.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-10.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 837
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-11.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-12.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 838
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Every week, caregivers ask me some version of the same question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, how do we actually know if this is dementia?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And it is a fair question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe mom is forgetting more than usual. Maybe dad is repeating himself. Maybe your spouse is misplacing things, getting confused with bills, or acting differently than they used to. And then you go to the doctor and hear something vague like, “It might be dementia,” or “This could just be normal aging,” or “Let’s wait and see.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That can leave families in a very difficult place."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because if you do not know what you are dealing with, you do not know what to plan for. You do not know what questions to ask. You do not know whether this is mild cognitive impairment, dementia, depression, delirium, a medication issue, a thyroid issue, a vitamin deficiency, or something else entirely."
+    },
+    {
+      "type": "paragraph",
+      "text": "And here is what makes this even more interesting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Alzheimer’s Association has reported that 40% of healthcare providers say they feel uncomfortable or lack the proper tools to make a dementia diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Think about that."
+    },
+    {
+      "type": "paragraph",
+      "text": "Four out of ten providers say they are not fully comfortable with the process."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you are a caregiver and you feel overwhelmed by the diagnostic process, you are not alone. The pathway is complex. But once you understand what the steps are, it becomes much easier to advocate for your loved one."
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I’m a dementia care physician, a board member of the South Florida Alzheimer's Association®, and the CEO of MedBetterHealth.org — one of the organizations selected by Medicare to participate in a groundbreaking new program designed to change how America cares for people living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this issue, I want to walk you through how dementia is actually diagnosed, what tests are commonly used, what those tests do and do not prove, and why a diagnosis is only the beginning of the caregiving journey."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "type": "heading",
+      "text": "THE DIAGNOSTIC PATHWAY IS NOT ONE TEST"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the biggest misconceptions families have is that dementia is diagnosed with one test."
+    },
+    {
+      "type": "paragraph",
+      "text": "They think there is one scan, one blood test, one memory test, one appointment, and then the answer is clear."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not how it works."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia is diagnosed through a clinical pathway. It is a process. The provider has to gather information from multiple places and put the picture together."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the presentation, I broke it down into six major stages:"
+    },
+    {
+      "type": "paragraph",
+      "text": "History and physical exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cognitive evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Functional assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Laboratory work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rule-out exclusions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each piece matters. And if one piece is missing, the diagnosis can become unclear or incomplete."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why families sometimes leave the doctor’s office confused. The doctor may have done a memory test, but no functional assessment. Or ordered labs, but no imaging. Or said “probably dementia,” but did not clearly explain what was ruled out."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a caregiver, you do not need to become a neurologist. But you do need to understand the roadmap so you can ask better questions."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "type": "heading",
+      "text": "STEP ONE: HISTORY AND PHYSICAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first step is a history and physical exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where the provider asks questions and establishes the baseline."
+    },
+    {
+      "type": "paragraph",
+      "text": "When did the memory changes start? Were they gradual or sudden? Is the person getting lost? Are they repeating themselves? Are they missing bills? Are they forgetting medications? Are there mood changes? Sleep changes? Falls? New confusion? New medications? Alcohol use? Hearing or vision problems?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This part matters because dementia usually does not appear out of nowhere overnight."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the change was sudden, we need to think about other causes first."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delirium. Infection. Medication side effects. Electrolyte problems. Dehydration. Pain. Hospitalization. Depression."
+    },
+    {
+      "type": "paragraph",
+      "text": "A sudden change in thinking is not automatically dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why the history matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The physical exam also matters because cognitive symptoms do not happen in isolation. The brain is part of the body. If the body is sick, the brain may look confused. If there is pain, infection, poor sleep, or a medication problem, the person may look much worse cognitively than their true baseline."
+    },
+    {
+      "type": "paragraph",
+      "text": "So the first step is not jumping to a label."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first step is understanding the story."
+    },
+    {
+      "type": "heading",
+      "text": "STEP TWO: COGNITIVE TESTING"
+    },
+    {
+      "type": "paragraph",
+      "text": "The next step is cognitive evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "One common tool used in clinical settings is the MoCA test, which stands for Montreal Cognitive Assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now listen carefully, because this is where many families get confused."
+    },
+    {
+      "type": "paragraph",
+      "text": "The MoCA test does not diagnose dementia by itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let me say that again."
+    },
+    {
+      "type": "paragraph",
+      "text": "The MoCA test alone does not diagnose dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "The MoCA helps identify whether cognitive impairment is present and gives a sense of severity. It can help show whether someone’s cognition falls into a mild, moderate, or severe range. But it does not answer the full diagnostic question by itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia is not only memory loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia is cognitive decline that interferes with daily function."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the key distinction."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if someone does poorly on a memory test, that tells us something important. But we still have to ask: how is this affecting real life?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they manage medications? Can they pay bills? Can they cook safely? Can they bathe, dress, eat, and function day to day? Are they making unsafe decisions? Are they losing independence?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why cognitive testing is one part of the pathway, not the entire diagnosis."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "type": "heading",
+      "text": "STEP THREE: FUNCTIONAL STATUS"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is one of the most important parts of the evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Functional status."
+    },
+    {
+      "type": "paragraph",
+      "text": "In plain English, we are asking: how is the person functioning in everyday life?"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two categories we commonly talk about."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first is ADLs — activities of daily living. These are the basic physical survival tasks: bathing, showering, eating, dressing, toileting, transferring, and personal care."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second is IADLs — instrumental activities of daily living. These are more complex executive-function tasks: managing a checkbook, paying bills, managing medications, shopping, cooking, transportation, using the phone, and organizing daily responsibilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why does this matter?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because cognitive decline becomes dementia when it starts interfering with functional independence."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a person has memory loss but can still independently manage their ADLs and IADLs, that may point more toward mild cognitive impairment."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if memory loss is now interfering with daily life — bills are unpaid, medications are missed, bathing is neglected, food is spoiled in the refrigerator, appointments are forgotten, the stove is left on — now we are in a very different category."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why families have such an important role in diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The person living with memory loss may say, “I’m fine.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And sometimes they truly believe that."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the caregiver sees the real-world changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver sees the bills. The missed medications. The repeated calls. The confusion in the grocery store. The home becoming unsafe. The personal care starting to slip."
+    },
+    {
+      "type": "paragraph",
+      "text": "That information matters clinically."
+    },
+    {
+      "type": "paragraph",
+      "text": "So when you go to the appointment, do not only say, “Mom is forgetful.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Say what has changed functionally."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is what helps the provider understand the severity."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 834
+    },
+    {
+      "type": "heading",
+      "text": "MILD COGNITIVE IMPAIRMENT IS NOT THE SAME AS DEMENTIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "This distinction is very important."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mild cognitive impairment, or MCI, means there is measurable cognitive decline, but the person’s functional status remains largely intact. They may be more forgetful. They may need more reminders. They may struggle more than before. But they can still independently manage daily life."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia means cognitive decline plus functional impairment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Memory loss alone does not automatically equal dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "This matters because families sometimes hear “cognitive impairment” and immediately think, “So this is dementia.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not necessarily."
+    },
+    {
+      "type": "paragraph",
+      "text": "The provider has to look at cognition and function together."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why the diagnosis requires more than a memory screen. It requires understanding what is happening at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "And this is also why early evaluation matters. If someone is in the MCI stage, that does not mean we ignore it. It means we monitor it carefully, look for reversible contributors, optimize health, and plan appropriately."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is not panic."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is clarity."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "type": "heading",
+      "text": "STEP FOUR: LABS AND REVERSIBLE CAUSES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before a provider confirms dementia, they need to look for causes that may be treatable or reversible."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the part families often do not know to ask about."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why do we check labs?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because not every memory problem is dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thyroid problems can affect cognition. Vitamin B12 deficiency can affect memory and thinking. Anemia, electrolyte issues, kidney or liver problems, inflammation, infection, and other medical conditions can all contribute to cognitive symptoms."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the video, I mentioned labs such as TSH, B12, CBC, CMP, homocysteine, ESR, and CRP as examples of tests that may be part of the workup."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, your clinician decides which tests are appropriate based on the person’s situation. But the principle is simple:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before we label someone with dementia, we need to make sure we are not missing something treatable."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why this step is so important."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone has hypothyroidism and that is contributing to cognitive symptoms, treating the thyroid problem may improve the picture."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone has a vitamin deficiency, correcting it may help."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone has an infection, dehydration, medication side effects, or an electrolyte issue, the treatment path is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "So again, the diagnosis is not just about proving dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also about ruling out what is not dementia."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 837
+    },
+    {
+      "type": "heading",
+      "text": "STEP FIVE: IMAGING"
+    },
+    {
+      "type": "paragraph",
+      "text": "The next step is imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newest recommendations often favor MRI when possible, because MRI provides more detailed structural information about the brain. But if someone cannot have an MRI because of certain implants, metal, pacemakers, or other medical issues, a CT scan may be used instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaging can help evaluate the brain structurally. It can help look for strokes, masses, bleeding, hydrocephalus, or other changes that may affect cognition."
+    },
+    {
+      "type": "paragraph",
+      "text": "But just like the MoCA test, imaging is not the whole diagnosis by itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can have a brain scan and still need the rest of the clinical picture."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diagnosis comes from putting the whole puzzle together: history, cognition, function, labs, imaging, and exclusions."
+    },
+    {
+      "type": "heading",
+      "text": "STEP SIX: RULE OUT DELIRIUM AND MAJOR MENTAL HEALTH CONDITIONS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another major step is ruling out conditions that can mimic dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the biggest is delirium."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delirium is acute confusion that can happen because of infection, medication effects, dehydration, electrolyte abnormalities, hospitalization, pain, or other medical issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delirium can look like dementia, but it is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia is usually gradual and progressive."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delirium is often sudden, fluctuating, and medically urgent."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if someone becomes confused quickly — over hours or days — do not assume, “This is just dementia.” That person needs medical evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another major area is mental health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Major depression can sometimes look like cognitive decline. A person may seem forgetful, slowed down, withdrawn, or unable to concentrate. That does not mean it is dementia. It means the clinician needs to ask the right questions and screen appropriately."
+    },
+    {
+      "type": "paragraph",
+      "text": "So before a diagnosis is finalized, the provider has to rule out major psychiatric conditions and acute medical causes that may be driving the symptoms."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why the diagnostic process takes work."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is not just about naming dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about making sure the name is accurate."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "type": "heading",
+      "text": "THE DIAGNOSTIC EQUATION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is the simplest way to think about the dementia diagnosis:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cognitive impairment plus loss of functional independence, minus reversible medical causes."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the equation."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there is cognitive impairment, but daily function is still intact, we may be looking at mild cognitive impairment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there is cognitive impairment and functional impairment, now dementia becomes more likely."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if there is a reversible medical cause explaining the symptoms, then that has to be addressed before we finalize the diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why I want caregivers to be careful when someone gives a quick label."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a provider says, “It is probably dementia,” it is okay to ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What cognitive testing was done?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How was functional status assessed?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were labs ordered?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was imaging considered?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Were reversible causes ruled out?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was delirium ruled out?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was depression screened for?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What type of dementia do you suspect?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do we need neurology or specialist evaluation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are not disrespectful questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are good caregiver questions."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 838
+    },
+    {
+      "type": "heading",
+      "text": "UNSPECIFIED DEMENTIA IS NOT THE FINAL ANSWER"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the clinical pathway confirms dementia, the first diagnosis may be “unspecified dementia.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean the work is over."
+    },
+    {
+      "type": "paragraph",
+      "text": "It means we know there is cognitive impairment and functional impairment, and reversible causes have been addressed or ruled out, but we may not yet know the exact disease causing it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer’s disease is the most common. But there are other types: Lewy body dementia, vascular dementia, frontotemporal dementia, and others."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each type can present differently. Some may involve hallucinations earlier. Some may have more movement symptoms. Some may affect personality or behavior earlier than memory. Some may be connected to vascular disease or strokes."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where a specialist, often a neurologist, may help clarify the type of dementia and guide the next stage of care."
+    },
+    {
+      "type": "paragraph",
+      "text": "But I want families to remember something."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even before the exact subtype is known, the caregiver still needs help."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the day-to-day questions do not wait."
+    },
+    {
+      "type": "paragraph",
+      "text": "What do I do when mom refuses the shower?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What do I do when dad gets confused at night?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How do I manage medications?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How do I know if it is safe for my loved one to be alone?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How do I talk to my family about care needs?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What happens when the diagnosis is complete but the caregiving journey is just beginning?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where the real work starts."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-9.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "type": "heading",
+      "text": "THE DIAGNOSIS IS COMPLETE. NOW THE REAL WORK BEGINS."
+    },
+    {
+      "type": "paragraph",
+      "text": "A diagnosis can give families clarity."
+    },
+    {
+      "type": "paragraph",
+      "text": "But clarity is not the same as support."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is one of the biggest gaps in dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "A family may finally get the diagnosis after months or years of confusion. And then they leave the clinic with a label, maybe a medication, maybe a follow-up appointment, and a folder."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the real challenges begin at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diagnosis does not tell you how to get mom into the shower."
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not tell you what to do when dad keeps asking the same question."
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not tell you how to handle sundowning at 7 PM."
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not tell you how to manage caregiver guilt, siblings who disagree, wandering risk, medication refusal, or the fear of leaving your loved one alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why dementia care cannot stop at diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families need education. Care coordination. Navigation. Practical guidance. A place to call when the next problem shows up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia is not a one-time medical event."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is a long caregiving journey."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-10.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 837
+    }
+  ],
+  "disclaimer": "This is education, not medical advice. If you are concerned about memory loss, confusion, sudden behavior changes, medication effects, depression, delirium, or safety, speak with a qualified healthcare professional.",
+  "youtubeVideo": {
+    "id": "UqBJX_8hdfg",
+    "title": "How Doctors Diagnose Dementia: Step-by-Step Process Explained",
+    "publishedDate": "2026-05-27",
+    "description": "Interested in structured dementia-care support through the GUIDE Model? Start here: https://medbetterhealth.org/guide How is dementia actually diagnosed? A lot of families hear words like “memory loss,” “mild cognitive impairment,” “Alzheimer’s,” or “dementia,” but they are not always told what the diagnostic process really looks like. In this video, I walk through the step-by-step process clinicians use when evaluating someone for dementia, including: - History and physical exam - Cognitive testing like the MoCA - Functional status evaluation - ADLs and IADLs - Lab work to rule out reversible causes - Brain imaging such as MRI or CT - Delirium and depression screening - The difference between mild cognitive impairment and dementia - Why “unspecified dementia” may come before identifying the exact type This is important because dementia is not diagnosed from one test alone. A cognitive screening test can help identify impairment, but the diagnosis also depends on how memory and thinking changes are affecting daily life. If you are caring for a loved one with dementia or you are worried about memory changes in someone close to you, this video will help you better understand what questions to ask and what the evaluation process may involve. MedBetterHealth currently supports eligible families in Florida and New York through the GUIDE Model. This video is for educational purposes only and is not medical advice. Please speak with your doctor, neurologist, or qualified clinician about any concerns regarding memory loss, dementia, medications, testing, or diagnosis. Chapters: 00:00 Welcome and why dementia diagnosis matters 01:00 Step 1: History and physical exam 01:31 Step 2: Cognitive testing and the MoCA 02:41 Step 3: Functional status, ADLs, and IADLs 04:15 Step 4: Lab work and reversible causes 05:42 Step 5: Brain imaging with MRI or CT 06:13 Step 6: Ruling out delirium and depression 07:00 Dementia vs. mild cognitive impairment 07:45 Identifying the specific type of dementia 08:20 How the GUIDE Model can support caregivers 10:22 First link in the description Subscribe for more dementia-care education: Straight Talk with Dr. Erik #Dementia #DementiaCare #Alzheimers #MemoryLoss #CaregiverSupport #MoCA #GUIDEModel #MedBetterHealth #DrErikIlyayev #Caregiving",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UqBJX_8hdfg/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=UqBJX_8hdfg",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/UqBJX_8hdfg"
+  }
+}

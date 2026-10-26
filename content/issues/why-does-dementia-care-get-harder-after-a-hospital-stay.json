@@ -1,0 +1,892 @@
+{
+  "title": "Why Does Dementia Care Get Harder After a Hospital Stay?",
+  "slug": "why-does-dementia-care-get-harder-after-a-hospital-stay",
+  "issueNumber": 35,
+  "publishedDate": "2026-06-22",
+  "sourceUrl": "https://www.linkedin.com/pulse/why-does-dementia-care-get-harder-after-hospital-stay-erik-ilyayev-duixe",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Every week, caregivers ask me some version of the same question: “Dr. Erik, my loved one went into the hospital, and when they came home, everything was different.",
+  "topics": [
+    "Dementia Care After Hospital Discharge"
+  ],
+  "coverImage": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 813
+    },
+    {
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 812
+    },
+    {
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 809
+    },
+    {
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 804
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Every week, caregivers ask me some version of the same question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, my loved one went into the hospital, and when they came home, everything was different. They are refusing care. They are not sleeping. They seem weaker. They are more confused. They were never like this before. Did the dementia suddenly get worse?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And I want to tell you something very important."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the hospital fixes the immediate medical problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "But discharge does not always mean your loved one is back to baseline."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the part families are not always prepared for."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person living with dementia may go into the hospital for a urinary tract infection, pneumonia, a fall, surgery, dehydration, or another acute medical problem. The hospital treats the infection, stabilizes the vitals, adjusts the medications, clears the person for discharge, and sends them home."
+    },
+    {
+      "type": "paragraph",
+      "text": "But then the caregiver gets home and realizes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mom is weaker."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dad is more confused."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are not sleeping."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are refusing care."
+    },
+    {
+      "type": "paragraph",
+      "text": "They cannot transfer safely."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are more anxious."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are not eating the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are not walking the way they were walking before."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the caregiver starts thinking, “What happened? The hospital said they were stable.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where we have to make a very important distinction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medically stable does not always mean functionally safe."
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I’m a dementia care physician, a board member of the South Florida Alzheimer's Association®, and the CEO of MedBetterHealth.org — one of the organizations selected by Medicare to participate in a groundbreaking new program designed to change how America cares for people living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this issue, I want to walk you through why dementia care can become harder after a hospital stay, what caregivers need to watch for, and the five post-hospital questions every family should ask before and after discharge."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "type": "heading",
+      "text": "THE EXPECTATION VERSUS THE REALITY"
+    },
+    {
+      "type": "paragraph",
+      "text": "The expectation is simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your loved one goes into the hospital. The hospital finds the problem. The hospital treats the problem. Then your loved one comes home, and everything goes back to normal."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is what we all hope for."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the clinical reality is more complicated."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hospital may fix the immediate illness, but the transition home can introduce a high-risk period of weakness, medication changes, delirium, sleep disruption, anxiety, and functional decline."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is especially true for a person living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia lowers the brain’s ability to handle stress. A younger, healthier person may go to the hospital, lose sleep, have medications adjusted, feel weak for a few days, and recover. But a person living with dementia may not have the same cognitive reserve."
+    },
+    {
+      "type": "paragraph",
+      "text": "The brain is already vulnerable."
+    },
+    {
+      "type": "paragraph",
+      "text": "So when you add infection, pain, anesthesia, unfamiliar staff, alarms, interrupted sleep, new medications, stopped medications, immobility, and a disrupted routine, the whole system can destabilize."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why I tell families:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not assume discharge means the crisis is over."
+    },
+    {
+      "type": "paragraph",
+      "text": "For dementia families, discharge is often the beginning of the next care plan."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 813
+    },
+    {
+      "type": "heading",
+      "text": "WHY THE HOSPITAL CAN DESTABILIZE DEMENTIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s put ourselves in the shoes of the person living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are 85 years old. They have dementia. They are used to their home, their chair, their bedroom, their bathroom, their routine, their caregiver, their lighting, their sounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then suddenly, they are in the hospital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unfamiliar staff are walking in and out. Alarms are going off. Lights are bright. There are new voices, new rooms, new routines, new medications, and sometimes a roommate who is also confused, in pain, or calling out."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then the sleep disruption begins."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vital signs at night. Blood pressure checks. Blood draws. IVs. Procedures. Pain. Noise. Roommate disturbances. Doctors and nurses coming in at different times."
+    },
+    {
+      "type": "paragraph",
+      "text": "When I was a resident physician, there were times we had to do procedures at 3 AM. Sometimes that is medically necessary. But think about what that feels like to a person living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are sleeping, confused, disoriented, and suddenly someone they do not know is coming in to do something painful or frightening."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now add immobility."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person comes in walking, but then they spend days in bed because of pneumonia, a fall, surgery, or weakness. The longer they stay in bed, the more muscle weakness they can develop. And the harder it can be to get them back to baseline."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why one of the most important questions you can ask in the hospital is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“How soon is it safe to get them out of bed and into the chair?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And then:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“How soon can they work with physical therapy?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Out of bed into the chair. Out of the chair into walking when safe. That matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because mobility is medicine."
+    },
+    {
+      "type": "paragraph",
+      "text": "And finally, medication changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "New prescriptions. Stopped medications. Adjusted medications. Old medication lists. Polypharmacy — which simply means too many medications at one time. All of this can create confusion, dizziness, sedation, constipation, urinary retention, sleep disruption, or falls."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if your loved one comes home different, do not jump straight to:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“The dementia just got worse.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What happened during the hospitalization?”"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 812
+    },
+    {
+      "type": "heading",
+      "text": "MEDICALLY STABLE IS NOT THE SAME AS FUNCTIONALLY SAFE"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is one of the most important ideas in post-hospital dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hospital may say:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“The infection is treated.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“The vitals are stable.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“The wound is healing.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“The labs are improving.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She is cleared for discharge.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And all of that may be medically true."
+    },
+    {
+      "type": "paragraph",
+      "text": "But when the family gets home, the caregiver may see a completely different reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mom is weaker."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dad cannot get to the bathroom safely."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is new incontinence."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is more anxiety."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is fragmented sleep."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are medication side effects."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is loss of routine."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is confusion that worsens at night."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a caregiver staring at a discharge packet thinking, “I do not know what I am supposed to do with all of this.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the iceberg."
+    },
+    {
+      "type": "paragraph",
+      "text": "Above the surface is what the hospital focused on: stable vitals, treated infection, healing wound."
+    },
+    {
+      "type": "paragraph",
+      "text": "Below the surface is the home reality: mobility decline, medication confusion, caregiver burden, safety risks, sleep disruption, anxiety, and loss of daily function."
+    },
+    {
+      "type": "paragraph",
+      "text": "And that below-the-surface reality is where caregivers live."
+    },
+    {
+      "type": "paragraph",
+      "text": "So before you leave the hospital, it is okay to ask the hard questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Actually, you should ask them."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Is my loved one safe to discharge home?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Do we have the equipment we need?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can they transfer safely?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can they use the bathroom safely?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Do we need a walker, shower chair, commode, hospital bed, or home health?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What changed with the medications?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What should I watch for tonight?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Who do I call if confusion worsens?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "I know those conversations can feel uncomfortable. You may feel like you are putting the doctor, nurse, or case manager on the spot."
+    },
+    {
+      "type": "paragraph",
+      "text": "But what do I always say?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is better to have difficult conversations than to be in difficult situations."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "THE TWO BIG POST-DISCHARGE VULNERABILITIES"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two post-discharge vulnerabilities I want every caregiver to understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first is medication risk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hospitalization often scrambles medication regimens. A medication may be started. Another may be stopped. Another may be adjusted. Sometimes the hospital has an old medication list. Sometimes the family forgets to bring the current list. Sometimes a medication that was being taken at home is accidentally missed."
+    },
+    {
+      "type": "paragraph",
+      "text": "This can be dangerous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch closely for sedation, dizziness, constipation, urinary retention, sudden confusion, increased falls, or a change in alertness."
+    },
+    {
+      "type": "paragraph",
+      "text": "And please remember: do not stop or restart medications on your own without medical guidance. Certain medications, especially sedatives or psychiatric medications, can be risky to stop suddenly. If something looks wrong, call the medical team and ask for clarification."
+    },
+    {
+      "type": "paragraph",
+      "text": "The action step is simple:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconcile the medication list."
+    },
+    {
+      "type": "paragraph",
+      "text": "That means comparing the medications your loved one was taking before the hospital with the medications they are being told to take after the hospital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What was started?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What was stopped?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What was changed?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What is temporary?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What should continue?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What side effects should I watch for?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The second vulnerability is mobility decline."
+    },
+    {
+      "type": "paragraph",
+      "text": "Extended bed rest can cause rapid functional loss. A person who walked into the hospital may come home needing help transferring, standing, toileting, or walking."
+    },
+    {
+      "type": "paragraph",
+      "text": "That means the fall risk may be higher than before."
+    },
+    {
+      "type": "paragraph",
+      "text": "So do not wait for the fall to happen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask about physical therapy. Ask about home safety. Ask whether equipment is needed. Ask whether the person can safely transfer from bed to chair, chair to toilet, and toilet back to standing."
+    },
+    {
+      "type": "paragraph",
+      "text": "A smooth discharge is not only about paperwork."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about whether the person can function safely in the home."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 809
+    },
+    {
+      "type": "heading",
+      "text": "THE CAREGIVER TAKES OVER OVERNIGHT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let’s talk about the caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because once the hospital doors close, the caregiver suddenly becomes the care coordinator, medication manager, safety monitor, sleep monitor, transportation coordinator, advocate, and emotional support system."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is a lot."
+    },
+    {
+      "type": "paragraph",
+      "text": "And most dementia care already happens at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "So who is home?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "People like my mom and dad, who are around 70 years old and taking care of my grandmother, who is 93. They are managing their own health while caring for someone they love."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is real life."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you are a caregiver reading this after a hospital discharge and you feel overwhelmed, I want you to hear me clearly:"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are not failing."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are unsupported in a highly complex medical transition."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be dealing with new medications, new weakness, new confusion, new equipment, new instructions, new follow-up appointments, and new behaviors all at the same time."
+    },
+    {
+      "type": "paragraph",
+      "text": "And then people wonder why caregivers are exhausted."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why support matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why discharge planning matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why the caregiver should not be treated like a side note."
+    },
+    {
+      "type": "paragraph",
+      "text": "In dementia care, the caregiver is part of the care plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the caregiver collapses, the whole home care environment becomes fragile."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "DR. ERIK’S 5 POST-HOSPITAL QUESTIONS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here are the five questions I want every caregiver to ask after a hospital stay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Question one:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are they back to baseline?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not just medically. Functionally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Are they thinking the way they were thinking before?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are they eating the way they were eating before?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are they walking the way they were walking before?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are they sleeping the way they were sleeping before?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they get to the bathroom?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they transfer safely?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the answer is no, then something changed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Question two:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Could this be delirium?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If confusion happened suddenly, over hours or days, do not assume it is just dementia progression."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia usually progresses gradually. Delirium is sudden and can fluctuate. It can be triggered by infection, dehydration, pain, constipation, medication changes, hospitalization, surgery, poor sleep, or another acute medical issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if your loved one is suddenly more confused, more sleepy, more agitated, hallucinating, or not themselves, ask the medical team:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Could this be delirium?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question three:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What medications changed?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the glue that holds everything together."
+    },
+    {
+      "type": "paragraph",
+      "text": "What was started?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What was stopped?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What was adjusted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What was temporary?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What was missed?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What side effects should we watch for?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What interactions are possible?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bring the old list and the new list together. Ask the doctor, pharmacist, or qualified medical professional to review them with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Question four:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What physical function was lost?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they safely stand?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they transfer?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they use the bathroom?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they walk to the kitchen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they feed themselves?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they use their hands the same way?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can they get in and out of bed?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Function matters. A person may be medically stable but unsafe at home without support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Question five:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What support does the caregiver need?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is not optional."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are on an airplane and the oxygen mask drops, what do they tell you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Put your own mask on first."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because if you cannot breathe, you cannot help the person next to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia caregiving works the same way."
+    },
+    {
+      "type": "paragraph",
+      "text": "What equipment do you need?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you need home health?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you need respite?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you need help understanding the discharge instructions?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you need someone to walk through the medication changes?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you need someone to call if things worsen at night?"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are not selfish questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are safety questions."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-dementia-care-get-harder-after-a-hospital-stay/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 804
+    }
+  ],
+  "disclaimer": "This is education, not medical advice. Hospital discharge decisions, medication changes, delirium, sudden confusion, falls, weakness, infection symptoms, pain, caregiver burnout, equipment needs, and safety concerns should be discussed with qualified healthcare professionals. If symptoms are severe or urgent, seek immediate medical help.",
+  "youtubeVideo": {
+    "id": "58ziiR8eujM",
+    "title": "Dementia After Hospitalization: 5 Questions Caregivers Must Ask Before Going Home",
+    "publishedDate": "2026-06-22",
+    "description": "If your loved one is living with dementia and recently went to the hospital, please do not assume that discharge means everything will go back to baseline right away. Many caregivers tell me the same thing: “My loved one went into the hospital, and when they came home, everything was different.” They may be weaker. They may be more confused. They may refuse care. They may not sleep. They may be more anxious, more agitated, or less able to do the things they were doing before. That does not always mean the dementia suddenly got worse. After a hospital stay, a person living with dementia may go through a high-risk transition period because of delirium, sleep disruption, unfamiliar surroundings, medication changes, immobility, weakness, infection, pain, new incontinence, and loss of routine. The hospital may fix the immediate medical problem, but that does not always mean the person is functionally ready to return home without support. That is why caregivers need to ask better questions before discharge. In this video, I explain why dementia care can get harder after a hospital stay, what caregivers should watch for, and the five post-hospital questions I want every family to ask: 1. Are they back to baseline? 2. Could this be delirium? 3. What medications changed? 4. What physical function was lost? 5. What support does the caregiver need? These questions matter because the transition home is often where families feel unsupported, overwhelmed, and unsure what to do next. If you are caring for someone living with dementia in New York or Florida, MedBetterHealth may be able to support eligible families through the GUIDE Model. Learn more here: medbetterhealth.org/guide The GUIDE Model is designed to support eligible families with dementia care education, caregiver support, care coordination, access to 24/7 support, and respite support when eligible. Timestamps: 00:00 - Why dementia care can change after hospitalization 00:28 - Why dementia care gets harder after a hospital stay 00:35 - “Everything was different when they came home” 00:55 - Why discharge does not mean back to baseline 01:48 - What happens to a person with dementia in the hospital 02:23 - Sensory overload in the hospital 02:53 - Sleep disruption, vital checks, noise, and roommates 03:24 - Immobility and why getting out of bed matters 04:20 - Medication changes and polypharmacy 05:12 - Medically stable vs. functionally stable 06:00 - Questions to ask before leaving the hospital 06:35 - Reviewing new medications before discharge 07:29 - Twin post-discharge risks: medications and mobility 07:34 - Medication risks after hospitalization 08:07 - Mobility decline and fall risk 08:45 - Why caregiver support matters after discharge 09:46 - The GUIDE Model and caregiver support 11:31 - Unpaid caregiver time and hospital readmissions 12:15 - Dr. Erik’s 5 post-hospital questions 12:27 - Question 1: Are they back to baseline? 12:39 - Question 2: Could this be delirium? 13:06 - Question 3: What medications changed? 13:18 - Question 4: What physical function was lost? 13:33 - Question 5: What support does the caregiver need? 14:24 - Final message and next steps In this video, you’ll learn: - Why dementia symptoms may appear worse after a hospital stay - Why delirium can happen after hospitalization - Why sleep disruption, noise, unfamiliar staff, and loss of routine matter - Why medication changes can affect confusion, sedation, dizziness, constipation, urinary retention, and behavior - Why getting out of bed safely can matter for recovery - Why “medically stable” is not the same as “functionally stable” - What caregivers should ask before hospital discharge - Why caregiver support matters during the transition home This video is for educational purposes only and is not medical advice. Always speak with your doctor, neurologist, discharge planner, pharmacist, physical therapist, or healthcare professional about diagnosis, treatment, medications, delirium, mobility, fall risk, hospital discharge planning, safety needs, and care decisions. Subscribe to Straight Talk with Dr. Erik for more dementia care education, Alzheimer’s caregiver support, and practical strategies for families caring for someone living with dementia. Keywords: dementia after hospitalization, dementia hospital discharge, dementia worse after hospital stay, delirium after hospital stay, dementia caregiver hospital discharge, medication changes dementia, dementia fall risk, dementia discharge planning, hospital delirium dementia, caregiver support after hospitalization, GUIDE Model, Medicare GUIDE Model, MedBetterHealth, Straight Talk with Dr. Erik, dementia care New York, dementia care Florida",
+    "thumbnailUrl": "https://i.ytimg.com/vi/58ziiR8eujM/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=58ziiR8eujM",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/58ziiR8eujM"
+  }
+}

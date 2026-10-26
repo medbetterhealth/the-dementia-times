@@ -1,0 +1,36 @@
+{
+  "title": "Hearing Loss and Dementia",
+  "slug": "hearing-loss-and-dementia",
+  "description": "A concise guide to the connection between untreated hearing loss, communication strain, isolation, and dementia risk.",
+  "directAnswer": "Hearing loss does not mean someone will definitely develop dementia, but untreated hearing loss is associated with a higher risk of cognitive decline. For families, the practical step is simple: take hearing seriously, get it evaluated, and reduce communication strain before it compounds confusion and isolation.",
+  "keyTakeaways": [
+    "Hearing health is part of brain-health and dementia-care conversations.",
+    "Confusion can look worse when a person cannot hear the full question or instruction.",
+    "A hearing evaluation, hearing-aid support, lower background noise, and written backup can make care safer and less frustrating."
+  ],
+  "issueSlugs": [
+    "is-hearing-loss-linked-to-dementia",
+    "normal-aging-vs-dementia",
+    "how-is-dementia-actually-diagnosed"
+  ],
+  "faqs": [
+    {
+      "question": "Does hearing loss cause dementia?",
+      "answer": "The safer way to say it is that hearing loss is associated with increased dementia risk. It is not a guarantee and should not replace a medical evaluation."
+    },
+    {
+      "question": "Can hearing aids help with dementia risk?",
+      "answer": "Hearing aids may reduce communication strain and isolation for people with hearing loss. Families should discuss testing and treatment options with a qualified hearing professional."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: Is Hearing Loss Linked to Dementia?",
+      "url": "https://thedementiatimes.com/issues/is-hearing-loss-linked-to-dementia/"
+    },
+    {
+      "title": "National Institute on Aging: Hearing aids and cognitive decline research",
+      "url": "https://www.nia.nih.gov/news/hearing-aids-may-slow-cognitive-decline-older-adults-hearing-loss-and-high-risk-dementia"
+    }
+  ]
+}

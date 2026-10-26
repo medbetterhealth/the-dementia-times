@@ -1,0 +1,772 @@
+{
+  "title": "¿Qué está tratando de decirte el comportamiento de tu ser querido?",
+  "slug": "what-is-your-loved-one-s-behavior-trying-to-tell-you",
+  "issueNumber": 54,
+  "publishedDate": "2026-07-28",
+  "sourceUrl": "https://www.linkedin.com/pulse/what-your-loved-ones-behavior-trying-tell-you-erik-ilyayev-eeb9f",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Cada semana, los cuidadores me hacen alguna versión de la misma pregunta: “Dr. Erik, ¿por qué mi ser querido sigue haciendo esto?” ¿Por qué mamá camina por el mismo pasillo?",
+  "topics": [
+    "Comportamientos de la demencia",
+    "Método ABC",
+    "Paz para el cuidador"
+  ],
+  "coverImage": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/cover.png",
+  "images": [
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-1.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1190
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1194
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1196
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1190
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1191
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1196
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1191
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1190
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-9.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1186
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-10.png",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 1194
+    },
+    {
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-11.jpg",
+      "alt": "Contenido del artículo",
+      "width": 2232,
+      "height": 369
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Cada semana, los cuidadores me hacen alguna versión de la misma pregunta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, ¿por qué mi ser querido sigue haciendo esto?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué mamá camina de un lado a otro por el mismo pasillo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué papá revisa la puerta una y otra vez?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué mi esposo hace la misma pregunta cada cinco minutos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué mi esposa hurga en los cajones, mueve cosas de lugar o me sigue de habitación en habitación?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y entiendo por qué las familias se agotan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque cuando vives con estos comportamientos todos los días, puede sentirse como si la persona lo hiciera a propósito, solo para ser difícil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero esto es lo que quiero que recuerdes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El comportamiento es comunicación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando la memoria cambia, el lenguaje se vuelve más difícil. El razonamiento se vuelve más difícil. La función ejecutiva se vuelve más difícil. Es posible que la persona no pueda decir: “Tengo miedo”, o “Estoy aburrido”, o “Tengo dolor”, o “Necesito algo familiar”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que el comportamiento empieza a hablar por ella."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi nombre es el Dr. Erik Ilyayev. Soy médico especializado en el cuidado de la demencia, miembro de la junta directiva de la Asociación de Alzheimer del Sur de Florida® y director ejecutivo de MedBetterHealth.org, una de las organizaciones seleccionadas por Medicare para participar en el Modelo GUIDE, una iniciativa de los CMS de 8 años diseñada para apoyar a las personas que viven con demencia y a los cuidadores familiares que las cuidan en casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "En este número, quiero hablar sobre una herramienta sencilla que los cuidadores pueden usar cuando los comportamientos relacionados con la demencia se vuelven confusos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se llama el método ABC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y no, esto no se trata de culpar a la persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se trata de convertirte en un detective."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque una vez que entiendes lo que ocurre antes, durante y después del comportamiento, puedes dejar de adivinar y empezar a responder con más confianza."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-1.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "EL COMPORTAMIENTO NO ES ALEATORIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supongamos que tu ser querido está caminando de un lado a otro."
+    },
+    {
+      "type": "paragraph",
+      "text": "La primera reacción puede ser:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Por qué no se sienta?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero caminar así puede no ser aleatorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez está ansioso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez tiene dolor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez está buscando algo familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez la habitación está demasiado ruidosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez está cansado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez solía caminar todos los días después del trabajo, y el cuerpo todavía recuerda esa rutina, aunque la mente ya no pueda explicarla."
+    },
+    {
+      "type": "paragraph",
+      "text": "O tal vez tu ser querido sigue revisando las cerraduras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizás piensas:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Por qué sigue haciendo eso? Ya le dije que la puerta está cerrada con llave.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero tal vez el comportamiento viene del miedo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez no se siente seguro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez necesita tener control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez está tratando de proteger el hogar de la única forma que sabe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso tenemos que ir más despacio."
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los comportamientos necesitan detenerse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos comportamientos necesitan entenderse."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-2.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "EL MÉTODO ABC"
+    },
+    {
+      "type": "paragraph",
+      "text": "El método ABC es sencillo."
+    },
+    {
+      "type": "paragraph",
+      "text": "A significa Antecedente (Antecedent)."
+    },
+    {
+      "type": "paragraph",
+      "text": "B significa Comportamiento (Behavior)."
+    },
+    {
+      "type": "paragraph",
+      "text": "C significa Consecuencia (Consequence)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso significa que nos hacemos tres preguntas."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué pasó justo antes del comportamiento?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué hizo exactamente la persona?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué pasó justo después?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es todo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero si anotas esto durante una o dos semanas, empiezan a aparecer patrones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez caminar de un lado a otro ocurre cada tarde, cuando la casa se oscurece."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez las preguntas repetidas ocurren cuando la habitación está ruidosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez la agitación aparece después de que se menciona la ducha."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez hurgar en los cajones ocurre cuando la persona está aburrida y no tiene nada significativo que hacer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez el comportamiento empeora cuando demasiadas personas hablan al mismo tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora ya no solo estás reaccionando."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estás aprendiendo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y eso cambia todo."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-3.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "DEJA A UN LADO LAS ETIQUETAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando anotes el comportamiento, no escribas:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Mamá estaba siendo difícil.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Papá estaba agresivo.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Ella estaba actuando como loca.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Él lo estaba haciendo a propósito.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas palabras no te ayudan a resolver el problema."
+    },
+    {
+      "type": "paragraph",
+      "text": "Escribe lo que realmente ocurrió."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Mamá caminó de un lado a otro por el pasillo durante 30 minutos.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Papá preguntó sobre el trabajo 12 veces en una hora.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Ella abrió el cajón de la cocina cinco veces.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Él intentó salir por la puerta principal dos veces.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso te da información útil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le da al médico información útil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le da al equipo de cuidado información útil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y te ayuda a responder en lugar de solo reaccionar."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-4.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "HAZTE LA PREGUNTA DEL DAÑO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de intervenir, pregúntate:"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Este comportamiento es realmente dañino?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque a veces los cuidadores interrumpen comportamientos que no son peligrosos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si tu ser querido está doblando la misma toalla una y otra vez, y está tranquilo, seguro y no angustiado, tal vez no necesitamos detener eso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si está tarareando, ordenando objetos seguros, caminando en un pasillo claro y seguro, o repitiendo una rutina inofensiva que le da consuelo, tal vez el comportamiento está cumpliendo un propósito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero si el comportamiento es peligroso, eso es diferente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intentar salir de la casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Encender la estufa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beber algo inseguro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tomar el medicamento equivocado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manejar cuchillos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Caerse repetidamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Llegar a un agotamiento severo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esos comportamientos necesitan intervención."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que la pregunta no es:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Esto me parece extraño?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pregunta es:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Esto es inseguro, angustiante o dañino?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es una mejor pregunta."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-5.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "PRESERVA LA NECESIDAD, CAMBIA EL RIESGO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí está la clave."
+    },
+    {
+      "type": "paragraph",
+      "text": "No intentes solo detener el comportamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intenta entender la necesidad que hay detrás de él."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si tu ser querido está hurgando en cajones inseguros, crea un cajón seguro para hurgar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pon objetos familiares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fotos antiguas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tela suave."
+    },
+    {
+      "type": "paragraph",
+      "text": "Artículos del hogar seguros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cosas que pueda tocar, ordenar y explorar sin peligro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si tu ser querido camina de un lado a otro en un área insegura, crea un circuito de caminata más seguro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despeja el camino."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mejora la iluminación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elimina el desorden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Asegúrate de que no esté caminando cerca de las escaleras, la estufa o la puerta principal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si tu ser querido sigue buscando herramientas afiladas, remplázalas por objetos familiares seguros."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta no es ganar una discusión."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta es preservar la función del comportamiento mientras se reduce el riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es el cuidado de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es encontrarse con la persona donde está."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-6.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "VALIDA ANTES DE REDIRIGIR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los mayores errores que cometen las familias es discutir con la realidad de la persona que vive con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si papá dice: “Tengo que ir a trabajar”, y se jubiló hace 20 años, quizás quieras decir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Papá, ya no trabajas. Deja de decir eso.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero eso generalmente no ayuda."
+    },
+    {
+      "type": "paragraph",
+      "text": "En cambio, intenta validar el sentimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Siempre fuiste un trabajador muy dedicado.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Siempre te importó mucho llegar a tiempo.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Sé que eso era importante para ti.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego redirige."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Vamos a buscar tu chaqueta y sentémonos un momento.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Ven a ayudarme con esto.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Tomemos un café primero.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "No estás mintiendo para lastimarlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estás conectando con la emoción en lugar de discutir con los hechos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso importa."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-7.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "CUÁNDO LLAMAR AL MÉDICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora, quiero ser muy claro."
+    },
+    {
+      "type": "paragraph",
+      "text": "No supongas que todo comportamiento nuevo es “solo demencia”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si un comportamiento cambia de repente, llama al médico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si tu ser querido se vuelve repentinamente más confundido, repentinamente agitado, repentinamente somnoliento, repentinamente paranoico, o repentinamente diferente, eso puede ser un problema médico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podría ser una infección."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deshidratación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Constipación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dolor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Efecto secundario de un medicamento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delirio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algo más que está ocurriendo en el cuerpo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cambio repentino merece atención."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y si hay peligro inmediato — riesgo de incendio, deambulación fuera de la casa, acceso a armas, caídas repetidas, lesiones o angustia severa — no esperes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Busca ayuda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es educación, no consejo médico, pero quiero que las familias entiendan esto con claridad:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cambio de comportamiento repentino no es algo para ignorar."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-8.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-9.png",
+      "alt": "Contenido del artículo"
+    },
+    {
+      "type": "heading",
+      "text": "EL CUIDADOR TAMBIÉN CUENTA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nada de esto funciona si el cuidador se está quedando sin fuerzas."
+    },
+    {
+      "type": "paragraph",
+      "text": "No puedes estar tranquilo todos los días si nunca duermes."
+    },
+    {
+      "type": "paragraph",
+      "text": "No puedes resolver cada comportamiento si estás agotado, aislado y llevando todo solo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No puedes construir un hogar en paz si estás constantemente en modo de emergencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que cuando hablamos de los comportamientos de la demencia, también tenemos que hablar del apoyo al cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuidadores necesitan descanso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuidadores necesitan educación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuidadores necesitan respaldo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuidadores necesitan a alguien que les ayude a entender qué está pasando y qué hacer a continuación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no es debilidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es cuidado."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-your-loved-one-s-behavior-trying-to-tell-you/image-10.png",
+      "alt": "Contenido del artículo"
+    }
+  ],
+  "disclaimer": "Esto es educación, no consejo médico, pero quiero que las familias entiendan esto con claridad:"
+}

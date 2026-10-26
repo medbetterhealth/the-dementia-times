@@ -1,0 +1,52 @@
+{
+  "siteUrl": "https://thedementiatimes.com",
+  "title": "The Dementia Times",
+  "presentedBy": "Д-р Эрик Ильяев представляет",
+  "description": "Научно обоснованные материалы об уходе при деменции от д-ра Эрика Ильяева.",
+  "newsletterUrl": "https://www.linkedin.com/newsletters/the-dementia-times-7452443336956899329/",
+  "author": {
+    "name": "Dr. Erik Ilyayev, MD",
+    "role": "CEO, MedBetter Health",
+    "linkedinUrl": "https://www.linkedin.com/in/erik-ilyayev-b9795084/",
+    "headshot": "/assets/brand/dr-erik-headshot.jpeg"
+  },
+  "brand": {
+    "medBetterUrl": "https://medbetterhealth.org/",
+    "logo": "/assets/brand/medbetter-health-logo-transparent.png",
+    "publicationMark": "/assets/brand/dementia-times-mark.svg",
+    "youtubeUrl": "https://www.youtube.com/@erikilyayev",
+    "youtubePlaylistUrl": "https://www.youtube.com/watch?v=58ziiR8eujM&list=PLghCRz2fTSjo_WUu-kYFhMsBGDJz-ExPE&pp=sAgC",
+    "youtubeBanner": "/assets/brand/straight-talk-with-dr-erik-banner.jpg"
+  },
+  "analytics": {
+    "enabled": true,
+    "provider": "plausible",
+    "plausibleDomain": "thedementiatimes.com"
+  },
+  "newsletterCapture": {
+    "enabled": false,
+    "provider": "formspree",
+    "endpoint": ""
+  },
+  "ringCentral": {
+    "enabled": false,
+    "smsEndpoint": ""
+  },
+  "guide": {
+    "label": "Программа Medicare · участник модели GUIDE",
+    "title": "Представьте мир, где забота о близком человеке с деменцией не означает, что вы должны справляться в одиночку.",
+    "body": "Мир, где дома есть человек, который помогает, а поддержка доступна 24/7, когда она нужна. Теперь это не нужно только представлять. Такая помощь уже существует и покрывается Medicare*.",
+    "secondaryBody": "Через модель MedBetterHealth GUIDE Medicare покрывает подходящие услуги помощи на дому, чтобы вам было легче поддерживать близкого человека. Вы получаете нужную опору. Готовы начать? Проверьте, подходите ли вы по условиям.",
+    "compactTitle": "Поддержка, когда уход при деменции становится слишком тяжелым",
+    "compactBody": "Помощь на дому, поддержка 24/7 и консультации для ухаживающих могут покрываться Medicare через модель GUIDE.",
+    "benefitScenarios": [
+      "Medicare может покрывать услуги ухода на дому, чтобы вы могли отдохнуть, сходить на собственный прием к врачу или поужинать с семьей, пока о вашем близком заботятся.",
+      "Линия поддержки 24/7 дает место, куда можно позвонить, если мама ведет себя иначе ночью, а вы не уверены, что делать.",
+      "Навигация по уходу помогает спокойнее справляться с отказом от душа, отказом от лекарств, возбуждением или спутанностью.",
+      "Поддержка передышки может вернуть ухаживающим реальное время для восстановления, если выполнены условия участия."
+    ],
+    "finePrint": "Обычно требуется подтвержденный диагноз деменции и участие в традиционной программе Medicare (части A и B). Люди, проживающие в учреждениях долгосрочного ухода, как правило, не имеют права на участие. MedBetterHealth является утвержденным участником модели GUIDE и не аффилирован с CMS или правительством США и не одобрен ими сверх этого статуса.",
+    "url": "https://intakeguide.medbetterhealth.org",
+    "cta": "Проверить, подходите ли вы"
+  }
+}

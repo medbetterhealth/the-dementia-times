@@ -1,0 +1,39 @@
+{
+  "title": "Dementia Diagnosis and Stages",
+  "slug": "dementia-diagnosis-and-stages",
+  "description": "How families can think about normal aging, dementia warning signs, diagnosis, staging, and why early detection matters.",
+  "directAnswer": "Dementia is not diagnosed from one forgotten word or one bad day. The key concern is cognitive change that begins to interfere with daily independence, safety, finances, medication management, communication, or judgment. Early evaluation matters because families can plan sooner, look for reversible contributors, and match care to the person’s stage.",
+  "keyTakeaways": [
+    "Normal aging may slow recall, but dementia affects function and independence.",
+    "Diagnosis usually requires history, functional assessment, cognitive testing, medical review, and sometimes labs or imaging.",
+    "Knowing the stage helps families plan safety, support, communication, and caregiver needs."
+  ],
+  "issueSlugs": [
+    "what-is-dementia",
+    "normal-aging-vs-dementia",
+    "how-is-dementia-actually-diagnosed",
+    "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+    "why-is-early-dementia-diagnosis-so-important-for-families",
+    "why-does-early-alzheimer-s-detection-matter-more-than-ever"
+  ],
+  "faqs": [
+    {
+      "question": "What is the line between normal aging and dementia?",
+      "answer": "The practical line is function. Dementia becomes more concerning when cognitive changes interfere with independent daily life, not just when someone has occasional forgetfulness."
+    },
+    {
+      "question": "Why does early diagnosis matter?",
+      "answer": "Early diagnosis gives families time to plan, address reversible contributors, review medications, improve safety, and access support before a crisis."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: How Is Dementia Actually Diagnosed?",
+      "url": "https://thedementiatimes.com/issues/how-is-dementia-actually-diagnosed/"
+    },
+    {
+      "title": "National Institute on Aging: What is dementia?",
+      "url": "https://www.nia.nih.gov/health/what-is-dementia"
+    }
+  ]
+}

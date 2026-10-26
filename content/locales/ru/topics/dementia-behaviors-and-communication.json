@@ -1,0 +1,40 @@
+{
+  "title": "Поведение и общение при деменции",
+  "slug": "dementia-behaviors-and-communication",
+  "description": "Руководство для ухаживающих об отказе от помощи, обвинениях, блуждании, бредовых идеях, галлюцинациях, возбуждении и изменениях общения при деменции.",
+  "directAnswer": "Поведение при деменции обычно не бывает случайным. Часто оно выражает страх, боль, спутанность, неудовлетворенные потребности, перегрузку, потерю контроля или несоответствие между окружением и меняющимся мозгом человека. Первый шаг — спросить, что это поведение может сообщать, прежде чем пытаться его исправить.",
+  "keyTakeaways": [
+    "Спор с реальностью человека с деменцией часто усиливает эмоциональное напряжение и тревогу.",
+    "Внезапное изменение поведения должно запускать поиск медицинских причин: инфекции, боли, обезвоживания, изменений лекарств, нарушения сна или потери слуха/зрения.",
+    "Подтверждение чувств, переключение внимания, рутина, изменения среды и тон ухаживающего могут быть так же важны, как лекарства."
+  ],
+  "issueSlugs": [
+    "why-do-dementia-behaviors-happen-and-what-should-families-do",
+    "why-do-dementia-patients-refuse-help",
+    "why-is-my-loved-one-with-dementia-accusing-me-of-stealing",
+    "delusions-and-hallucinations",
+    "wandering-and-elopement",
+    "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it",
+    "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them"
+  ],
+  "faqs": [
+    {
+      "question": "Почему человек с деменцией отказывается от помощи?",
+      "answer": "Отказ может быть связан со страхом, снижением осознания болезни, стыдом, болью, спутанностью или ощущением, что его торопят. Ответ должен снижать угрозу и сохранять достоинство."
+    },
+    {
+      "question": "Что делать семье, если обвинения или галлюцинации появились внезапно?",
+      "answer": "Внезапное изменение требует медицинской проверки на обратимые причины, прежде чем считать, что деменция просто прогрессировала."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: почему возникают поведенческие симптомы при деменции?",
+      "url": "https://thedementiatimes.com/ru/issues/why-do-dementia-behaviors-happen-and-what-should-families-do/"
+    },
+    {
+      "title": "National Institute on Aging: как справляться с изменениями личности и поведения",
+      "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/managing-personality-and-behavior-changes-alzheimers"
+    }
+  ]
+}

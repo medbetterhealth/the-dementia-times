@@ -1,0 +1,22 @@
+{
+  "name": "the-dementia-times",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.js",
+    "dev": "node scripts/serve.js",
+    "sync": "node scripts/sync-linkedin.js",
+    "sync:youtube": "node scripts/sync-youtube.js",
+    "sync:translations": "node scripts/sync-translations.js",
+    "import:browser": "node scripts/import-linkedin-browser-export.js",
+    "audit:site": "node scripts/audit-site.js",
+    "audit:translations": "node scripts/audit-translations.js",
+    "test": "node --test",
+    "check": "npm run test && npm run build"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  },
+  "devDependencies": {}
+}

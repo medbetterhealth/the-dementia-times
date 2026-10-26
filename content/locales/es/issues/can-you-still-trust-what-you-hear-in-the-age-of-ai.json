@@ -1,0 +1,1226 @@
+{
+  "title": "¿Todavía puede confiar en lo que escucha en la era de la IA?",
+  "slug": "can-you-still-trust-what-you-hear-in-the-age-of-ai",
+  "issueNumber": 34,
+  "publishedDate": "2026-06-19",
+  "sourceUrl": "https://www.linkedin.com/pulse/can-you-still-trust-what-hear-age-ai-erik-ilyayev-5chze",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Cada semana, los cuidadores me hacen alguna versión de la misma pregunta: “Dr. Erik, ¿cómo mantengo seguro a mi ser querido cuando ya tiene dificultades con la memoria, el juicio o para reconocer riesgos?”",
+  "topics": [
+    "Estafas con IA",
+    "Seguridad de adultos mayores",
+    "Cuidado de la demencia"
+  ],
+  "coverImage": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-1.jpg",
+      "alt": "Contenido del artículo",
+      "width": 1125,
+      "height": 1500
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 813
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-9.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-10.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-11.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 824
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Cada semana, los cuidadores me hacen alguna versión de la misma pregunta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, ¿cómo mantengo seguro a mi ser querido cuando ya tiene dificultades con la memoria, el juicio o reconocer riesgos?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Normalmente hablamos de caídas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablamos de deambulación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablamos de errores con medicamentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablamos de conducir de forma insegura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablamos de dejar la estufa encendida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero hoy quiero hablar de otro tipo de riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Engaño digital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas con IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clonación de voz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificadores de llamada falsos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Video deepfake."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delincuentes que usan información personal para manipular a adultos mayores, cuidadores y familias antes de que tengan tiempo de pensar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y quiero ser muy claro:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto ya no es ciencia ficción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto está pasando ahora."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ayer tuve la oportunidad de conocer a Frank Abagnale. Muchos conocen su historia por la película Catch Me If You Can con Leonardo DiCaprio. Frank dedicó su vida a entender el fraude, el robo de identidad, el engaño y cómo los delincuentes manipulan la confianza."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-1.jpg",
+      "alt": "Contenido del artículo",
+      "width": 1125,
+      "height": 1500
+    },
+    {
+      "type": "paragraph",
+      "text": "Y una de las cosas más importantes que me llevé de esa conversación es esta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las viejas reglas de confianza ya no funcionan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante décadas les dijimos a las familias: “Si suena como tu hijo, probablemente es tu hijo.” “Si el banco llama desde el número del banco, probablemente es el banco.” “Si alguien conoce detalles personales, debe ser legítimo.” “Si un documento o video parece real, probablemente es real.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ya no."
+    },
+    {
+      "type": "paragraph",
+      "text": "La IA cambió las reglas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y para los adultos mayores, especialmente las personas que viven con demencia, esto es un problema serio de seguridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi nombre es Dr. Erik Ilyayev. Soy médico de cuidado de la demencia, miembro de la junta de la South Florida Alzheimer's Association® y CEO de MedBetterHealth.org, una de las organizaciones seleccionadas por Medicare para participar en un nuevo programa innovador diseñado para cambiar la forma en que Estados Unidos cuida a las personas que viven con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta edición, quiero explicarle cómo funcionan las estafas modernas, por qué las personas que viven con demencia y sus cuidadores son especialmente vulnerables, y las protecciones familiares prácticas que cada hogar debería establecer ahora."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 813
+    },
+    {
+      "type": "heading",
+      "text": "LAS VIEJAS REGLAS YA NO NOS PROTEGEN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante la mayor parte de nuestras vidas, la confianza se construía sobre señales simples."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una voz familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un número de teléfono familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una historia familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un detalle familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un rostro familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si su madre lo llamaba, usted creía que era su madre. Si el número de su hijo aparecía en el identificador de llamadas, usted creía que era su hijo. Si un banco llamaba desde un número que parecía oficial, la mayoría creía que la llamada era real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese mundo se fue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy, la clonación de voz puede imitar la voz de un ser querido. El identificador de llamadas puede ser falsificado. La información personal puede comprarse, robarse, agregarse y usarse para hacer que una estafa se sienta personal. Documentos, videos y mensajes generados por IA pueden parecer lo suficientemente legítimos como para engañar a personas inteligentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa última parte importa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La gente piensa que las estafas solo le pasan a alguien descuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no es cierto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas estafas funcionan porque están construidas alrededor de emoción, urgencia y confianza. Están diseñadas para saltarse la parte lógica del cerebro y activar el pánico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora piense en una persona que vive con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que ya tenga dificultades con la memoria, el juicio, la secuencia de pasos, el control de impulsos y reconocer inconsistencias. Puede que ya confíe más. Puede que ya dependa de voces familiares y rutinas familiares para sentirse segura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que cuando un estafador usa IA para sonar como un nieto, falsificar un número y crear urgencia, eso no es una estafa normal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un ataque dirigido a la vulnerabilidad."
+    },
+    {
+      "type": "heading",
+      "text": "LA ANATOMÍA DE UNA ESTAFA MODERNA"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de las estafas modernas siguen una fórmula."
+    },
+    {
+      "type": "paragraph",
+      "text": "Primero, hay familiaridad sintética."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede ser una voz clonada. Un identificador de llamada falsificado. Una identidad oficial falsa. Un mensaje que suena como un familiar. Una persona que conoce el nombre de su hijo, la escuela de su nieto, el consultorio de su médico, su dirección o algo de redes sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Segundo, hay urgencia fabricada."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Abuela, estoy en problemas.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“No le digas a mamá.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Necesito dinero de inmediato.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Estoy en la cárcel.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Tuve un accidente.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Esto es confidencial.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Tenemos que actuar ahora.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tercero, hay un pago imposible de rastrear o difícil de revertir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tarjetas de regalo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Transferencias bancarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Criptomoneda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pagos por Zelle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Transferencias bancarias directas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y cuando esas tres piezas se juntan —familiaridad, urgencia y pago imposible de rastrear— la estafa se vuelve peligrosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La persona no tiene tiempo para verificar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tiene miedo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiere proteger a la persona que ama."
+    },
+    {
+      "type": "paragraph",
+      "text": "Actúa antes de pensar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es exactamente lo que quiere el estafador."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "EL PROBLEMA DE LA VOZ DE TRES SEGUNDOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las partes más aterradoras de este nuevo mundo es la clonación de voz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un estafador quizá no necesite horas de audio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un clip público breve puede bastar para crear una voz que suene lo suficientemente real como para engañar a alguien en el momento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Piense en cuánto audio existe ahora en línea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Videos de Facebook."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reels de Instagram."
+    },
+    {
+      "type": "paragraph",
+      "text": "Videos de TikTok."
+    },
+    {
+      "type": "paragraph",
+      "text": "Videos de YouTube."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pódcasts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mensajes de voz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clips públicos de hijos, nietos, padres y profesionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora imagine que la madre de un cuidador recibe una llamada telefónica."
+    },
+    {
+      "type": "paragraph",
+      "text": "La voz suena como la de su hijo."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Mamá, escucha. Estoy en problemas. Necesito que envíes dinero ahora mismo.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "La persona que llama conoce detalles familiares porque esos detalles están en línea. Sabe los nombres de los hijos. Sabe dónde vive la gente. Sabe a qué escuela fue alguien. Sabe de fotos de vacaciones, nombres de mascotas, cumpleaños y relaciones familiares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para un adulto sano, esto todavía puede ser aterrador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para un adulto mayor con deterioro cognitivo, puede ser abrumador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y si la voz suena correcta, si la historia crea pánico y si la persona siente que debe actuar de inmediato, el estafador ya tomó control de la situación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso las familias ya no pueden depender solo de la voz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una voz familiar no es suficiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un número de teléfono familiar no es suficiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una historia familiar no es suficiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitamos verificación."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "type": "heading",
+      "text": "SI LAS CORPORACIONES PUEDEN SER ENGAÑADAS, LAS FAMILIAS TAMBIÉN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se compartió una historia sobre una corporación que creyó estar en una videollamada con un alto ejecutivo financiero."
+    },
+    {
+      "type": "paragraph",
+      "text": "La persona se veía real."
+    },
+    {
+      "type": "paragraph",
+      "text": "La voz sonaba real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los detalles sonaban reales."
+    },
+    {
+      "type": "paragraph",
+      "text": "La solicitud parecía venir desde dentro de la empresa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero no era la persona real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Era una suplantación generada por IA. Y la empresa transfirió una enorme cantidad de dinero porque el fraude parecía convincente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora piense en eso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si negocios sofisticados con sistemas profesionales pueden ser engañados, ¿qué creemos que le pasa a una abuela de 78 años en casa? ¿Qué le pasa a un cuidador privado de sueño y abrumado? ¿Qué le pasa a una persona que vive con demencia y ya tiene dificultad para juzgar si algo es real?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso no quiero que las familias sientan vergüenza cuando ocurren estafas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estafadores ya no solo están adivinando."
+    },
+    {
+      "type": "paragraph",
+      "text": "Están estudiando a las personas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Están usando información personal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Están usando ingeniería social."
+    },
+    {
+      "type": "paragraph",
+      "text": "Están usando IA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Están creando escenarios que se sienten emocionalmente imposibles de ignorar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso significa que nuestra respuesta tiene que cambiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "No avergonzamos a la víctima."
+    },
+    {
+      "type": "paragraph",
+      "text": "Construimos mejores defensas."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "INGENIERÍA SOCIAL: POR QUÉ LOS DETALLES SUENAN TAN REALES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingeniería social significa que el estafador aprende lo suficiente sobre una persona, familia, negocio o situación médica para hacer que la mentira se sienta creíble."
+    },
+    {
+      "type": "paragraph",
+      "text": "No tiene que saberlo todo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Solo necesita saber lo suficiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un nombre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cumpleaños."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una relación familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "La escuela de un hijo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una visita al médico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un número de teléfono."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una dirección."
+    },
+    {
+      "type": "paragraph",
+      "text": "El nombre de una mascota."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unas vacaciones recientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un medicamento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un alta hospitalaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un número de Medicare."
+    },
+    {
+      "type": "paragraph",
+      "text": "El nombre de un cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y como tanta información nuestra está en línea o expuesta por filtraciones de datos, los delincuentes pueden armar perfiles que los hacen sonar legítimos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es especialmente peligroso en salud."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine que alguien llama y dice:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Hola, ¿hablo con el Sr. Smith? Llamo por su visita médica reciente del 2 de julio. Vemos que su médico ordenó análisis de sangre y lo refirió a un especialista. Solo necesitamos verificar su información de Medicare.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces el adulto mayor piensa:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Cómo sabrían eso si no fuera real?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es la trampa."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estafador usa detalles reales para crear confianza falsa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y una vez creada la confianza, pide información sensible, información bancaria, información de Medicare o pago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias necesitan entender esto:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer detalles personales ya no prueba que alguien sea legítimo."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ LOS ADULTOS MAYORES Y LAS PERSONAS CON DEMENCIA SON OBJETIVO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los adultos mayores crecieron en lo que llamo la generación del apretón de manos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una generación en la que la confianza significaba algo diferente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien daba su palabra, importaba."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien llamaba del banco, muchas personas le creían."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien sonaba oficial, muchas personas respetaban esa autoridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si un familiar pedía ayuda, ayudaban."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es algo hermoso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los estafadores lo convierten en arma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atacan la confianza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atacan el aislamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atacan el miedo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atacan la vulnerabilidad cognitiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atacan el acceso financiero."
+    },
+    {
+      "type": "paragraph",
+      "text": "Atacan el deseo de proteger a hijos y nietos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y en el cuidado de la demencia, esto se vuelve aún más serio porque el juicio y el control de impulsos pueden disminuir antes de que las familias comprendan por completo cuánto riesgo existe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona que vive con demencia quizá no pueda detenerse y preguntar:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Esto tiene sentido?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Debería verificar esto?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Por qué piden tarjetas de regalo?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Por qué lo necesitan de inmediato?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Por qué no puedo llamar primero a mi hija?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa pausa es crítica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y si la enfermedad debilita esa pausa, la familia tiene que construir un sistema alrededor de la persona antes de que algo ocurra."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "EL RADAR DIAGNÓSTICO DEL CUIDADOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuidadores necesitan un radar de fraude de la misma manera que necesitan un radar de riesgo de caídas."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el cuidado de la demencia, no solo preguntamos: “¿Mamá puede caminar con seguridad?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "También tenemos que preguntar:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Mamá puede contestar con seguridad llamadas de desconocidos?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Papá puede manejar mensajes de texto?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Puede reconocer una alerta bancaria falsa?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Puede distinguir entre Medicare y un estafador que finge ser Medicare?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Puede usar con seguridad Zelle, tarjetas de regalo, transferencias bancarias u banca en línea?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Entiende que no debe dar su número de Medicare?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Sabe que no debe hacer clic en enlaces extraños?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no se trata de quitar dignidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se trata de proteger la independencia con el nivel adecuado de apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces la intervención adecuada no es quitar el teléfono por completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sea filtrado de llamadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sea una lista de contactos de confianza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sea protección con contraseña familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sea desactivar ciertas aplicaciones de pago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sea configurar alertas bancarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sea congelar el crédito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez sea que un cuidador revise mensajes sospechosos."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta no es asustar a la persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta es construir un entorno más seguro."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "ESTAFAS DE MEDICARE: CUELGUE Y VERIFIQUE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero que las familias recuerden algo con mucha claridad:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicare no lo llamará al azar para pedir información sensible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien llama y dice que necesita su número de Medicare, información bancaria, información de pruebas genéticas o datos personales de inmediato, vaya despacio."
+    },
+    {
+      "type": "paragraph",
+      "text": "No siga hablando."
+    },
+    {
+      "type": "paragraph",
+      "text": "No dé información."
+    },
+    {
+      "type": "paragraph",
+      "text": "No deje que la urgencia lo controle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuelgue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Llame de vuelta a través de un número oficial en el que usted ya confía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es especialmente importante porque las estafas de Medicare pueden sonar muy oficiales. La persona que llama puede decir que es de un consultorio médico, un laboratorio, una compañía de pruebas genéticas o un proveedor de equipo médico. Puede conocer detalles reales. Puede decir que su médico solicitó algo. Puede decir que perderá sus beneficios si no actúa ahora."
+    },
+    {
+      "type": "paragraph",
+      "text": "No asuma que la llamada es real porque saben algo sobre usted."
+    },
+    {
+      "type": "paragraph",
+      "text": "La verificación tiene que convertirse en el nuevo hábito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuelgue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verifique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego actúe."
+    },
+    {
+      "type": "heading",
+      "text": "LA CONTRASEÑA FAMILIAR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las protecciones más simples que toda familia debería crear es una contraseña familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "No una contraseña guardada en una nota adhesiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "No algo obvio como un cumpleaños, el nombre de una mascota o el nombre de un nieto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una frase privada que solo la familia conoce."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien llama y dice: “Abuela, estoy en problemas, envía dinero”, la respuesta debería ser:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“¿Cuál es la contraseña familiar?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si no puede responder, la llamada termina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no es grosero."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es seguridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y necesita practicarlo antes de la crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dígale a mamá."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dígale a papá."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dígale a la abuela."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dígale al auxiliar de salud en el hogar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dígale al cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dígale a los hijos adultos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dígale a los nietos."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Si alguien llama pidiendo dinero, secreto, información bancaria, información de Medicare, tarjetas de regalo, transferencias bancarias, criptomoneda o acción inmediata, primero pedimos la contraseña familiar. Si no puede darla, colgamos y llamamos directamente al familiar real.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese paso puede romper la estafa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque las estafas dependen del pánico."
+    },
+    {
+      "type": "paragraph",
+      "text": "La contraseña crea una pausa."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-9.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ HACER AHORA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero que cada cuidador que lea esto tome acción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Primero, cree una contraseña familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Segundo, congele el crédito cuando corresponda, especialmente para adultos vulnerables y niños cuyo crédito puede pasar años sin revisarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tercero, configure alertas bancarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuarto, elimine o limite métodos de pago riesgosos cuando haya deterioro cognitivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quinto, enséñele a su ser querido que las tarjetas de regalo, la criptomoneda, las transferencias bancarias y las exigencias urgentes de pago son señales de alerta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sexto, cree una regla:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ninguna decisión financiera bajo presión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien dice: “Debe actuar ahora”, la respuesta es no."
+    },
+    {
+      "type": "paragraph",
+      "text": "Séptimo, proteja la información de Medicare."
+    },
+    {
+      "type": "paragraph",
+      "text": "No dé su número de Medicare a alguien que lo llamó inesperadamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Octavo, reduzca la exposición pública cuando sea posible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sea cuidadoso con la información familiar que se publica en línea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Noveno, haga que un cuidador o familiar de confianza revise llamadas, textos, correos electrónicos y cartas sospechosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y décimo, hable de esto antes de que algo ocurra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta conversación puede sentirse incómoda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Téngala de todos modos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es mejor construir la defensa antes de la crisis."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-10.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "LA REGLA: VERIFICAR ANTES DE CONFIAR"
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo final no es solo el dinero."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo final es la confianza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estafadores quieren meterse dentro de la relación entre padre e hijo, abuelo y nieto, paciente y médico, cuidador y familia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quieren hacer que la persona se sienta asustada, apresurada y sola."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que la nueva regla familiar tiene que ser simple:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verifique antes de compartir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verifique antes de enviar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verifique antes de hacer clic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verifique antes de creer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si algo se siente urgente, vaya despacio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien dice que no le cuente a la familia, cuéntele a la familia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien pide tarjetas de regalo, deténgase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien pide criptomoneda, deténgase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien pide transferencias bancarias, deténgase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien pide información de Medicare inesperadamente, deténgase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si un ser querido llama en pánico, pida la contraseña familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así protegemos a los adultos mayores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así protegemos a las personas que viven con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así protegemos a los cuidadores de una crisis más que no necesitaban."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-still-trust-what-you-hear-in-the-age-of-ai/image-11.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 824
+    }
+  ],
+  "disclaimer": "Esto es educación, no consejo médico, legal, financiero ni de ciberseguridad. Si cree que un ser querido ha sido estafado, contacte a la institución financiera correspondiente, reporte el incidente a las autoridades adecuadas y hable con profesionales calificados. Los síntomas de demencia, el agotamiento del cuidador, las preocupaciones de seguridad y la capacidad para tomar decisiones deben consultarse con profesionales de salud calificados.",
+  "youtubeVideo": {
+    "id": "P4dUDW1zRH8",
+    "title": "Estafas a abuelos, clonación de voz con IA y demencia: cómo las familias pueden mantenerse seguras",
+    "publishedDate": "2026-06-19",
+    "description": "Video complementario de Straight Talk with Dr. Erik para el artículo \"¿Todavía puede confiar en lo que escucha en la era de la IA?\": Estafas a abuelos, clonación de voz con IA y demencia: cómo las familias pueden mantenerse seguras.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/P4dUDW1zRH8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=P4dUDW1zRH8",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/P4dUDW1zRH8"
+  }
+}

@@ -1,0 +1,1406 @@
+{
+  "generatedAt": "2026-07-29T18:39:05.418Z",
+  "policy": "Show a companion YouTube episode only when date and long-form title, description, transcript, and duration signals make a confident match. Short videos and loose one-off guesses stay hidden.",
+  "issues": [
+    {
+      "slug": "why-does-my-loved-one-ask-the-same-question-over-and-over",
+      "issueNumber": 55,
+      "title": "Why Does My Loved One Ask the Same Question Over and Over?",
+      "publishedDate": "2026-07-29",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.464,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.445 topic overlap.",
+      "scores": {
+        "title": 0.189,
+        "topic": 0.445,
+        "description": 0.445,
+        "transcript": 0
+      },
+      "video": {
+        "id": "iuDXNMf5WZM",
+        "title": "Repetitive Questions in Dementia: How Caregivers Should Respond Without Arguing",
+        "publishedDate": "2026-07-29",
+        "url": "https://www.youtube.com/watch?v=iuDXNMf5WZM",
+        "durationSeconds": 497,
+        "transcriptAvailable": true
+      }
+    },
+    {
+      "slug": "what-is-your-loved-one-s-behavior-trying-to-tell-you",
+      "issueNumber": 54,
+      "title": "What Is Your Loved One’s Behavior Trying to Tell You?",
+      "publishedDate": "2026-07-28",
+      "dateSource": "issue",
+      "status": "hidden",
+      "reason": "No confident date, title, transcript, duration, and description match found."
+    },
+    {
+      "slug": "is-your-home-safe-for-someone-living-with-dementia",
+      "issueNumber": 53,
+      "title": "Is Your Home Safe for Someone Living With Dementia?",
+      "publishedDate": "2026-07-27",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.517,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.448 topic overlap.",
+      "scores": {
+        "title": 0.333,
+        "topic": 0.448,
+        "description": 0.444,
+        "transcript": 0
+      },
+      "video": {
+        "id": "SQp6vLyI2cY",
+        "title": "Dementia Home Safety: How Caregivers Can Prevent Wandering, Falls, and Kitchen Dangers",
+        "publishedDate": "2026-07-27",
+        "url": "https://www.youtube.com/watch?v=SQp6vLyI2cY",
+        "durationSeconds": 713,
+        "transcriptAvailable": true
+      }
+    },
+    {
+      "slug": "what-gives-me-hope-about-the-future-of-dementia-care",
+      "issueNumber": 52,
+      "title": "What Gives Me Hope About the Future of Dementia Care?",
+      "publishedDate": "2026-07-24",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.553,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.411 topic overlap.",
+      "scores": {
+        "title": 0.478,
+        "topic": 0.411,
+        "description": 0.411,
+        "transcript": 0
+      },
+      "video": {
+        "id": "ymD5Zy5KCjI",
+        "title": "The Future of Dementia Care: Dr. James Galvin on Brain Health, Prevention, and Alzheimer’s Hope",
+        "publishedDate": "2026-07-24",
+        "url": "https://www.youtube.com/watch?v=ymD5Zy5KCjI",
+        "durationSeconds": 601,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "are-the-new-alzheimer-s-infusions-right-for-every-patient",
+      "issueNumber": 51,
+      "title": "Are the New Alzheimer’s Infusions Right for Every Patient?",
+      "publishedDate": "2026-07-23",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.52,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.437 topic overlap.",
+      "scores": {
+        "title": 0.354,
+        "topic": 0.437,
+        "description": 0.437,
+        "transcript": 0
+      },
+      "video": {
+        "id": "wzOByMpqqAw",
+        "title": "New Alzheimer’s Medications: Dr. James Galvin Explains Infusions, Risks, and Who They’re For",
+        "publishedDate": "2026-07-23",
+        "url": "https://www.youtube.com/watch?v=wzOByMpqqAw",
+        "durationSeconds": 588,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "the-missing-piece-not-the-whole-puzzle-the-clinical-reality-of-alzheimers-blood-based-biomarkers",
+      "issueNumber": 50,
+      "title": "The Missing Piece, Not the Whole Puzzle: The Clinical Reality of Alzheimer's Blood-Based Biomarkers",
+      "publishedDate": "2026-07-22",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.519,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.45 topic overlap.",
+      "scores": {
+        "title": 0.335,
+        "topic": 0.45,
+        "description": 0.45,
+        "transcript": 0
+      },
+      "video": {
+        "id": "84YIglkcJWM",
+        "title": "Blood Tests for Dementia? Dr. James Galvin Explains Alzheimer’s Biomarkers",
+        "publishedDate": "2026-07-22",
+        "url": "https://www.youtube.com/watch?v=84YIglkcJWM",
+        "durationSeconds": 511,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "can-we-protect-the-brain-before-memory-loss-begins",
+      "issueNumber": 49,
+      "title": "Can We Protect the Brain Before Memory Loss Begins?",
+      "publishedDate": "2026-07-21",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.439,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.421 topic overlap.",
+      "scores": {
+        "title": 0.149,
+        "topic": 0.421,
+        "description": 0.421,
+        "transcript": 0
+      },
+      "video": {
+        "id": "Bl_WCOdFGs4",
+        "title": "Can You Prevent Dementia? Dr. James Galvin Explains Brain Health and the POINTER Study",
+        "publishedDate": "2026-07-21",
+        "url": "https://www.youtube.com/watch?v=Bl_WCOdFGs4",
+        "durationSeconds": 458,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-is-the-right-way-to-evaluate-memory-loss",
+      "issueNumber": 48,
+      "title": "What Is the Right Way to Evaluate Memory Loss?",
+      "publishedDate": "2026-07-20",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.376,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.401 topic overlap.",
+      "scores": {
+        "title": 0,
+        "topic": 0.401,
+        "description": 0.401,
+        "transcript": 0
+      },
+      "video": {
+        "id": "8TqMC4AL5vE",
+        "title": "Dementia Evaluation: What Tests Should Come First? | Dr. James Galvin Explains",
+        "publishedDate": "2026-07-20",
+        "url": "https://www.youtube.com/watch?v=8TqMC4AL5vE",
+        "durationSeconds": 721,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "is-dementia-the-diagnosis-or-the-beginning-of-the-question",
+      "issueNumber": 47,
+      "title": "Is Dementia the Diagnosis — or the Beginning of the Question?",
+      "publishedDate": "2026-07-17",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.463,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.444 topic overlap.",
+      "scores": {
+        "title": 0.189,
+        "topic": 0.444,
+        "description": 0.444,
+        "transcript": 0
+      },
+      "video": {
+        "id": "OTFFdzziiyc",
+        "title": "Dementia vs. Alzheimer’s: Dr. James Galvin Explains the Difference",
+        "publishedDate": "2026-07-17",
+        "url": "https://www.youtube.com/watch?v=OTFFdzziiyc",
+        "durationSeconds": 479,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-should-families-do-right-after-a-dementia-diagnosis",
+      "issueNumber": 46,
+      "title": "What Should Families Do Right After a Dementia Diagnosis?",
+      "publishedDate": "2026-07-16",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 1,
+      "daysApart": null,
+      "reason": "Owner-curated YouTube URL supplied; automatic scoring was not allowed to remove it.",
+      "scores": {
+        "title": null,
+        "topic": null,
+        "description": null,
+        "transcript": null
+      },
+      "video": {
+        "id": "oFKd60itl40",
+        "title": "Caring for the Caregiver",
+        "publishedDate": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=oFKd60itl40",
+        "durationSeconds": 413,
+        "transcriptAvailable": true
+      }
+    },
+    {
+      "slug": "why-does-bathing-become-a-battle-in-dementia",
+      "issueNumber": 45,
+      "title": "Why Does Bathing Become a Battle in Dementia?",
+      "publishedDate": "2026-07-09",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "automatic",
+      "confidence": 0.552,
+      "daysApart": 0,
+      "reason": "Companion same-day candidate with 0.465 topic overlap.",
+      "scores": {
+        "title": 0.408,
+        "topic": 0.465,
+        "description": 0.462,
+        "transcript": 0
+      },
+      "video": {
+        "id": "Aw4si-q5pIk",
+        "title": "Dementia Shower Refusal: How to Stop the Bathroom Battle",
+        "publishedDate": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=Aw4si-q5pIk",
+        "durationSeconds": 1026,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-happens-if-dementia-families-wait-too-long-to-plan",
+      "issueNumber": 44,
+      "title": "What Happens If Dementia Families Wait Too Long to Plan?",
+      "publishedDate": "2026-07-07",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.416,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.374 topic overlap.",
+      "scores": {
+        "title": 0.143,
+        "topic": 0.374,
+        "description": 0.374,
+        "transcript": 0
+      },
+      "video": {
+        "id": "fI7JUxQq6MM",
+        "title": "Dementia End-of-Life Planning: What Caregivers Need Before a Crisis",
+        "publishedDate": "2026-07-07",
+        "url": "https://www.youtube.com/watch?v=fI7JUxQq6MM",
+        "durationSeconds": 1271,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-is-my-l-o-accusing-me-of-stealing",
+      "issueNumber": 43,
+      "title": "Why Is My L.O. Accusing Me of Stealing?",
+      "publishedDate": "2026-07-06",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.456,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.389 topic overlap.",
+      "scores": {
+        "title": 0.236,
+        "topic": 0.389,
+        "description": 0.389,
+        "transcript": 0
+      },
+      "video": {
+        "id": "X2CQB523-fg",
+        "title": "False Accusations in Dementia: Why They Say “You Stole My Money”",
+        "publishedDate": "2026-07-06",
+        "url": "https://www.youtube.com/watch?v=X2CQB523-fg",
+        "durationSeconds": 564,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-do-dementia-patients-refuse-help",
+      "issueNumber": 42,
+      "title": "Why Do Dementia Patients Refuse Help?",
+      "publishedDate": "2026-07-02",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.563,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.361 topic overlap.",
+      "scores": {
+        "title": 0.567,
+        "topic": 0.361,
+        "description": 0.361,
+        "transcript": 0
+      },
+      "video": {
+        "id": "MEPjHNS3ijE",
+        "title": "Anosognosia in Dementia: Why They Refuse Help, Meds, Driving Limits, and Care",
+        "publishedDate": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=MEPjHNS3ijE",
+        "durationSeconds": 1287,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-eating-become-so-hard-in-dementia",
+      "issueNumber": 41,
+      "title": "Why Does Eating Become So Hard in Dementia?",
+      "publishedDate": "2026-07-01",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.486,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.405 topic overlap.",
+      "scores": {
+        "title": 0.298,
+        "topic": 0.405,
+        "description": 0.405,
+        "transcript": 0
+      },
+      "video": {
+        "id": "x66xkz-DDM8",
+        "title": "Dementia Eating Problems: Food Pocketing, Swallowing Trouble, and Aspiration Risk",
+        "publishedDate": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=x66xkz-DDM8",
+        "durationSeconds": 854,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "the-4pm-reset-preventing-the-dementia-sundowning-spiral-before-it-starts",
+      "issueNumber": 40,
+      "title": "The 4PM Reset: Preventing the Dementia Sundowning Spiral Before It Starts",
+      "publishedDate": "2026-06-29",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.523,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.356 topic overlap.",
+      "scores": {
+        "title": 0.463,
+        "topic": 0.356,
+        "description": 0.356,
+        "transcript": 0
+      },
+      "video": {
+        "id": "yj1pLV0SvFE",
+        "title": "Sundowning in Dementia: The 4 PM Reset Every Caregiver Should Know",
+        "publishedDate": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=yj1pLV0SvFE",
+        "durationSeconds": 1394,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-early-alzheimer-s-detection-matter-more-than-ever",
+      "issueNumber": 39,
+      "title": "Why Does Early Alzheimer’s Detection Matter More Than Ever?",
+      "publishedDate": "2026-06-26",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.682,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.428 topic overlap.",
+      "scores": {
+        "title": 0.816,
+        "topic": 0.428,
+        "description": 0.428,
+        "transcript": 0
+      },
+      "video": {
+        "id": "1l5kUS3Wm5w",
+        "title": "Early Alzheimer’s Detection: Why Memory Screening Matters More Than Ever",
+        "publishedDate": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=1l5kUS3Wm5w",
+        "durationSeconds": 791,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "can-what-you-eat-affect-your-dementia-risk",
+      "issueNumber": 38,
+      "title": "Can What You Eat Affect Your Dementia Risk?",
+      "publishedDate": "2026-06-25",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.468,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.336 topic overlap.",
+      "scores": {
+        "title": 0.333,
+        "topic": 0.336,
+        "description": 0.336,
+        "transcript": 0
+      },
+      "video": {
+        "id": "qcgIJrL442M",
+        "title": "NEW Harvard Study: Ultra-Processed Foods Linked to Higher Dementia Risk?",
+        "publishedDate": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=qcgIJrL442M",
+        "durationSeconds": 598,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-is-dementia-care-more-than-medication",
+      "issueNumber": 37,
+      "title": "Why Is Dementia Care More Than Medication?",
+      "publishedDate": "2026-06-24",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.337,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.311 topic overlap.",
+      "scores": {
+        "title": 0,
+        "topic": 0.311,
+        "description": 0.311,
+        "transcript": 0
+      },
+      "video": {
+        "id": "AVK3Tj6V2h8",
+        "title": "Alzheimer’s and the GUIDE Model: Dr. Erik Ilyayev at ESRN Breakfast Networking Meeting",
+        "publishedDate": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=AVK3Tj6V2h8",
+        "durationSeconds": 1048,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-do-core-values-matter-in-dementia-care",
+      "issueNumber": 36,
+      "title": "Why Do Core Values Matter in Dementia Care?",
+      "publishedDate": "2026-06-23",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.665,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.401 topic overlap.",
+      "scores": {
+        "title": 0.8,
+        "topic": 0.401,
+        "description": 0.401,
+        "transcript": 0
+      },
+      "video": {
+        "id": "0ATkymOE6AU",
+        "title": "Why MedBetterHealth Is Growing in the GUIDE Model | Dr. Erik on Core Values and Dementia Care",
+        "publishedDate": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=0ATkymOE6AU",
+        "durationSeconds": 422,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-dementia-care-get-harder-after-a-hospital-stay",
+      "issueNumber": 35,
+      "title": "Why Does Dementia Care Get Harder After a Hospital Stay?",
+      "publishedDate": "2026-06-22",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.493,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.408 topic overlap.",
+      "scores": {
+        "title": 0.316,
+        "topic": 0.408,
+        "description": 0.406,
+        "transcript": 0
+      },
+      "video": {
+        "id": "58ziiR8eujM",
+        "title": "Dementia After Hospitalization: 5 Questions Caregivers Must Ask Before Going Home",
+        "publishedDate": "2026-06-22",
+        "url": "https://www.youtube.com/watch?v=58ziiR8eujM",
+        "durationSeconds": 909,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "can-you-still-trust-what-you-hear-in-the-age-of-ai",
+      "issueNumber": 34,
+      "title": "Can You Still Trust What You Hear in the Age of AI?",
+      "publishedDate": "2026-06-19",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.436,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.4 topic overlap.",
+      "scores": {
+        "title": 0.167,
+        "topic": 0.4,
+        "description": 0.399,
+        "transcript": 0
+      },
+      "video": {
+        "id": "P4dUDW1zRH8",
+        "title": "Grandparent Scams, AI Voice Cloning, and Dementia: How Families Can Stay Safe",
+        "publishedDate": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=P4dUDW1zRH8",
+        "durationSeconds": 824,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-healthcare-innovation-fail-before-it-reaches-dementia-families",
+      "issueNumber": 33,
+      "title": "Why Does Healthcare Innovation Fail Before It Reaches Dementia Families?",
+      "publishedDate": "2026-06-18",
+      "dateSource": "issue",
+      "status": "hidden",
+      "reason": "Owner confirmed this World Health Expo in Miami issue has no companion video."
+    },
+    {
+      "slug": "why-is-early-dementia-diagnosis-so-important-for-families",
+      "issueNumber": 32,
+      "title": "Why Is Early Dementia Diagnosis So Important for Families?",
+      "publishedDate": "2026-06-17",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 1,
+      "daysApart": null,
+      "reason": "Owner-curated YouTube URL supplied; automatic scoring was not allowed to remove it.",
+      "scores": {
+        "title": null,
+        "topic": null,
+        "description": null,
+        "transcript": null
+      },
+      "video": {
+        "id": "7ff9nImsWKo",
+        "title": "Advancing Dementia Care: Early Detection, Treatment Innovation, and Caregiver Support",
+        "publishedDate": "2026-02-25",
+        "url": "https://www.youtube.com/watch?v=7ff9nImsWKo",
+        "durationSeconds": 1799,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-routine-matter-so-much-in-dementia-care",
+      "issueNumber": 31,
+      "title": "Why Does Routine Matter So Much in Dementia Care?",
+      "publishedDate": "2026-06-16",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.595,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.394 topic overlap.",
+      "scores": {
+        "title": 0.617,
+        "topic": 0.394,
+        "description": 0.394,
+        "transcript": 0
+      },
+      "video": {
+        "id": "4GlfV0yKV64",
+        "title": "Why Routine Matters in Dementia Care: 5 Daily Anchors for Caregivers",
+        "publishedDate": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=4GlfV0yKV64",
+        "durationSeconds": 1021,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-can-t-dementia-care-focus-only-on-the-patient",
+      "issueNumber": 30,
+      "title": "Why Can’t Dementia Care Focus Only on the Patient?",
+      "publishedDate": "2026-06-15",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.389,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.225 topic overlap.",
+      "scores": {
+        "title": 0.25,
+        "topic": 0.225,
+        "description": 0.225,
+        "transcript": 0
+      },
+      "video": {
+        "id": "6ZlQDHwb7V8",
+        "title": "Dementia Caregiver Support & the CMS GUIDE Model | Dr. Erik Ilyayev",
+        "publishedDate": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=6ZlQDHwb7V8",
+        "durationSeconds": 3162,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-support-do-dementia-caregivers-actually-need-at-home",
+      "issueNumber": 29,
+      "title": "What Support Do Dementia Caregivers Actually Need at Home?",
+      "publishedDate": "2026-06-12",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.53,
+      "daysApart": 3,
+      "reason": "Curated nearby-date candidate with 0.231 topic overlap.",
+      "scores": {
+        "title": 0.671,
+        "topic": 0.231,
+        "description": 0.231,
+        "transcript": 0
+      },
+      "video": {
+        "id": "6ZlQDHwb7V8",
+        "title": "Dementia Caregiver Support & the CMS GUIDE Model | Dr. Erik Ilyayev",
+        "publishedDate": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=6ZlQDHwb7V8",
+        "durationSeconds": 3162,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-do-dementia-care-decisions-tear-families-apart",
+      "issueNumber": 28,
+      "title": "Why Do Dementia Care Decisions Tear Families Apart?",
+      "publishedDate": "2026-06-11",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.519,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.372 topic overlap.",
+      "scores": {
+        "title": 0.433,
+        "topic": 0.372,
+        "description": 0.372,
+        "transcript": 0
+      },
+      "video": {
+        "id": "MFIbsl3gmIg",
+        "title": "Family Conflict in Dementia Care: Have the Hard Conversations Before Crisis Hits",
+        "publishedDate": "2026-06-11",
+        "url": "https://www.youtube.com/watch?v=MFIbsl3gmIg",
+        "durationSeconds": 775,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-did-my-loved-one-with-dementia-suddenly-become-confused",
+      "issueNumber": 27,
+      "title": "Why Did My Loved One With Dementia Suddenly Become Confused?",
+      "publishedDate": "2026-06-10",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.604,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.416 topic overlap.",
+      "scores": {
+        "title": 0.612,
+        "topic": 0.416,
+        "description": 0.415,
+        "transcript": 0
+      },
+      "video": {
+        "id": "TgX49mqlc_g",
+        "title": "Sudden Confusion in Dementia? Check for a UTI Before Blaming Dementia",
+        "publishedDate": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=TgX49mqlc_g",
+        "durationSeconds": 1227,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "how-do-we-keep-the-patient-at-the-center-when-care-conversations-get-difficult",
+      "issueNumber": 26,
+      "title": "How Do We Keep the Patient at the Center When Care Conversations Get Difficult?",
+      "publishedDate": "2026-06-05",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.482,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.389 topic overlap.",
+      "scores": {
+        "title": 0.309,
+        "topic": 0.389,
+        "description": 0.389,
+        "transcript": 0
+      },
+      "video": {
+        "id": "aEWZk4327XY",
+        "title": "When Healthcare Professionals Let Ego Get in the Way of Patient Care",
+        "publishedDate": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=aEWZk4327XY",
+        "durationSeconds": 548,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-alzheimer-s-advocacy-matter-for-families-living-with-dementia",
+      "issueNumber": 25,
+      "title": "Why Does Alzheimer’s Advocacy Matter for Families Living With Dementia?",
+      "publishedDate": "2026-06-04",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.434,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.395 topic overlap.",
+      "scores": {
+        "title": 0.167,
+        "topic": 0.395,
+        "description": 0.395,
+        "transcript": 0
+      },
+      "video": {
+        "id": "FV-so3TL4HY",
+        "title": "The ASAP Act and Alzheimer’s Blood Tests: Why I Went to Washington",
+        "publishedDate": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=FV-so3TL4HY",
+        "durationSeconds": 670,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-respite-care-sometimes-fail-for-dementia-caregivers",
+      "issueNumber": 24,
+      "title": "Why Does Respite Care Sometimes Fail for Dementia Caregivers?",
+      "publishedDate": "2026-06-03",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.6,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.461 topic overlap.",
+      "scores": {
+        "title": 0.548,
+        "topic": 0.461,
+        "description": 0.461,
+        "transcript": 0
+      },
+      "video": {
+        "id": "66eUaHWjGOA",
+        "title": "Dementia Caregiver Burnout: Why You Still Need Respite",
+        "publishedDate": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=66eUaHWjGOA",
+        "durationSeconds": 410,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "should-medication-be-the-first-answer-for-dementia-agitation",
+      "issueNumber": 23,
+      "title": "Should Medication Be the First Answer for Dementia Agitation?",
+      "publishedDate": "2026-06-02",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.584,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.464 topic overlap.",
+      "scores": {
+        "title": 0.5,
+        "topic": 0.464,
+        "description": 0.464,
+        "transcript": 0
+      },
+      "video": {
+        "id": "KHR-xnurG_M",
+        "title": "Before Antipsychotics for Dementia Behaviors, Watch This",
+        "publishedDate": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=KHR-xnurG_M",
+        "durationSeconds": 325,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-is-my-loved-one-with-dementia-accusing-me-of-stealing",
+      "issueNumber": 22,
+      "title": "Why Is My Loved One With Dementia Accusing Me of Stealing?",
+      "publishedDate": "2026-06-01",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.567,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.425 topic overlap.",
+      "scores": {
+        "title": 0.5,
+        "topic": 0.425,
+        "description": 0.425,
+        "transcript": 0
+      },
+      "video": {
+        "id": "1d2y9C8C8k0",
+        "title": "Dementia Accusations: Why They Happen and What Caregivers Should Do",
+        "publishedDate": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=1d2y9C8C8k0",
+        "durationSeconds": 608,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+      "issueNumber": 21,
+      "title": "What Stage of Dementia Is My Loved One In And What Should I Do Next?",
+      "publishedDate": "2026-05-29",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.542,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.391 topic overlap.",
+      "scores": {
+        "title": 0.471,
+        "topic": 0.391,
+        "description": 0.391,
+        "transcript": 0
+      },
+      "video": {
+        "id": "FkCaiy40LMc",
+        "title": "Mild, Moderate, and Severe Dementia: How to Know What Stage Your Loved One Is In",
+        "publishedDate": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=FkCaiy40LMc",
+        "durationSeconds": 1029,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "when-should-someone-with-dementia-stop-driving",
+      "issueNumber": 20,
+      "title": "When Should Someone With Dementia Stop Driving?",
+      "publishedDate": "2026-05-28",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.52,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.394 topic overlap.",
+      "scores": {
+        "title": 0.408,
+        "topic": 0.394,
+        "description": 0.394,
+        "transcript": 0
+      },
+      "video": {
+        "id": "i7Ru2J3mnlM",
+        "title": "Is It Safe for Someone With Dementia to Drive? Red Flags Every Caregiver Must Know",
+        "publishedDate": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=i7Ru2J3mnlM",
+        "durationSeconds": 1016,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "how-is-dementia-actually-diagnosed",
+      "issueNumber": 19,
+      "title": "How Is Dementia Actually Diagnosed?",
+      "publishedDate": "2026-05-27",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.56,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.301 topic overlap.",
+      "scores": {
+        "title": 0.632,
+        "topic": 0.301,
+        "description": 0.301,
+        "transcript": 0
+      },
+      "video": {
+        "id": "UqBJX_8hdfg",
+        "title": "How Doctors Diagnose Dementia: Step-by-Step Process Explained",
+        "publishedDate": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=UqBJX_8hdfg",
+        "durationSeconds": 647,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-won-t-my-loved-one-with-dementia-take-their-medication",
+      "issueNumber": 18,
+      "title": "Why Won’t My Loved One With Dementia Take Their Medication?",
+      "publishedDate": "2026-05-26",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.559,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.344 topic overlap.",
+      "scores": {
+        "title": 0.577,
+        "topic": 0.344,
+        "description": 0.344,
+        "transcript": 0
+      },
+      "video": {
+        "id": "NBCwarAWHEU",
+        "title": "When Someone With Dementia Refuses Medication: What Caregivers Should Do",
+        "publishedDate": "2026-05-26",
+        "url": "https://www.youtube.com/watch?v=NBCwarAWHEU",
+        "durationSeconds": 1052,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-do-dementia-behaviors-happen-and-what-should-families-do",
+      "issueNumber": 17,
+      "title": "Why Do Dementia Behaviors Happen — And What Should Families Do?",
+      "publishedDate": "2026-05-25",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.503,
+      "daysApart": 3,
+      "reason": "Curated nearby-date candidate with 0.247 topic overlap.",
+      "scores": {
+        "title": 0.577,
+        "topic": 0.247,
+        "description": 0.247,
+        "transcript": 0
+      },
+      "video": {
+        "id": "YJu1NnwynpI",
+        "title": "Why Dementia Behaviors Are Not Random",
+        "publishedDate": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=YJu1NnwynpI",
+        "durationSeconds": 209,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-my-grandmother-taught-me-about-dementia-care",
+      "issueNumber": 16,
+      "title": "What My Grandmother Taught Me About Dementia Care",
+      "publishedDate": "2026-05-21",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.433,
+      "daysApart": 1,
+      "reason": "Curated same-day candidate with 0.374 topic overlap.",
+      "scores": {
+        "title": 0.204,
+        "topic": 0.374,
+        "description": 0.371,
+        "transcript": 0
+      },
+      "video": {
+        "id": "T3k9ebsz1lo",
+        "title": "Don’t Argue With Dementia Reality",
+        "publishedDate": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=T3k9ebsz1lo",
+        "durationSeconds": 232,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia",
+      "issueNumber": 15,
+      "title": "Is It Normal To Feel Overwhelmed Caring For Someone With Dementia?",
+      "publishedDate": "2026-05-20",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.409,
+      "daysApart": 1,
+      "reason": "Curated same-day candidate with 0.321 topic overlap.",
+      "scores": {
+        "title": 0.2,
+        "topic": 0.321,
+        "description": 0.321,
+        "transcript": 0
+      },
+      "video": {
+        "id": "IDOCw_Pnakg",
+        "title": "If You’re a Dementia Caregiver, This Video Is About You",
+        "publishedDate": "2026-05-19",
+        "url": "https://www.youtube.com/watch?v=IDOCw_Pnakg",
+        "durationSeconds": 850,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-is-my-loved-one-awake-all-night-the-biological-reason-dementia-destroys-sleep",
+      "issueNumber": 14,
+      "title": "“Why Is My Loved One Awake All Night?” — The Biological Reason Dementia Destroys Sleep",
+      "publishedDate": "2026-05-19",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.471,
+      "daysApart": 1,
+      "reason": "Curated same-day candidate with 0.268 topic overlap.",
+      "scores": {
+        "title": 0.436,
+        "topic": 0.268,
+        "description": 0.268,
+        "transcript": 0
+      },
+      "video": {
+        "id": "VCaW_L8sS_o",
+        "title": "What To Do When Dementia Gets Worse at Night",
+        "publishedDate": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=VCaW_L8sS_o",
+        "durationSeconds": 1316,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "the-power-of-caregiver-support-groups",
+      "issueNumber": 13,
+      "title": "THE POWER OF CAREGIVER SUPPORT GROUPS",
+      "publishedDate": "2026-05-15",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.51,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.296 topic overlap.",
+      "scores": {
+        "title": 0.5,
+        "topic": 0.296,
+        "description": 0.292,
+        "transcript": 0
+      },
+      "video": {
+        "id": "SMyTLf3GDiQ",
+        "title": "Why Every Dementia Caregiver Needs a Support Group | 557 Days Longer at Home",
+        "publishedDate": "2026-05-15",
+        "url": "https://www.youtube.com/watch?v=SMyTLf3GDiQ",
+        "durationSeconds": 529,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "the-one-resource-most-dementia-caregivers-overlook-and-it-s-not-a-medication",
+      "issueNumber": 12,
+      "title": "The One Resource Most Dementia Caregivers Overlook (And It's Not a Medication)",
+      "publishedDate": "2026-05-14",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.384,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.268 topic overlap.",
+      "scores": {
+        "title": 0.183,
+        "topic": 0.268,
+        "description": 0.268,
+        "transcript": 0
+      },
+      "video": {
+        "id": "kPkLJ7csBbQ",
+        "title": "What Is an Adult Day Care Center? | Dementia Care Benefits Explained",
+        "publishedDate": "2026-05-14",
+        "url": "https://www.youtube.com/watch?v=kPkLJ7csBbQ",
+        "durationSeconds": 402,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it",
+      "issueNumber": 11,
+      "title": "Why Does My Loved One with Dementia Refuse to Shower — and What Can I Actually Do About It?",
+      "publishedDate": "2026-05-08",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.548,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.291 topic overlap.",
+      "scores": {
+        "title": 0.612,
+        "topic": 0.291,
+        "description": 0.284,
+        "transcript": 0
+      },
+      "video": {
+        "id": "aRx1FoMIOoM",
+        "title": "Why Does My Loved One with Dementia Refuse to Shower? | The 5-Step Strategy That Actually Works",
+        "publishedDate": "2026-05-08",
+        "url": "https://www.youtube.com/watch?v=aRx1FoMIOoM",
+        "durationSeconds": 1007,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-does-it-really-take-to-fight-alzheimer-s-in-south-florida",
+      "issueNumber": 10,
+      "title": "What Does It Really Take to Fight Alzheimer's in South Florida?",
+      "publishedDate": "2026-05-07",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated-multiple",
+      "confidence": 1,
+      "daysApart": null,
+      "reason": "Multiple owner-curated companion videos were supplied for this event issue.",
+      "videos": [
+        {
+          "id": "X_yt-JEJpWw",
+          "title": "Why Companies Need to Care About Dementia | Dr. Erik at the Alzheimer's Association",
+          "publishedDate": "2026-05-11",
+          "url": "https://www.youtube.com/watch?v=X_yt-JEJpWw",
+          "durationSeconds": 215,
+          "transcriptAvailable": false
+        },
+        {
+          "id": "hO-i7822_kw",
+          "title": "720,000 Floridians Have Alzheimer's. Most Doctors Aren't Equipped to Diagnose It. | Dr. Erik Ilyayev",
+          "publishedDate": "2026-05-06",
+          "url": "https://www.youtube.com/watch?v=hO-i7822_kw&t=38s",
+          "durationSeconds": 323,
+          "transcriptAvailable": false
+        }
+      ]
+    },
+    {
+      "slug": "are-there-any-new-treatments-that-can-actually-slow-alzheimer-s-disease",
+      "issueNumber": 9,
+      "title": "Are There Any New Treatments That Can Actually Slow Alzheimer's Disease?",
+      "publishedDate": "2026-05-05",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.696,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.381 topic overlap.",
+      "scores": {
+        "title": 0.913,
+        "topic": 0.381,
+        "description": 0.378,
+        "transcript": 0
+      },
+      "video": {
+        "id": "zxeBUGtKY2s",
+        "title": "Are There New Treatments That Can Actually Slow Alzheimer's Disease? | Dr. Erik Ilyayev",
+        "publishedDate": "2026-05-05",
+        "url": "https://www.youtube.com/watch?v=zxeBUGtKY2s",
+        "durationSeconds": 653,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them",
+      "issueNumber": 8,
+      "title": "\"Why Is Mom Being So Aggressive?\" — What Behavioral Changes in Dementia Really Mean, and What To Do About Them",
+      "publishedDate": "2026-05-04",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.52,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.319 topic overlap.",
+      "scores": {
+        "title": 0.5,
+        "topic": 0.319,
+        "description": 0.319,
+        "transcript": 0
+      },
+      "video": {
+        "id": "9swB6SmF_yo",
+        "title": "How Do I Manage Behavioral Changes in My Loved One With Dementia?",
+        "publishedDate": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=9swB6SmF_yo",
+        "durationSeconds": 741,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "sundowning",
+      "issueNumber": 7,
+      "title": "SUNDOWNING",
+      "publishedDate": "2026-04-29",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.463,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.308 topic overlap.",
+      "scores": {
+        "title": 0.354,
+        "topic": 0.308,
+        "description": 0.308,
+        "transcript": 0
+      },
+      "video": {
+        "id": "7ib5tDw2IiI",
+        "title": "What Is Sundowning? How to Stop Late-Day Agitation in Dementia Without Medication | Dr. Erik Ilyayev",
+        "publishedDate": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=7ib5tDw2IiI",
+        "durationSeconds": 679,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "dementia-medications",
+      "issueNumber": 6,
+      "title": "DEMENTIA MEDICATIONS",
+      "publishedDate": "2026-04-28",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.491,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.252 topic overlap.",
+      "scores": {
+        "title": 0.5,
+        "topic": 0.252,
+        "description": 0.249,
+        "transcript": 0
+      },
+      "video": {
+        "id": "6TKTjYbL4vE",
+        "title": "Every Dementia Treatment Available in 2026 — The Complete Timeline (Caregivers NEED to See This)",
+        "publishedDate": "2026-04-28",
+        "url": "https://www.youtube.com/watch?v=6TKTjYbL4vE",
+        "durationSeconds": 547,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "wandering-and-elopement",
+      "issueNumber": 5,
+      "title": "WANDERING & ELOPEMENT",
+      "publishedDate": "2026-04-27",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.57,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.369 topic overlap.",
+      "scores": {
+        "title": 0.577,
+        "topic": 0.369,
+        "description": 0.369,
+        "transcript": 0
+      },
+      "video": {
+        "id": "QEs9uH7EZH0",
+        "title": "What Is Wandering in Dementia? Signs, Causes & How to Prevent Elopement",
+        "publishedDate": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=QEs9uH7EZH0",
+        "durationSeconds": 915,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "delusions-and-hallucinations",
+      "issueNumber": 4,
+      "title": "Delusions and Hallucinations",
+      "publishedDate": "2026-04-24",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.532,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.317 topic overlap.",
+      "scores": {
+        "title": 0.535,
+        "topic": 0.317,
+        "description": 0.317,
+        "transcript": 0
+      },
+      "video": {
+        "id": "SmpfiNORKvY",
+        "title": "Delusions vs Hallucinations in Dementia: What Caregivers Must Know",
+        "publishedDate": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=SmpfiNORKvY",
+        "durationSeconds": 774,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "normal-aging-vs-dementia",
+      "issueNumber": 3,
+      "title": "Normal Aging vs Dementia",
+      "publishedDate": "2026-04-23",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.592,
+      "daysApart": 0,
+      "reason": "Curated same-day candidate with 0.311 topic overlap.",
+      "scores": {
+        "title": 0.707,
+        "topic": 0.311,
+        "description": 0.311,
+        "transcript": 0
+      },
+      "video": {
+        "id": "rwtynOi9ePc",
+        "title": "Normal Aging vs Dementia: The Clear Line Most Families Miss | Dr. Erik Ilyayev",
+        "publishedDate": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=rwtynOi9ePc",
+        "durationSeconds": 591,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "is-hearing-loss-linked-to-dementia",
+      "issueNumber": 2,
+      "title": "Is Hearing Loss Linked to Dementia?",
+      "publishedDate": "2026-04-22",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.48,
+      "daysApart": 1,
+      "reason": "Curated same-day candidate with 0.276 topic overlap.",
+      "scores": {
+        "title": 0.452,
+        "topic": 0.276,
+        "description": 0.27,
+        "transcript": 0
+      },
+      "video": {
+        "id": "NEsTuqSuq90",
+        "title": "Does Hearing Loss Increase Dementia Risk by 71%? 15-Year Study | Dr. Erik, MedBetter Health",
+        "publishedDate": "2026-04-21",
+        "url": "https://www.youtube.com/watch?v=NEsTuqSuq90",
+        "durationSeconds": 324,
+        "transcriptAvailable": false
+      }
+    },
+    {
+      "slug": "what-is-dementia",
+      "issueNumber": 1,
+      "title": "What is Dementia?",
+      "publishedDate": "2026-04-21",
+      "dateSource": "issue",
+      "status": "matched",
+      "source": "curated",
+      "confidence": 0.492,
+      "daysApart": 1,
+      "reason": "Curated same-day candidate with 0.265 topic overlap.",
+      "scores": {
+        "title": 0.5,
+        "topic": 0.265,
+        "description": 0.265,
+        "transcript": 0
+      },
+      "video": {
+        "id": "P3n0qn7N9b4",
+        "title": "What Is Dementia Really? (It's Not Just Forgetfulness) | Dr. Erik Ilyayev Explains",
+        "publishedDate": "2026-04-20",
+        "url": "https://www.youtube.com/watch?v=P3n0qn7N9b4",
+        "durationSeconds": 608,
+        "transcriptAvailable": false
+      }
+    }
+  ]
+}

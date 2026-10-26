@@ -1,0 +1,867 @@
+{
+  "title": "¿Cómo se diagnostica realmente la demencia?",
+  "slug": "how-is-dementia-actually-diagnosed",
+  "issueNumber": 19,
+  "publishedDate": "2026-05-27",
+  "sourceUrl": "https://www.linkedin.com/pulse/how-dementia-actually-diagnosed-erik-ilyayev-dmpxe",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Cada semana, los cuidadores me hacen alguna versión de la misma pregunta: “Dr. Erik, ¿cómo sabemos realmente si esto es demencia?” Y es una pregunta justa.",
+  "topics": [
+    "Ruta diagnóstica de la demencia"
+  ],
+  "coverImage": "/assets/issues/how-is-dementia-actually-diagnosed/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-1.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 834
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 837
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 838
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-9.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-10.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 837
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-11.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-12.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 838
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Cada semana, los cuidadores me hacen alguna versión de la misma pregunta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, ¿cómo sabemos realmente si esto es demencia?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y es una pregunta justa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez mamá está olvidando más de lo habitual. Tal vez papá se repite. Tal vez su cónyuge pierde cosas, se confunde con las cuentas o actúa diferente a como solía hacerlo. Y luego va al médico y escucha algo vago como: “Podría ser demencia”, o “Esto podría ser solo envejecimiento normal”, o “Esperemos y veamos.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso puede dejar a las familias en un lugar muy difícil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque si usted no sabe a qué se enfrenta, no sabe para qué planificar. No sabe qué preguntas hacer. No sabe si esto es deterioro cognitivo leve, demencia, depresión, delirium, un problema de medicamentos, un problema de tiroides, una deficiencia vitamínica o algo completamente distinto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y esto es lo que lo hace aún más interesante."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Alzheimer’s Association ha informado que el 40% de los proveedores de salud dice sentirse incómodo o no tener las herramientas adecuadas para hacer un diagnóstico de demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Piense en eso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuatro de cada diez proveedores dicen que no se sienten completamente cómodos con el proceso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que si usted es cuidador y se siente abrumado por el proceso diagnóstico, no está solo. La ruta es compleja. Pero una vez que entiende cuáles son los pasos, se vuelve mucho más fácil abogar por su ser querido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi nombre es Dr. Erik Ilyayev. Soy médico de cuidado de la demencia, miembro de la junta de la South Florida Alzheimer’s Association® y CEO de MedBetterHealth.org, una de las organizaciones seleccionadas por Medicare para participar en un nuevo programa innovador diseñado para cambiar la forma en que Estados Unidos cuida a las personas que viven con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta edición, quiero explicarle cómo se diagnostica realmente la demencia, qué pruebas se usan comúnmente, qué demuestran y qué no demuestran esas pruebas, y por qué un diagnóstico es solo el comienzo del camino del cuidado."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-1.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "type": "heading",
+      "text": "LA RUTA DIAGNÓSTICA NO ES UNA SOLA PRUEBA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las ideas equivocadas más grandes que tienen las familias es que la demencia se diagnostica con una sola prueba."
+    },
+    {
+      "type": "paragraph",
+      "text": "Piensan que hay un escaneo, un análisis de sangre, una prueba de memoria, una cita, y entonces la respuesta queda clara."
+    },
+    {
+      "type": "paragraph",
+      "text": "No funciona así."
+    },
+    {
+      "type": "paragraph",
+      "text": "La demencia se diagnostica mediante una ruta clínica. Es un proceso. El proveedor tiene que reunir información de varios lugares y armar el panorama."
+    },
+    {
+      "type": "paragraph",
+      "text": "En la presentación, lo dividí en seis etapas principales:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Historia clínica y examen físico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evaluación cognitiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evaluación funcional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Análisis de laboratorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imágenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exclusiones para descartar otras causas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada pieza importa. Y si falta una pieza, el diagnóstico puede volverse poco claro o incompleto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso las familias a veces salen confundidas del consultorio. Tal vez el médico hizo una prueba de memoria, pero no una evaluación funcional. O pidió análisis, pero no imágenes. O dijo “probablemente demencia”, pero no explicó claramente qué se descartó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Como cuidador, no necesita convertirse en neurólogo. Pero sí necesita entender el mapa para poder hacer mejores preguntas."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "type": "heading",
+      "text": "PASO UNO: HISTORIA CLÍNICA Y EXAMEN FÍSICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "El primer paso es una historia clínica y un examen físico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí es donde el proveedor hace preguntas y establece la línea de base."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuándo empezaron los cambios de memoria? ¿Fueron graduales o repentinos? ¿La persona se está perdiendo? ¿Se repite? ¿Está dejando de pagar cuentas? ¿Olvida medicamentos? ¿Hay cambios de ánimo? ¿Cambios de sueño? ¿Caídas? ¿Nueva confusión? ¿Nuevos medicamentos? ¿Uso de alcohol? ¿Problemas de audición o visión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta parte importa porque la demencia por lo general no aparece de la nada de un día para otro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el cambio fue repentino, primero tenemos que pensar en otras causas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Delirium. Infección. Efectos secundarios de medicamentos. Problemas de electrolitos. Deshidratación. Dolor. Hospitalización. Depresión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cambio repentino en el pensamiento no es automáticamente demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso la historia importa."
+    },
+    {
+      "type": "paragraph",
+      "text": "El examen físico también importa porque los síntomas cognitivos no ocurren de forma aislada. El cerebro es parte del cuerpo. Si el cuerpo está enfermo, el cerebro puede verse confundido. Si hay dolor, infección, mal sueño o un problema de medicamentos, la persona puede verse cognitivamente mucho peor que su verdadera línea de base."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que el primer paso no es saltar a una etiqueta."
+    },
+    {
+      "type": "paragraph",
+      "text": "El primer paso es entender la historia."
+    },
+    {
+      "type": "heading",
+      "text": "PASO DOS: PRUEBAS COGNITIVAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "El siguiente paso es la evaluación cognitiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una herramienta común usada en entornos clínicos es la prueba MoCA, que significa Montreal Cognitive Assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora escuche con atención, porque aquí es donde muchas familias se confunden."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba MoCA no diagnostica demencia por sí sola."
+    },
+    {
+      "type": "paragraph",
+      "text": "Permítame decirlo otra vez."
+    },
+    {
+      "type": "paragraph",
+      "text": "La prueba MoCA por sí sola no diagnostica demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La MoCA ayuda a identificar si hay deterioro cognitivo y da una idea de la gravedad. Puede ayudar a mostrar si la cognición de alguien cae en un rango leve, moderado o severo. Pero no responde por sí sola toda la pregunta diagnóstica."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque la demencia no es solo pérdida de memoria."
+    },
+    {
+      "type": "paragraph",
+      "text": "La demencia es deterioro cognitivo que interfiere con la función diaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es la distinción clave."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que si alguien sale mal en una prueba de memoria, eso nos dice algo importante. Pero todavía tenemos que preguntar: ¿cómo está afectando esto la vida real?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Puede manejar medicamentos? ¿Puede pagar cuentas? ¿Puede cocinar con seguridad? ¿Puede bañarse, vestirse, comer y funcionar día a día? ¿Está tomando decisiones inseguras? ¿Está perdiendo independencia?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso las pruebas cognitivas son una parte de la ruta, no todo el diagnóstico."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "type": "heading",
+      "text": "PASO TRES: ESTADO FUNCIONAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es una de las partes más importantes de la evaluación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estado funcional."
+    },
+    {
+      "type": "paragraph",
+      "text": "En palabras simples, estamos preguntando: ¿cómo funciona la persona en la vida cotidiana?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay dos categorías de las que hablamos comúnmente."
+    },
+    {
+      "type": "paragraph",
+      "text": "La primera son las ADLs, actividades de la vida diaria. Son las tareas físicas básicas de supervivencia: bañarse, ducharse, comer, vestirse, usar el baño, trasladarse y cuidado personal."
+    },
+    {
+      "type": "paragraph",
+      "text": "La segunda son las IADLs, actividades instrumentales de la vida diaria. Son tareas más complejas de función ejecutiva: manejar una chequera, pagar cuentas, administrar medicamentos, hacer compras, cocinar, transporte, usar el teléfono y organizar responsabilidades diarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué importa esto?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque el deterioro cognitivo se convierte en demencia cuando empieza a interferir con la independencia funcional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si una persona tiene pérdida de memoria pero todavía puede manejar de forma independiente sus ADLs e IADLs, eso puede apuntar más hacia deterioro cognitivo leve."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero si la pérdida de memoria ahora interfiere con la vida diaria — las cuentas quedan sin pagar, se omiten medicamentos, se descuida el baño, hay comida dañada en el refrigerador, se olvidan citas, la estufa queda encendida — ahora estamos en una categoría muy diferente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso las familias tienen un papel tan importante en el diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "La persona que vive con pérdida de memoria puede decir: “Estoy bien.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a veces lo cree de verdad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el cuidador ve los cambios del mundo real."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuidador ve las cuentas. Los medicamentos omitidos. Las llamadas repetidas. La confusión en el supermercado. El hogar volviéndose inseguro. El cuidado personal empezando a fallar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa información importa clínicamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que cuando vaya a la cita, no diga solo: “Mamá está olvidadiza.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diga qué ha cambiado funcionalmente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es lo que ayuda al proveedor a entender la gravedad."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 834
+    },
+    {
+      "type": "heading",
+      "text": "EL DETERIORO COGNITIVO LEVE NO ES LO MISMO QUE LA DEMENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta distinción es muy importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "El deterioro cognitivo leve, o MCI, significa que hay deterioro cognitivo medible, pero el estado funcional de la persona permanece en gran parte intacto. Puede estar más olvidadiza. Puede necesitar más recordatorios. Puede tener más dificultad que antes. Pero todavía puede manejar la vida diaria de forma independiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demencia significa deterioro cognitivo más deterioro funcional."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pérdida de memoria por sí sola no equivale automáticamente a demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto importa porque las familias a veces escuchan “deterioro cognitivo” e inmediatamente piensan: “Entonces esto es demencia.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "No necesariamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "El proveedor tiene que mirar cognición y función juntas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso el diagnóstico requiere más que una prueba de memoria. Requiere entender qué está pasando en casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y por eso también importa la evaluación temprana. Si alguien está en la etapa de MCI, eso no significa que lo ignoremos. Significa que lo monitoreamos cuidadosamente, buscamos factores reversibles, optimizamos la salud y planificamos de forma apropiada."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta no es el pánico."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta es claridad."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 835
+    },
+    {
+      "type": "heading",
+      "text": "PASO CUATRO: LABORATORIOS Y CAUSAS REVERSIBLES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de que un proveedor confirme demencia, necesita buscar causas que puedan ser tratables o reversibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es la parte que las familias muchas veces no saben pedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué revisamos laboratorios?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque no todo problema de memoria es demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los problemas de tiroides pueden afectar la cognición. La deficiencia de vitamina B12 puede afectar la memoria y el pensamiento. La anemia, problemas de electrolitos, problemas de riñón o hígado, inflamación, infección y otras condiciones médicas pueden contribuir a síntomas cognitivos."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el video mencioné laboratorios como TSH, B12, CBC, CMP, homocisteína, ESR y CRP como ejemplos de pruebas que pueden formar parte de la evaluación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora bien, su clínico decide qué pruebas son apropiadas según la situación de la persona. Pero el principio es simple:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de etiquetar a alguien con demencia, tenemos que asegurarnos de no estar pasando por alto algo tratable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso este paso es tan importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien tiene hipotiroidismo y eso contribuye a los síntomas cognitivos, tratar el problema de tiroides puede mejorar el panorama."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien tiene una deficiencia vitamínica, corregirla puede ayudar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si alguien tiene una infección, deshidratación, efectos secundarios de medicamentos o un problema de electrolitos, el camino de tratamiento es diferente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que, de nuevo, el diagnóstico no se trata solo de demostrar demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "También se trata de descartar lo que no es demencia."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 837
+    },
+    {
+      "type": "heading",
+      "text": "PASO CINCO: IMÁGENES"
+    },
+    {
+      "type": "paragraph",
+      "text": "El siguiente paso son las imágenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las recomendaciones más recientes suelen favorecer la MRI cuando es posible, porque la MRI ofrece información estructural más detallada del cerebro. Pero si alguien no puede hacerse una MRI por ciertos implantes, metal, marcapasos u otros problemas médicos, se puede usar una CT en su lugar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las imágenes pueden ayudar a evaluar estructuralmente el cerebro. Pueden ayudar a buscar derrames cerebrales, masas, sangrado, hidrocefalia u otros cambios que puedan afectar la cognición."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero igual que la prueba MoCA, las imágenes no son todo el diagnóstico por sí solas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted puede tener un escaneo cerebral y aun así necesitar el resto del panorama clínico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El diagnóstico viene de armar todo el rompecabezas: historia, cognición, función, laboratorios, imágenes y exclusiones."
+    },
+    {
+      "type": "heading",
+      "text": "PASO SEIS: DESCARTAR DELIRIUM Y CONDICIONES IMPORTANTES DE SALUD MENTAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otro paso importante es descartar condiciones que pueden imitar la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las más grandes es el delirium."
+    },
+    {
+      "type": "paragraph",
+      "text": "El delirium es confusión aguda que puede ocurrir por infección, efectos de medicamentos, deshidratación, anomalías de electrolitos, hospitalización, dolor u otros problemas médicos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El delirium puede parecer demencia, pero es diferente."
+    },
+    {
+      "type": "paragraph",
+      "text": "La demencia suele ser gradual y progresiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "El delirium suele ser repentino, fluctuante y médicamente urgente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que si alguien se confunde rápidamente — en horas o días — no asuma: “Esto es solo demencia.” Esa persona necesita evaluación médica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra área importante es la salud mental."
+    },
+    {
+      "type": "paragraph",
+      "text": "La depresión mayor a veces puede parecer deterioro cognitivo. Una persona puede verse olvidadiza, lenta, retraída o incapaz de concentrarse. Eso no significa que sea demencia. Significa que el clínico necesita hacer las preguntas correctas y hacer una evaluación adecuada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que antes de finalizar un diagnóstico, el proveedor tiene que descartar condiciones psiquiátricas importantes y causas médicas agudas que puedan estar impulsando los síntomas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso el proceso diagnóstico requiere trabajo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No se trata solo de nombrar la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se trata de asegurarse de que el nombre sea preciso."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "type": "heading",
+      "text": "LA ECUACIÓN DIAGNÓSTICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es la forma más simple de pensar en el diagnóstico de demencia:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Deterioro cognitivo más pérdida de independencia funcional, menos causas médicas reversibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es la ecuación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si hay deterioro cognitivo, pero la función diaria todavía está intacta, podríamos estar viendo deterioro cognitivo leve."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si hay deterioro cognitivo y deterioro funcional, entonces la demencia se vuelve más probable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero si hay una causa médica reversible que explica los síntomas, entonces eso debe abordarse antes de finalizar el diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso quiero que los cuidadores tengan cuidado cuando alguien da una etiqueta rápida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si un proveedor dice: “Probablemente es demencia”, está bien preguntar:"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué prueba cognitiva se hizo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo se evaluó el estado funcional?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Se ordenaron análisis de laboratorio?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Se consideraron imágenes?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Se descartaron causas reversibles?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Se descartó delirium?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Se evaluó depresión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué tipo de demencia sospecha?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Necesitamos neurología o evaluación de un especialista?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas no son preguntas irrespetuosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son buenas preguntas de cuidador."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 838
+    },
+    {
+      "type": "heading",
+      "text": "DEMENCIA NO ESPECIFICADA NO ES LA RESPUESTA FINAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez que la ruta clínica confirma demencia, el primer diagnóstico puede ser “demencia no especificada”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no significa que el trabajo terminó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Significa que sabemos que hay deterioro cognitivo y deterioro funcional, y que las causas reversibles se han abordado o descartado, pero quizá todavía no sepamos la enfermedad exacta que lo causa."
+    },
+    {
+      "type": "paragraph",
+      "text": "La enfermedad de Alzheimer es la más común. Pero hay otros tipos: demencia con cuerpos de Lewy, demencia vascular, demencia frontotemporal y otras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada tipo puede presentarse de manera diferente. Algunos pueden involucrar alucinaciones más temprano. Algunos pueden tener más síntomas de movimiento. Algunos pueden afectar personalidad o conducta antes que la memoria. Algunos pueden estar conectados con enfermedad vascular o derrames cerebrales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí es donde un especialista, a menudo un neurólogo, puede ayudar a aclarar el tipo de demencia y guiar la siguiente etapa del cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero quiero que las familias recuerden algo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incluso antes de conocer el subtipo exacto, el cuidador todavía necesita ayuda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque las preguntas del día a día no esperan."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué hago cuando mamá rechaza la ducha?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué hago cuando papá se confunde por la noche?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo manejo los medicamentos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo sé si es seguro que mi ser querido esté solo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo hablo con mi familia sobre las necesidades de cuidado?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué pasa cuando el diagnóstico está completo pero el camino del cuidado apenas empieza?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahí es donde empieza el verdadero trabajo."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-9.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 836
+    },
+    {
+      "type": "heading",
+      "text": "EL DIAGNÓSTICO ESTÁ COMPLETO. AHORA EMPIEZA EL VERDADERO TRABAJO."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un diagnóstico puede dar claridad a las familias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero claridad no es lo mismo que apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es una de las brechas más grandes en el cuidado de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una familia puede finalmente recibir el diagnóstico después de meses o años de confusión. Y luego sale de la clínica con una etiqueta, tal vez un medicamento, tal vez una cita de seguimiento y una carpeta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los verdaderos desafíos empiezan en casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "El diagnóstico no le dice cómo lograr que mamá entre a la ducha."
+    },
+    {
+      "type": "paragraph",
+      "text": "No le dice qué hacer cuando papá hace la misma pregunta una y otra vez."
+    },
+    {
+      "type": "paragraph",
+      "text": "No le dice cómo manejar el síndrome del atardecer a las 7 p. m."
+    },
+    {
+      "type": "paragraph",
+      "text": "No le dice cómo manejar la culpa del cuidador, hermanos que no están de acuerdo, riesgo de deambulación, rechazo de medicamentos o el miedo de dejar solo a su ser querido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso el cuidado de la demencia no puede detenerse en el diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias necesitan educación. Coordinación de cuidado. Navegación. Orientación práctica. Un lugar al que llamar cuando aparece el siguiente problema."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque la demencia no es un evento médico de una sola vez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un largo camino de cuidado."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/how-is-dementia-actually-diagnosed/image-10.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 837
+    }
+  ],
+  "disclaimer": "Esto es educación, no consejo médico. Si le preocupa la pérdida de memoria, la confusión, cambios repentinos de conducta, efectos de medicamentos, depresión, delirium o la seguridad, hable con un profesional de la salud calificado.",
+  "youtubeVideo": {
+    "id": "UqBJX_8hdfg",
+    "title": "Cómo diagnostican los médicos la demencia: proceso paso a paso explicado",
+    "publishedDate": "2026-05-27",
+    "description": "Video complementario de Straight Talk with Dr. Erik para el artículo \"¿Cómo se diagnostica realmente la demencia?\": Cómo diagnostican los médicos la demencia: proceso paso a paso explicado.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UqBJX_8hdfg/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=UqBJX_8hdfg",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/UqBJX_8hdfg"
+  }
+}

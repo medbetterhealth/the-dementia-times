@@ -1,0 +1,39 @@
+{
+  "title": "Поддержка ухаживающих при деменции",
+  "slug": "dementia-caregiver-support",
+  "description": "Практическое руководство о перегрузке ухаживающих, группах поддержки, передышке, помощи на дому и уходе при деменции для всей семьи.",
+  "directAnswer": "Уход при деменции касается не только пациента. Ухаживающим нужны обучение, эмоциональная поддержка, координация ухода, передышка и план на случай изменений болезни. Просить поддержки — не провал; это часть сохранения устойчивой системы ухода дома.",
+  "keyTakeaways": [
+    "Стресс ухаживающего — это клинический риск, а не просто личное неудобство.",
+    "Группы поддержки, передышка, навигация и структурированное планирование ухода помогают семьям дольше оставаться устойчивыми.",
+    "Хороший уход при деменции включает и человека, живущего с деменцией, и тех, кто несет ежедневную нагрузку."
+  ],
+  "issueSlugs": [
+    "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia",
+    "the-power-of-caregiver-support-groups",
+    "what-support-do-dementia-caregivers-actually-need-at-home",
+    "why-can-t-dementia-care-focus-only-on-the-patient",
+    "the-one-resource-most-dementia-caregivers-overlook-and-it-s-not-a-medication",
+    "why-does-respite-care-sometimes-fail-for-dementia-caregivers"
+  ],
+  "faqs": [
+    {
+      "question": "Нормально ли чувствовать перегрузку при уходе за человеком с деменцией?",
+      "answer": "Это распространено, но игнорировать это нельзя. Перегрузка — сигнал, что системе ухода нужны дополнительная поддержка, структура или облегчение."
+    },
+    {
+      "question": "Какая поддержка нужна ухаживающим дома?",
+      "answer": "Многим семьям нужны обучение, навигация, план безопасности, поддержка при поведении, передышка и помощь в координации медицинских и общественных ресурсов."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: какая поддержка действительно нужна ухаживающим при деменции дома?",
+      "url": "https://thedementiatimes.com/ru/issues/what-support-do-dementia-caregivers-actually-need-at-home/"
+    },
+    {
+      "title": "Centers for Disease Control and Prevention: уход за человеком с болезнью Альцгеймера или родственной деменцией",
+      "url": "https://www.cdc.gov/aging/caregiving/alzheimer.htm"
+    }
+  ]
+}

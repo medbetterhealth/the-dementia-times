@@ -1,0 +1,52 @@
+{
+  "siteUrl": "https://thedementiatimes.com",
+  "title": "The Dementia Times",
+  "presentedBy": "Dr. Erik Ilyayev presents",
+  "description": "Evidence-based insights on dementia care from Dr. Erik Ilyayev.",
+  "newsletterUrl": "https://www.linkedin.com/newsletters/the-dementia-times-7452443336956899329/",
+  "author": {
+    "name": "Dr. Erik Ilyayev, MD",
+    "role": "CEO, MedBetter Health",
+    "linkedinUrl": "https://www.linkedin.com/in/erik-ilyayev-b9795084/",
+    "headshot": "/assets/brand/dr-erik-headshot.jpeg"
+  },
+  "brand": {
+    "medBetterUrl": "https://medbetterhealth.org/",
+    "logo": "/assets/brand/medbetter-health-logo-transparent.png",
+    "publicationMark": "/assets/brand/dementia-times-mark.svg",
+    "youtubeUrl": "https://www.youtube.com/@erikilyayev",
+    "youtubePlaylistUrl": "https://www.youtube.com/watch?v=58ziiR8eujM&list=PLghCRz2fTSjo_WUu-kYFhMsBGDJz-ExPE&pp=sAgC",
+    "youtubeBanner": "/assets/brand/straight-talk-with-dr-erik-banner.jpg"
+  },
+  "analytics": {
+    "enabled": true,
+    "provider": "plausible",
+    "plausibleDomain": "thedementiatimes.com"
+  },
+  "newsletterCapture": {
+    "enabled": false,
+    "provider": "formspree",
+    "endpoint": ""
+  },
+  "ringCentral": {
+    "enabled": false,
+    "smsEndpoint": ""
+  },
+  "guide": {
+    "label": "Medicare Program · GUIDE Model Participant",
+    "title": "Imagine a world where caring for your loved one with dementia doesn't mean doing it alone.",
+    "body": "Where you have someone to help at home, and 24/7 access to support when you need it. You don't have to imagine anymore. This is now a reality, and covered by Medicare*.",
+    "secondaryBody": "Through the MedBetterHealth GUIDE Model, Medicare covers eligible home care services to help you support your loved one. You get the support you need. Ready to get started? See if you qualify.",
+    "compactTitle": "Support when dementia care starts to feel too heavy",
+    "compactBody": "Home help, 24/7 support, and caregiver guidance may be covered by Medicare through the GUIDE Model.",
+    "benefitScenarios": [
+      "Medicare may cover home care services so you can rest, go to your own appointment, or have dinner with family while your loved one is cared for.",
+      "A 24/7 support line gives you somewhere to call when Mom is acting different at night and you are not sure what to do.",
+      "Care guidance can help you handle shower refusal, medication refusal, agitation, or confusion with calmer steps.",
+      "Respite support may give caregivers real time back when eligibility requirements are met."
+    ],
+    "finePrint": "Eligibility generally requires a confirmed dementia diagnosis and enrollment in traditional Medicare Parts A & B. Individuals residing in long-term care facilities are generally not eligible. MedBetterHealth is an approved GUIDE Model participant and is not affiliated with or endorsed by CMS or the U.S. government beyond that status.",
+    "url": "https://intakeguide.medbetterhealth.org",
+    "cta": "See if you qualify"
+  }
+}

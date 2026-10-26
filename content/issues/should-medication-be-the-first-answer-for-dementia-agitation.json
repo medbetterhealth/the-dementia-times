@@ -1,0 +1,782 @@
+{
+  "title": "Should Medication Be the First Answer for Dementia Agitation?",
+  "slug": "should-medication-be-the-first-answer-for-dementia-agitation",
+  "issueNumber": 23,
+  "publishedDate": "2026-06-02",
+  "sourceUrl": "https://www.linkedin.com/pulse/should-medication-first-answer-dementia-agitation-erik-ilyayev-rwe3e",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Every week, caregivers ask me some version of the same question: “Dr. Erik, my mom is agitated. She gets aggressive. She becomes paranoid.",
+  "topics": [
+    "Dementia Agitation And Medication Risk"
+  ],
+  "coverImage": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 800
+    },
+    {
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 803
+    },
+    {
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 803
+    },
+    {
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Every week, caregivers ask me some version of the same question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, my mom is agitated. She gets aggressive. She becomes paranoid. The aides are saying they cannot manage her anymore. Should we ask the doctor for medication?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And listen, I understand why families ask this."
+    },
+    {
+      "type": "paragraph",
+      "text": "When someone living with dementia becomes agitated, aggressive, paranoid, or difficult to redirect, it can feel like the whole house is living in crisis. The caregiver is exhausted. The home care aide may feel unsafe. The family may be afraid that one more bad episode will push everything over the edge."
+    },
+    {
+      "type": "paragraph",
+      "text": "So the instinct is very natural:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can we give her something to calm her down?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "But before we jump straight to medication, we have to slow down."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because medications are not TikToks."
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not just try them casually, see what happens, and move on. Medications have real effects, and they can have real risks — especially in older adults living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I’m a dementia care physician, a board member of the South Florida Alzheimer's Association®, and the CEO of MedBetterHealth.org — one of the organizations selected by Medicare to participate in a groundbreaking new program designed to change how America cares for people living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this issue, I want to talk about behavioral and psychological symptoms of dementia, why medication is sometimes considered, why it should not automatically be the first tool, and what caregivers should ask before turning agitation into a prescription."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-1.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "WHAT ARE BEHAVIORAL AND PSYCHOLOGICAL SYMPTOMS OF DEMENTIA?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In dementia care, we often use the phrase behavioral and psychological symptoms of dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "That can include agitation, aggression, paranoia, hallucinations, delusions, sleep disturbance, anxiety, emotional distress, resistance to care, and other behavioral changes that show up as the disease progresses."
+    },
+    {
+      "type": "paragraph",
+      "text": "These symptoms can be very hard for families."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are not just “annoying behaviors.” They can disrupt sleep. They can make bathing impossible. They can make medication routines difficult. They can scare home care aides. They can make the caregiver feel like they are living on edge all day."
+    },
+    {
+      "type": "paragraph",
+      "text": "A loved one may accuse someone of stealing. They may think the aide is trying to hurt them. They may become aggressive when someone tries to help them shower. They may become suspicious when things are moved in the room. They may become agitated when the environment feels unfamiliar."
+    },
+    {
+      "type": "paragraph",
+      "text": "And because these behaviors are so stressful, families often go to the doctor and say:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She is acting agitated.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“He is getting aggressive.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“We need something to calm her down.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where this conversation begins."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because yes, medication may sometimes have a role. But it should not be the first reflex without asking why the behavior is happening."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 800
+    },
+    {
+      "type": "heading",
+      "text": "THE FIRST QUESTION IS NOT “WHAT MEDICATION?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first question should be:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What is causing this behavior?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the clinical shift I want caregivers to understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your loved one is agitated, the behavior is not the full diagnosis. It is the visible output. The real question is what is underneath it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there pain?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there infection?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there constipation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there dehydration?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there poor sleep?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there a new medication side effect?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the room too loud?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the lighting creating shadows?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the person overstimulated?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the caregiver rushing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the aide wearing something that makes the person feel like they are in a hospital?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the person afraid?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the person trying to communicate something they can no longer explain clearly?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If we do not ask those questions, we may end up treating the surface while missing the cause."
+    },
+    {
+      "type": "paragraph",
+      "text": "And in dementia care, that can create problems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because if the behavior is being triggered by pain, medication may sedate the person without treating the pain. If the behavior is being triggered by a urinary tract infection or delirium, the person needs medical evaluation. If the behavior is being triggered by fear, rushing, or environmental overstimulation, the first intervention may be changing the approach, not adding a medication."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why caregivers need to become detectives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not because you are expected to be the doctor."
+    },
+    {
+      "type": "paragraph",
+      "text": "But because you are the person seeing what happens in the home."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 803
+    },
+    {
+      "type": "heading",
+      "text": "THE STORY OF MY GRANDMOTHER"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to give you a personal example."
+    },
+    {
+      "type": "paragraph",
+      "text": "My grandmother is 93 years old. My parents are in their 70s, and they are caregivers for her."
+    },
+    {
+      "type": "paragraph",
+      "text": "At one point, my grandmother started having episodes of agitation and aggression. She had private duty home care in the home, and the aides were reporting back to my parents:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“We cannot stay here anymore. She is too aggressive.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, the easy answer would have been to say, “Okay, let’s give her medication.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "But that is not where I start."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first thing I always try to do is ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What is causing the aggression?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Was the home health aide wearing scrubs? And if she was wearing scrubs, could that be triggering my grandmother to think she is in the hospital? Could that make her nervous? Could that make her feel threatened?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the aide comes in dressed like clinical staff, maybe my grandmother’s brain interprets the situation as danger."
+    },
+    {
+      "type": "paragraph",
+      "text": "So instead of immediately increasing medication, maybe we first ask the aide to wear regular clothing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simple change."
+    },
+    {
+      "type": "paragraph",
+      "text": "Different emotional response."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or maybe my grandmother thinks someone is stealing from her because things keep moving in her room. Maybe objects are being rearranged, and because she cannot remember where they went, her brain fills the gap with suspicion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, the question becomes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can we change the environment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can we keep her items in consistent places?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can we reduce the triggers before we medicate the reaction?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not jump straight to the prescription pad without first asking what the person is experiencing."
+    },
+    {
+      "type": "heading",
+      "text": "WHEN MEDICATION MAY BE NEEDED"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let me be very clear."
+    },
+    {
+      "type": "paragraph",
+      "text": "I am not saying medication is never appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "That would be wrong."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are situations where medication may be necessary. If a person is severely distressed, unsafe, aggressive, hallucinating, paranoid, or at risk of harming themselves or others, the medical team may decide that medication is appropriate after weighing the risks and benefits."
+    },
+    {
+      "type": "paragraph",
+      "text": "In my grandmother’s case, after we looked at everything, after we tried to identify triggers, after we considered non-medication interventions, we still needed to use a very low dose medication under clinical supervision."
+    },
+    {
+      "type": "paragraph",
+      "text": "That can happen."
+    },
+    {
+      "type": "paragraph",
+      "text": "But here is the key:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Medication requires careful, ongoing clinician judgment."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should not be used casually."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should not be used only for caregiver convenience."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should not be the only tool."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should not replace environmental optimization, emotional de-escalation, medical evaluation, and caregiver education."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is not “no medication ever.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is the right intervention, for the right reason, with the right monitoring."
+    },
+    {
+      "type": "heading",
+      "text": "THE RISKS OF ANTIPSYCHOTIC MEDICATIONS IN DEMENTIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why families need to understand the risk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antipsychotic medications used in older adults with dementia-related psychosis carry significant safety concerns, including increased mortality risk. Some medications carry black box warnings in this population."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean a medication can never be used."
+    },
+    {
+      "type": "paragraph",
+      "text": "It means the decision has to be taken seriously."
+    },
+    {
+      "type": "paragraph",
+      "text": "There should be a clear reason. There should be a risk-benefit discussion. There should be clinical monitoring. There should be ongoing reassessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "And before medication is used strictly for behavioral control, families should ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we looked for pain?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we ruled out infection or delirium?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we reviewed the medication list for side effects?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we looked at sleep?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we looked at constipation, hydration, and hunger?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we changed the environment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we adjusted the caregiver approach?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we tried emotional de-escalation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we identified the specific trigger?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have we discussed risks and benefits with the clinician?"
+    },
+    {
+      "type": "paragraph",
+      "text": "These are not anti-medication questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are good dementia care questions."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 803
+    },
+    {
+      "type": "heading",
+      "text": "ENVIRONMENTAL OPTIMIZATION COMES FIRST"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most important takeaways is this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Environmental optimization and emotional de-escalation must remain primary tools."
+    },
+    {
+      "type": "paragraph",
+      "text": "What does that mean?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It means we look at the home."
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the room too loud?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the television showing distressing news?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are there too many people talking at once?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the lighting poor?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are shadows creating fear?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are mirrors causing misinterpretation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are personal items being moved?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the person being rushed?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the caregiver approaching too quickly?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the aide touching without warning?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the person tired, hungry, thirsty, overstimulated, or confused?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Small things can become big triggers in dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person living with dementia may not be able to explain, “The aide’s scrubs make me feel like I’m back in the hospital.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "They may not say, “The room is too loud.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "They may not say, “I’m scared because I don’t recognize this person.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "They may not say, “I feel like people are moving my things and I have no control.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, they may become agitated."
+    },
+    {
+      "type": "paragraph",
+      "text": "So the caregiver’s job is not only to manage the behavior after it explodes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver’s job is to look upstream."
+    },
+    {
+      "type": "paragraph",
+      "text": "What can we change before the behavior happens?"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/should-medication-be-the-first-answer-for-dementia-agitation/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "type": "heading",
+      "text": "EMOTIONAL DE-ESCALATION MATTERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "The other primary tool is emotional de-escalation."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a loved one becomes agitated, the caregiver instinct may be to correct, argue, explain, or overpower."
+    },
+    {
+      "type": "paragraph",
+      "text": "But that often makes the situation worse."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your loved one is paranoid and says, “You are stealing from me,” and you respond, “No, I’m not. You’re wrong,” you may be telling the truth, but you may also be escalating the fear."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your loved one refuses care and you push harder, the brain may interpret the situation as danger."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your loved one is already emotionally activated, logic may not reach them."
+    },
+    {
+      "type": "paragraph",
+      "text": "So we start with the emotion."
+    },
+    {
+      "type": "paragraph",
+      "text": "“I can see this is upsetting.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“You seem scared.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“I’m here with you.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Let’s slow down.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“We do not have to do this right this second.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is not giving in."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is clinical strategy."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are lowering the threat level so the person’s nervous system can settle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the emotion is calmer, then you can redirect, retry, or change the approach."
+    },
+    {
+      "type": "heading",
+      "text": "WHAT TO ASK THE DOCTOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your loved one is having agitation, aggression, paranoia, hallucinations, or other behavioral symptoms, the first step is to speak with their doctor."
+    },
+    {
+      "type": "paragraph",
+      "text": "But do not only say, “Can we get something to calm her down?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tell the full story."
+    },
+    {
+      "type": "paragraph",
+      "text": "Say:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“When did it start?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“How often is it happening?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What time of day does it happen?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What happened right before?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Was there a new medication?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Any recent infection?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Any pain?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Any constipation?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Any falls?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Any sleep changes?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Any changes in caregivers?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Any environmental changes in the home?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Then ask the doctor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Can we look for non-medication interventions first?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Could this be delirium?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Could this be pain or infection?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Could a medication side effect be contributing?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What are the risks and benefits if medication is being considered?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“How will we monitor it?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“When will we reassess whether it is still needed?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is how you move from panic to process."
+    },
+    {
+      "type": "paragraph",
+      "text": "And caregivers need process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because without process, every behavioral episode feels like an emergency."
+    }
+  ],
+  "disclaimer": "This is education, not medical advice. Do not start, stop, increase, decrease, or change any medication without speaking to the prescribing clinician. If agitation, aggression, paranoia, hallucinations, confusion, or safety concerns appear suddenly or worsen quickly, contact a qualified healthcare professional promptly.",
+  "youtubeVideo": {
+    "id": "KHR-xnurG_M",
+    "title": "Before Antipsychotics for Dementia Behaviors, Watch This",
+    "publishedDate": "2026-06-02",
+    "description": "Is your loved one living with dementia taking an antipsychotic medication for agitation, aggression, paranoia, or other behavioral symptoms? Before families think only about medication, caregivers need to understand the bigger picture. In dementia care, behavioral and psychological symptoms of dementia — also called BPSD — can include agitation, aggression, paranoia, anxiety, hallucinations, and other behavior changes. And when those behaviors become overwhelming, the first instinct is often: “Can we give Mom something to calm her down?” But medications are not simple. Antipsychotic medications used in older adults with dementia-related psychosis can carry serious safety concerns, including a black box warning related to increased mortality risk. That does not mean medication is never used. It means these decisions need careful, ongoing clinician judgment. In this video, I explain why caregivers should talk with their loved one’s doctor, look for possible triggers, and ask whether non-medication interventions can be tried before relying only on medication for behavior control. Sometimes agitation is not random. It may be connected to the environment, clothing, noise, fear, confusion, feeling unsafe, thinking they are in the hospital, or believing someone moved or stole their belongings. Before jumping straight to medication, caregivers should ask: What changed? What happened right before the behavior? Could something in the environment be triggering fear? Could the person feel rushed, confused, unsafe, or misunderstood? Are there medical issues, pain, infection, dehydration, constipation, sleep problems, or medication changes involved? If you are caring for someone living with dementia in New York or Florida, MedBetterHealth may be able to support you through the GUIDE Model. Learn more here: medbetterhealth.org/guide The GUIDE Model is designed to support eligible families with dementia care education, caregiver support, care coordination, access to 24/7 support, and respite support when eligible. Timestamps: 00:00 - Is your loved one taking an antipsychotic for dementia behaviors? 00:38 - What BPSD means in dementia care 00:53 - Agitation, aggression, paranoia, and behavioral symptoms 01:09 - Why caregivers often turn to medication first 01:20 - Why medications can have side effects 01:29 - Antipsychotic safety concerns in dementia-related psychosis 01:42 - Black box warnings and mortality risk 02:03 - Dr. Erik’s grandmother story 02:35 - Looking for non-medication interventions first 02:45 - Could clothing or the environment be triggering fear? 03:12 - Could misplaced items trigger paranoia? 03:33 - Medication decisions require clinician judgment 03:52 - Environmental optimization and emotional de-escalation 04:09 - Talk to your loved one’s doctor first 04:20 - Ask about non-medication interventions 04:49 - Support for dementia caregivers through the GUIDE Model In this video, you’ll learn: - What BPSD means - Why dementia can cause agitation, aggression, paranoia, and behavior changes - Why antipsychotic medications in dementia require caution - Why caregivers should talk with their loved one’s doctor before making medication decisions - Why environmental triggers matter - Why emotional de-escalation should remain a primary caregiver tool - How small details like clothing, room setup, confusion, and misplaced items can affect behavior - Why medication may still be considered in some cases under clinician guidance - Why caregivers need education and support, not just crisis management This video is for educational purposes only and is not medical advice. Always speak with your doctor, neurologist, or healthcare professional before starting, stopping, changing, or questioning any medication or care plan. Subscribe to Straight Talk with Dr. Erik for more dementia care education, Alzheimer’s caregiver support, and practical strategies for families caring for someone living with dementia. Keywords: antipsychotics dementia, dementia medications, dementia agitation, dementia aggression, dementia paranoia, BPSD dementia, behavioral and psychological symptoms of dementia, dementia behavior problems, dementia caregiver support, Alzheimer’s agitation, antipsychotic black box warning dementia, dementia psychosis, dementia medication risks, non-medication dementia interventions, dementia de-escalation, dementia triggers, GUIDE Model, Medicare GUIDE Model, MedBetterHealth, Straight Talk with Dr. Erik, dementia care New York, dementia care Florida",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KHR-xnurG_M/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=KHR-xnurG_M",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/KHR-xnurG_M"
+  }
+}

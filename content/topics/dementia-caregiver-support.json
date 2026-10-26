@@ -1,0 +1,39 @@
+{
+  "title": "Dementia Caregiver Support",
+  "slug": "dementia-caregiver-support",
+  "description": "A practical guide to caregiver overwhelm, support groups, respite, home support, and whole-family dementia care.",
+  "directAnswer": "Dementia care is not only about the patient. Caregivers need education, emotional support, care coordination, respite, and a plan for what happens when the disease changes. Asking for support is not failure; it is part of keeping the home care system stable.",
+  "keyTakeaways": [
+    "Caregiver stress is a clinical risk, not just a personal inconvenience.",
+    "Support groups, respite, navigation, and structured care planning can help families stay steady longer.",
+    "Good dementia care includes the person living with dementia and the people carrying the day-to-day load."
+  ],
+  "issueSlugs": [
+    "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia",
+    "the-power-of-caregiver-support-groups",
+    "what-support-do-dementia-caregivers-actually-need-at-home",
+    "why-can-t-dementia-care-focus-only-on-the-patient",
+    "the-one-resource-most-dementia-caregivers-overlook-and-it-s-not-a-medication",
+    "why-does-respite-care-sometimes-fail-for-dementia-caregivers"
+  ],
+  "faqs": [
+    {
+      "question": "Is caregiver overwhelm normal in dementia care?",
+      "answer": "It is common, but it should not be ignored. Overwhelm is a signal that the care system needs more support, structure, or relief."
+    },
+    {
+      "question": "What support do dementia caregivers need at home?",
+      "answer": "Many families need education, navigation, safety planning, behavior support, respite, and help coordinating medical and community resources."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: What Support Do Dementia Caregivers Actually Need at Home?",
+      "url": "https://thedementiatimes.com/issues/what-support-do-dementia-caregivers-actually-need-at-home/"
+    },
+    {
+      "title": "Centers for Disease Control and Prevention: Caregiving for a person with Alzheimer’s disease or a related dementia",
+      "url": "https://www.cdc.gov/aging/caregiving/alzheimer.htm"
+    }
+  ]
+}

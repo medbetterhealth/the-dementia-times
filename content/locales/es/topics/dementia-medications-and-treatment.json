@@ -1,0 +1,37 @@
+{
+  "title": "Medicamentos y tratamiento para la demencia",
+  "slug": "dementia-medications-and-treatment",
+  "description": "Una guía en lenguaje claro sobre medicamentos para la demencia, nuevos tratamientos para el Alzheimer, agitación y lo que las familias deben preguntar antes de que el medicamento sea la respuesta.",
+  "directAnswer": "Los medicamentos para la demencia a veces pueden ayudar con síntomas o desacelerar el deterioro en ciertos pacientes con Alzheimer, pero no son curas ni sirven igual para todos. Las familias deben preguntar qué problema busca resolver el medicamento, para qué etapa es apropiado, qué riesgos vigilar y qué causas no farmacológicas deben revisarse primero.",
+  "keyTakeaways": [
+    "Los medicamentos tradicionales para la demencia generalmente apoyan los síntomas; los tratamientos antiamiloides más nuevos se limitan a situaciones específicas de Alzheimer temprano.",
+    "La agitación, el rechazo, los problemas de sueño, el dolor, la infección, la pérdida auditiva y los desencadenantes del entorno deben evaluarse antes de agregar medicamentos por reflejo.",
+    "Las decisiones sobre medicamentos deben individualizarse con un clínico que entienda el diagnóstico, la etapa, los objetivos y los riesgos."
+  ],
+  "issueSlugs": [
+    "dementia-medications",
+    "are-there-any-new-treatments-that-can-actually-slow-alzheimer-s-disease",
+    "should-medication-be-the-first-answer-for-dementia-agitation",
+    "why-won-t-my-loved-one-with-dementia-take-their-medication"
+  ],
+  "faqs": [
+    {
+      "question": "¿Hay medicamentos que curen la demencia?",
+      "answer": "No. Algunos medicamentos pueden ayudar con síntomas o desacelerar la progresión en pacientes seleccionados, pero no recuperan la memoria perdida ni curan la demencia."
+    },
+    {
+      "question": "¿La agitación siempre debe tratarse con antipsicóticos?",
+      "answer": "No. La agitación puede ser comunicación. Las familias y los clínicos primero deben buscar dolor, infección, miedo, sobreestimulación, cambios de rutina, efectos secundarios de medicamentos y causas ambientales."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: Medicamentos para la demencia",
+      "url": "https://thedementiatimes.com/es/issues/dementia-medications/"
+    },
+    {
+      "title": "U.S. FDA: La FDA convierte un tratamiento novedoso para el Alzheimer a aprobación tradicional",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-converts-novel-alzheimers-disease-treatment-traditional-approval"
+    }
+  ]
+}

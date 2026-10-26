@@ -1,0 +1,548 @@
+[
+  {
+    "id": "basics",
+    "label": "Основы деменции",
+    "description": "Начните здесь: простые объяснения деменции, тревожных признаков, диагностики и стадий.",
+    "defaultQuery": "что такое деменция нормальное старение диагностика стадии",
+    "category": "basics",
+    "topic": "Основы деменции",
+    "terms": {
+      "en": [
+        "memory",
+        "forgetful",
+        "normal aging",
+        "diagnosis",
+        "stage",
+        "what is dementia"
+      ],
+      "es": [
+        "memoria",
+        "olvidos",
+        "envejecimiento normal",
+        "diagnóstico",
+        "etapas",
+        "demencia"
+      ],
+      "ru": [
+        "память",
+        "забывчивость",
+        "нормальное старение",
+        "диагноз",
+        "стадии",
+        "деменция"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Что такое деменция?",
+        "query": "что такое деменция?",
+        "answerSlug": "what-is-dementia"
+      },
+      {
+        "question": "Это нормальное старение или деменция?",
+        "query": "это нормальное старение или деменция?",
+        "answerSlug": "normal-aging-vs-dementia"
+      },
+      {
+        "question": "На какой стадии деменции мой близкий человек?",
+        "query": "на какой стадии деменции мой близкий человек?",
+        "answerSlug": "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next"
+      }
+    ],
+    "issueSlugs": [
+      "what-is-dementia",
+      "normal-aging-vs-dementia",
+      "how-is-dementia-actually-diagnosed",
+      "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+      "why-is-early-dementia-diagnosis-so-important-for-families"
+    ]
+  },
+  {
+    "id": "behavior",
+    "label": "Проблемы поведения",
+    "description": "Используйте этот раздел при возбуждении, агрессии, обвинениях, галлюцинациях, блуждании, спутанности или отказе от ухода.",
+    "defaultQuery": "поведение возбуждение агрессия отказ галлюцинации блуждание спутанность",
+    "category": "behavior",
+    "topic": "Изменения поведения",
+    "terms": {
+      "en": [
+        "behavior",
+        "behaviour",
+        "agitation",
+        "aggressive",
+        "yelling",
+        "hallucination",
+        "delusion",
+        "confusion",
+        "wandering",
+        "refusal"
+      ],
+      "es": [
+        "conducta",
+        "comportamiento",
+        "agitación",
+        "agresivo",
+        "gritos",
+        "alucinación",
+        "delirio",
+        "confusión",
+        "deambular",
+        "rechazo"
+      ],
+      "ru": [
+        "поведение",
+        "возбуждение",
+        "агрессия",
+        "крики",
+        "галлюцинации",
+        "бред",
+        "спутанность",
+        "бродяжничество",
+        "отказ"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Почему мама внезапно стала агрессивной?",
+        "query": "почему мама внезапно стала агрессивной?",
+        "answerSlug": "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them"
+      },
+      {
+        "question": "Почему мой близкий обвиняет меня в краже?",
+        "query": "почему мой близкий обвиняет меня в краже?",
+        "answerSlug": "why-is-my-loved-one-with-dementia-accusing-me-of-stealing"
+      },
+      {
+        "question": "Что делать, когда меняется поведение?",
+        "query": "что делать, когда меняется поведение?",
+        "answerSlug": "why-do-dementia-behaviors-happen-and-what-should-families-do"
+      }
+    ],
+    "issueSlugs": [
+      "why-do-dementia-behaviors-happen-and-what-should-families-do",
+      "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them",
+      "why-is-my-loved-one-with-dementia-accusing-me-of-stealing",
+      "delusions-and-hallucinations",
+      "wandering-and-elopement",
+      "why-did-my-loved-one-with-dementia-suddenly-become-confused"
+    ]
+  },
+  {
+    "id": "refusing-help",
+    "label": "Отказ от помощи",
+    "description": "Найдите статьи о душе, лекарствах, ограничениях вождения, уходе на дому и «слепом пятне» деменции.",
+    "defaultQuery": "отказывается от помощи душ лекарства вождение анозогнозия",
+    "category": "refusing-help",
+    "topic": "Отказ от ухода",
+    "terms": {
+      "en": [
+        "refuse",
+        "refuses",
+        "won't",
+        "wont",
+        "resist",
+        "help",
+        "anosognosia",
+        "shower",
+        "medication",
+        "driving"
+      ],
+      "es": [
+        "rechaza",
+        "niega",
+        "resiste",
+        "ayuda",
+        "anosognosia",
+        "ducha",
+        "baño",
+        "medicación",
+        "conducir"
+      ],
+      "ru": [
+        "отказывается",
+        "отказ",
+        "сопротивляется",
+        "помощь",
+        "анозогнозия",
+        "душ",
+        "купание",
+        "лекарства",
+        "вождение"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Почему мой близкий отказывается от помощи?",
+        "query": "почему мой близкий отказывается от помощи?",
+        "answerSlug": "why-do-dementia-patients-refuse-help"
+      },
+      {
+        "question": "Как убедить маму принять душ?",
+        "query": "как убедить маму принять душ?",
+        "answerSlug": "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it"
+      },
+      {
+        "question": "Что делать, если человек не принимает лекарства?",
+        "query": "что делать, если человек не принимает лекарства?",
+        "answerSlug": "why-won-t-my-loved-one-with-dementia-take-their-medication"
+      }
+    ],
+    "issueSlugs": [
+      "why-do-dementia-patients-refuse-help",
+      "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it",
+      "why-won-t-my-loved-one-with-dementia-take-their-medication",
+      "when-should-someone-with-dementia-stop-driving"
+    ]
+  },
+  {
+    "id": "sleep-sundowning",
+    "label": "Сон и синдром заката",
+    "description": "Используйте этот раздел при ночном бодрствовании, вечернем возбуждении, синдроме заката и проблемах с рутиной.",
+    "defaultQuery": "сон не спит всю ночь синдром заката рутина 16:00",
+    "category": "sleep-sundowning",
+    "topic": "Сон и синдром заката",
+    "terms": {
+      "en": [
+        "sleep",
+        "night",
+        "nighttime",
+        "awake",
+        "sundowning",
+        "evening",
+        "routine",
+        "4pm"
+      ],
+      "es": [
+        "sueño",
+        "noche",
+        "despierto",
+        "insomnio",
+        "atardecer",
+        "rutina"
+      ],
+      "ru": [
+        "сон",
+        "ночь",
+        "бессонница",
+        "не спит",
+        "вечер",
+        "синдром заката",
+        "рутина"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Почему мой близкий не спит всю ночь?",
+        "query": "почему мой близкий не спит всю ночь?",
+        "answerSlug": "why-is-my-loved-one-awake-all-night-the-biological-reason-dementia-destroys-sleep"
+      },
+      {
+        "question": "Что такое синдром заката?",
+        "query": "что такое синдром заката?",
+        "answerSlug": "sundowning"
+      },
+      {
+        "question": "Почему рутина так важна?",
+        "query": "почему рутина так важна?",
+        "answerSlug": "why-does-routine-matter-so-much-in-dementia-care"
+      }
+    ],
+    "issueSlugs": [
+      "sundowning",
+      "why-is-my-loved-one-awake-all-night-the-biological-reason-dementia-destroys-sleep",
+      "the-4pm-reset-preventing-the-dementia-sundowning-spiral-before-it-starts",
+      "why-does-routine-matter-so-much-in-dementia-care"
+    ]
+  },
+  {
+    "id": "diagnosis-planning",
+    "label": "Диагностика и планирование",
+    "description": "Используйте этот раздел для диагностики, стадий, семейных встреч, перехода после больницы и планирования ухода.",
+    "defaultQuery": "диагностика планирование стадии семья больница выписка",
+    "category": "diagnosis-planning",
+    "topic": "Диагностика и планирование",
+    "terms": {
+      "en": [
+        "diagnosis",
+        "stage",
+        "planning",
+        "family meeting",
+        "hospital",
+        "discharge",
+        "early detection"
+      ],
+      "es": [
+        "diagnóstico",
+        "etapa",
+        "planificación",
+        "familia",
+        "hospital",
+        "alta",
+        "detección temprana"
+      ],
+      "ru": [
+        "диагноз",
+        "стадия",
+        "планирование",
+        "семья",
+        "больница",
+        "выписка",
+        "раннее выявление"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Как на самом деле диагностируют деменцию?",
+        "query": "как на самом деле диагностируют деменцию?",
+        "answerSlug": "how-is-dementia-actually-diagnosed"
+      },
+      {
+        "question": "Что семьям нужно спланировать до кризиса?",
+        "query": "что семьям нужно спланировать до кризиса?",
+        "answerSlug": "what-happens-if-dementia-families-wait-too-long-to-plan"
+      },
+      {
+        "question": "Почему ранняя диагностика важна?",
+        "query": "почему ранняя диагностика важна?",
+        "answerSlug": "why-is-early-dementia-diagnosis-so-important-for-families"
+      }
+    ],
+    "issueSlugs": [
+      "how-is-dementia-actually-diagnosed",
+      "what-stage-of-dementia-is-my-loved-one-in-and-what-should-i-do-next",
+      "what-happens-if-dementia-families-wait-too-long-to-plan",
+      "why-does-dementia-care-get-harder-after-a-hospital-stay",
+      "why-do-dementia-care-decisions-tear-families-apart"
+    ]
+  },
+  {
+    "id": "medication-treatment",
+    "label": "Лекарства и лечение",
+    "description": "Статьи о лекарствах при деменции, препаратах при возбуждении и новых методах лечения болезни Альцгеймера.",
+    "defaultQuery": "лекарства лечение таблетки возбуждение антипсихотик альцгеймер",
+    "category": "medication-treatment",
+    "topic": "Лекарства и лечение",
+    "terms": {
+      "en": [
+        "medication",
+        "medicine",
+        "meds",
+        "pills",
+        "treatment",
+        "agitation",
+        "antipsychotic",
+        "Alzheimer"
+      ],
+      "es": [
+        "medicación",
+        "medicina",
+        "pastillas",
+        "tratamiento",
+        "agitación",
+        "antipsicótico",
+        "Alzheimer"
+      ],
+      "ru": [
+        "лекарства",
+        "таблетки",
+        "лечение",
+        "возбуждение",
+        "антипсихотик",
+        "Альцгеймер"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Какие лекарства от деменции важно знать семьям?",
+        "query": "какие лекарства при деменции важно понимать семьям?",
+        "answerSlug": "dementia-medications"
+      },
+      {
+        "question": "Должны ли лекарства быть первым ответом при возбуждении?",
+        "query": "должны ли лекарства быть первым ответом при возбуждении?",
+        "answerSlug": "should-medication-be-the-first-answer-for-dementia-agitation"
+      },
+      {
+        "question": "Есть ли лечение, которое замедляет болезнь Альцгеймера?",
+        "query": "есть ли лечение, которое замедляет болезнь альцгеймера?",
+        "answerSlug": "are-there-any-new-treatments-that-can-actually-slow-alzheimer-s-disease"
+      }
+    ],
+    "issueSlugs": [
+      "dementia-medications",
+      "should-medication-be-the-first-answer-for-dementia-agitation",
+      "are-there-any-new-treatments-that-can-actually-slow-alzheimer-s-disease",
+      "why-is-dementia-care-more-than-medication"
+    ]
+  },
+  {
+    "id": "food-eating",
+    "label": "Еда и питание",
+    "description": "Используйте этот раздел при изменениях питания, глотании, удерживании пищи во рту, нутриции и риске деменции.",
+    "defaultQuery": "еда питание глотание нутриция удерживание пищи аспирация",
+    "category": "food-eating",
+    "topic": "Еда и питание",
+    "terms": {
+      "en": [
+        "eat",
+        "eating",
+        "food",
+        "meal",
+        "swallowing",
+        "pocketing",
+        "nutrition",
+        "aspiration"
+      ],
+      "es": [
+        "comer",
+        "comida",
+        "alimento",
+        "tragar",
+        "bolsillo",
+        "nutrición",
+        "aspiración"
+      ],
+      "ru": [
+        "еда",
+        "есть",
+        "питание",
+        "глотание",
+        "пища во рту",
+        "аспирация"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Почему при деменции становится трудно есть?",
+        "query": "почему при деменции становится трудно есть?",
+        "answerSlug": "why-does-eating-become-so-hard-in-dementia"
+      },
+      {
+        "question": "Может ли питание влиять на риск деменции?",
+        "query": "может ли питание влиять на риск деменции?",
+        "answerSlug": "can-what-you-eat-affect-your-dementia-risk"
+      }
+    ],
+    "issueSlugs": [
+      "why-does-eating-become-so-hard-in-dementia",
+      "can-what-you-eat-affect-your-dementia-risk"
+    ]
+  },
+  {
+    "id": "caregiver-support",
+    "label": "Поддержка ухаживающих",
+    "description": "Используйте этот раздел при перегрузке ухаживающего, передышке, группах поддержки, помощи на дому и уходе для всей семьи.",
+    "defaultQuery": "ухаживающий поддержка перегрузка передышка уход на дому guide",
+    "category": "caregiver-support",
+    "topic": "Поддержка ухаживающих",
+    "terms": {
+      "en": [
+        "caregiver",
+        "overwhelmed",
+        "burnout",
+        "respite",
+        "support",
+        "home care",
+        "guide"
+      ],
+      "es": [
+        "cuidador",
+        "agotamiento",
+        "sobrecarga",
+        "respiro",
+        "apoyo",
+        "cuidado en casa"
+      ],
+      "ru": [
+        "уход",
+        "опекун",
+        "выгорание",
+        "перерыв",
+        "поддержка",
+        "уход на дому"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Нормально ли чувствовать перегрузку?",
+        "query": "нормально ли чувствовать перегрузку?",
+        "answerSlug": "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia"
+      },
+      {
+        "question": "Какая поддержка нужна ухаживающим дома?",
+        "query": "какая поддержка нужна ухаживающим дома?",
+        "answerSlug": "what-support-do-dementia-caregivers-actually-need-at-home"
+      },
+      {
+        "question": "Почему передышка иногда не помогает?",
+        "query": "почему передышка иногда не помогает?",
+        "answerSlug": "why-does-respite-care-sometimes-fail-for-dementia-caregivers"
+      }
+    ],
+    "issueSlugs": [
+      "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia",
+      "what-support-do-dementia-caregivers-actually-need-at-home",
+      "why-does-respite-care-sometimes-fail-for-dementia-caregivers",
+      "the-power-of-caregiver-support-groups",
+      "the-one-resource-most-dementia-caregivers-overlook-and-it-s-not-a-medication"
+    ]
+  },
+  {
+    "id": "safety",
+    "label": "Безопасность, мошенничество и вождение",
+    "description": "Используйте этот раздел при блуждании, вождении, мошенничестве, небезопасных переходах и практических решениях о безопасности.",
+    "defaultQuery": "безопасность блуждание вождение мошенничество больница",
+    "category": "safety",
+    "topic": "Безопасность",
+    "terms": {
+      "en": [
+        "safety",
+        "wandering",
+        "driving",
+        "scam",
+        "fraud",
+        "hospital",
+        "unsafe"
+      ],
+      "es": [
+        "seguridad",
+        "deambular",
+        "conducir",
+        "estafa",
+        "fraude",
+        "hospital",
+        "inseguro"
+      ],
+      "ru": [
+        "безопасность",
+        "бродяжничество",
+        "вождение",
+        "мошенничество",
+        "больница",
+        "опасно"
+      ]
+    },
+    "commonQuestions": [
+      {
+        "question": "Когда человеку нужно прекратить водить?",
+        "query": "когда человеку нужно прекратить водить?",
+        "answerSlug": "when-should-someone-with-dementia-stop-driving"
+      },
+      {
+        "question": "Что делать с блужданием?",
+        "query": "что делать с блужданием?",
+        "answerSlug": "wandering-and-elopement"
+      },
+      {
+        "question": "Могут ли мошенники использовать ИИ-голоса, чтобы обмануть семьи?",
+        "query": "могут ли мошенники с голосом ии нацеливаться на семьи?",
+        "answerSlug": "can-you-still-trust-what-you-hear-in-the-age-of-ai"
+      }
+    ],
+    "issueSlugs": [
+      "when-should-someone-with-dementia-stop-driving",
+      "wandering-and-elopement",
+      "can-you-still-trust-what-you-hear-in-the-age-of-ai"
+    ]
+  }
+]

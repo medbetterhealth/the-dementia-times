@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-07-27T16:38:49.295Z",
+  "policy": "Refresh existing LinkedIn newsletter issues from source URLs, preserve article image order, and keep the Straight Talk banner out of article body media.",
+  "issues": [
+    {
+      "slug": "is-your-home-safe-for-someone-living-with-dementia",
+      "issueNumber": 53,
+      "title": "Is Your Home Safe for Someone Living With Dementia?",
+      "sourceUrl": "https://www.linkedin.com/pulse/your-home-safe-someone-living-dementia-erik-ilyayev-0u3dc",
+      "status": "skipped",
+      "publishedDate": "2026-07-27",
+      "imageCount": 8,
+      "sectionImageCount": 6
+    },
+    {
+      "slug": "what-gives-me-hope-about-the-future-of-dementia-care",
+      "issueNumber": 52,
+      "title": "What Gives Me Hope About the Future of Dementia Care?",
+      "sourceUrl": "https://www.linkedin.com/pulse/what-gives-me-hope-future-dementia-care-erik-ilyayev-deg6e",
+      "status": "skipped",
+      "publishedDate": "2026-07-24",
+      "imageCount": 12,
+      "sectionImageCount": 10
+    },
+    {
+      "slug": "are-the-new-alzheimer-s-infusions-right-for-every-patient",
+      "issueNumber": 51,
+      "title": "Are the New Alzheimer’s Infusions Right for Every Patient?",
+      "sourceUrl": "https://www.linkedin.com/pulse/new-alzheimers-infusions-right-every-patient-erik-ilyayev-qwice",
+      "status": "skipped",
+      "publishedDate": "2026-07-23",
+      "imageCount": 13,
+      "sectionImageCount": 10
+    },
+    {
+      "slug": "the-missing-piece-not-the-whole-puzzle-the-clinical-reality-of-alzheimers-blood-based-biomarkers",
+      "issueNumber": 50,
+      "title": "The Missing Piece, Not the Whole Puzzle: The Clinical Reality of Alzheimer's Blood-Based Biomarkers",
+      "sourceUrl": "https://www.linkedin.com/pulse/missing-piece-whole-puzzle-clinical-reality-blood-based-erik-ilyayev-ru8te",
+      "status": "skipped",
+      "publishedDate": "2026-07-22",
+      "imageCount": 10,
+      "sectionImageCount": 9
+    },
+    {
+      "slug": "can-we-protect-the-brain-before-memory-loss-begins",
+      "issueNumber": 49,
+      "title": "Can We Protect the Brain Before Memory Loss Begins?",
+      "sourceUrl": "https://www.linkedin.com/pulse/can-we-protect-brain-before-memory-loss-begins-erik-ilyayev-vczfe",
+      "status": "skipped",
+      "publishedDate": "2026-07-21",
+      "imageCount": 14,
+      "sectionImageCount": 10
+    },
+    {
+      "slug": "what-is-the-right-way-to-evaluate-memory-loss",
+      "issueNumber": 48,
+      "title": "What Is the Right Way to Evaluate Memory Loss?",
+      "sourceUrl": "https://www.linkedin.com/pulse/what-right-way-evaluate-memory-loss-erik-ilyayev-6znae",
+      "status": "skipped",
+      "publishedDate": "2026-07-20",
+      "imageCount": 9,
+      "sectionImageCount": 8
+    },
+    {
+      "slug": "is-dementia-the-diagnosis-or-the-beginning-of-the-question",
+      "issueNumber": 47,
+      "title": "Is Dementia the Diagnosis — or the Beginning of the Question?",
+      "sourceUrl": "https://www.linkedin.com/pulse/dementia-diagnosis-beginning-question-erik-ilyayev-utc2e",
+      "status": "skipped",
+      "publishedDate": "2026-07-17",
+      "imageCount": 5,
+      "sectionImageCount": 3
+    },
+    {
+      "slug": "what-should-families-do-right-after-a-dementia-diagnosis",
+      "issueNumber": 46,
+      "title": "What Should Families Do Right After a Dementia Diagnosis?",
+      "sourceUrl": "https://www.linkedin.com/pulse/what-should-families-do-right-after-dementia-erik-ilyayev-bbeme",
+      "status": "skipped",
+      "publishedDate": "2026-07-16",
+      "imageCount": 11,
+      "sectionImageCount": 10
+    }
+  ]
+}

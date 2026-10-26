@@ -1,0 +1,1415 @@
+{
+  "title": "Why Does Healthcare Innovation Fail Before It Reaches Dementia Families?",
+  "slug": "why-does-healthcare-innovation-fail-before-it-reaches-dementia-families",
+  "issueNumber": 33,
+  "publishedDate": "2026-06-18",
+  "sourceUrl": "https://www.linkedin.com/pulse/why-does-healthcare-innovation-fail-before-reaches-dementia-ilyayev-vbmje",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Yesterday, I had the privilege of moderating a panel at WHX Miami on a topic that matters deeply to anyone trying to change healthcare: How do we actually implement innovation inside real healthcare organizations?",
+  "topics": [
+    "Healthcare Innovation And Dementia Care"
+  ],
+  "coverImage": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-1.jpg",
+      "alt": "Article content",
+      "width": 844,
+      "height": 1500
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 804
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 810
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-9.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-10.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 810
+    },
+    {
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-11.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 802
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Yesterday, I had the privilege of moderating a panel at WHX Miami on a topic that matters deeply to anyone trying to change healthcare:"
+    },
+    {
+      "type": "paragraph",
+      "text": "How do we actually implement innovation inside real healthcare organizations?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not just how do we build it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not just how do we pitch it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not just how do we put a beautiful slide deck together."
+    },
+    {
+      "type": "paragraph",
+      "text": "But how do we get innovation into hospitals, clinics, care teams, communities, and eventually into the homes of the people who need it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The panel was called “Implementing Innovation in Healthcare Organizations: Navigating Procurement, Technology Adoption, Research, and Hospital Systems.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "I was honored to moderate the discussion with Steven Travers, Roberto J. Gonzalez, Himakshi Jhala MPH, MBA, FACHE, and Yiannis S. Chatzizisis — leaders bringing perspectives from health-system technology, public policy, enterprise innovation, clinical care, procurement, reimbursement, and real-world healthcare implementation."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-1.jpg",
+      "alt": "Article content",
+      "width": 844,
+      "height": 1500
+    },
+    {
+      "type": "paragraph",
+      "text": "But because this is The Dementia Times, I want to frame the conversation through dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because innovation only matters if it reaches the people who need it."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is not enough to have a great idea."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is not enough to have a new platform."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is not enough to have a dashboard, AI tool, early screening method, care model, or workflow."
+    },
+    {
+      "type": "paragraph",
+      "text": "The real test is this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does it get adopted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does it reach the family?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does it help the caregiver?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does it make the system easier to navigate for the person living with dementia?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does it work inside the reality of the home?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the real test."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "type": "heading",
+      "text": "DEMENTIA CARE ALREADY LIVES IN FRAGMENTATION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before we talk about technology, we have to talk about the reality families already live in."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia care is fragmented."
+    },
+    {
+      "type": "paragraph",
+      "text": "The primary care doctor is over here."
+    },
+    {
+      "type": "paragraph",
+      "text": "The neurologist is over there."
+    },
+    {
+      "type": "paragraph",
+      "text": "The psychiatrist may be somewhere else."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hospital discharge paperwork says one thing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The home care agency sees something different."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pharmacy has its own medication list."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver is standing in the middle trying to hold it all together."
+    },
+    {
+      "type": "paragraph",
+      "text": "And too often, the caregiver becomes the only glue in the system."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not a small problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia does not stay neatly inside a doctor’s office."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shows up at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shows up in the kitchen."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shows up in the bathroom."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shows up at 10 PM when the person living with dementia is seeing shadows."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shows up after discharge when the family has paperwork they do not understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shows up when Mom refuses a shower or Dad will not take medication."
+    },
+    {
+      "type": "paragraph",
+      "text": "So when someone says, “We have a new healthcare innovation,” my first question is not only:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Is the idea good?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "My question is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Will this actually make life easier for the person living with dementia and the caregiver?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because if we introduce innovation but nobody adopts it, we have not solved a problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have added another burden."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "WHY GOOD IDEAS FAIL"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the clearest themes from the panel was this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Good ideas do not automatically survive healthcare."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are barriers they have to cross."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adoption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Change management."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Procurement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reimbursement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical relevance."
+    },
+    {
+      "type": "paragraph",
+      "text": "End-user experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why healthcare innovation is hard."
+    },
+    {
+      "type": "paragraph",
+      "text": "A technology may look beautiful in a demo, but once it enters a real organization, the question becomes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will the staff use it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will it fit the workflow?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will it integrate with existing systems?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will it improve outcomes?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will the economics make sense?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will policy support it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will it survive six months after go-live?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will it still be used when the excitement wears off?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where many good ideas fail."
+    },
+    {
+      "type": "paragraph",
+      "text": "And in dementia care, the stakes are even higher because the end user is not just one person."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes the end user is the clinician."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes it is the care navigator."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes it is the home care agency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes it is the caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes it is the person living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the innovation does not fit that ecosystem, it will not reach the family."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "type": "heading",
+      "text": "GETTING TECHNOLOGY INTO THE BUILDING IS THE EASY PART"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the major points from the discussion was that getting technology into the building is often not the hardest part."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hard part is adoption."
+    },
+    {
+      "type": "paragraph",
+      "text": "A health system can purchase a platform, launch a new system, train the staff, and celebrate go-live."
+    },
+    {
+      "type": "paragraph",
+      "text": "Everyone may be excited at first."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first few months may feel promising."
+    },
+    {
+      "type": "paragraph",
+      "text": "But then six months later, eight months later, twelve months later, people can start drifting back to the old way."
+    },
+    {
+      "type": "paragraph",
+      "text": "They create workarounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "They use the new system halfway and the old system halfway."
+    },
+    {
+      "type": "paragraph",
+      "text": "They say:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“This is not how we used to do it.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And now the innovation that was supposed to simplify the workflow becomes another layer of complexity."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is a problem in any part of healthcare."
+    },
+    {
+      "type": "paragraph",
+      "text": "But in dementia care, it is especially dangerous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because families are already dealing with fragmented systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we add another tool that nobody uses correctly, the caregiver does not feel more supported."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver feels more confused."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why adoption has to be designed, not assumed."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "type": "heading",
+      "text": "IMPLEMENTATION BEGINS BEFORE GO-LIVE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another major theme was that implementation has to begin before go-live."
+    },
+    {
+      "type": "paragraph",
+      "text": "You do not wait until the technology is already installed to start thinking about change management."
+    },
+    {
+      "type": "paragraph",
+      "text": "You plan early."
+    },
+    {
+      "type": "paragraph",
+      "text": "Who owns the problem?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Who is the end user?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What workflow is changing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How does the technology integrate with the existing system?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this scalable?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this redundant?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Who needs training?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Who needs to buy in?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What happens after launch?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the discipline healthcare innovation needs."
+    },
+    {
+      "type": "paragraph",
+      "text": "And again, in dementia care, this matters because the end user is not simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are building or implementing a dementia care solution, you have to ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can the caregiver actually use it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will the care navigator use it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will the physician trust it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will the home care agency understand it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will it help after hospital discharge?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Will it work when the caregiver is overwhelmed, sleep-deprived, and trying to manage real behaviors in the home?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the answer is no, then the idea may be technically impressive but practically useless."
+    },
+    {
+      "type": "paragraph",
+      "text": "Innovation has to be built around real life."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 804
+    },
+    {
+      "type": "heading",
+      "text": "COMPASSION CANNOT OVERRIDE ECONOMICS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another important point from the panel was very practical:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clinical benefit matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hard outcomes matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reimbursement matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The economics have to make sense."
+    },
+    {
+      "type": "paragraph",
+      "text": "And I know some people do not like hearing that."
+    },
+    {
+      "type": "paragraph",
+      "text": "They say, “But this helps patients.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That matters. Of course it matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "But hospitals have budgets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Physicians have workflows."
+    },
+    {
+      "type": "paragraph",
+      "text": "Health systems cannot absorb unlimited cost forever."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a technology costs thousands of dollars per patient and there is no reimbursement path, enthusiasm starts to fade."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not lack of compassion."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is healthcare reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the economics do not work, the innovation often does not scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "And this is one of the biggest lessons for dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can have better screening tools."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can have better care navigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can have better support models."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can have better technology."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if reimbursement does not support them, access becomes limited."
+    },
+    {
+      "type": "paragraph",
+      "text": "And when access is limited, families lose time."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 810
+    },
+    {
+      "type": "heading",
+      "text": "POLICY AND REIMBURSEMENT TRANSLATE DIRECTLY TO TIME"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where dementia care becomes very real for me."
+    },
+    {
+      "type": "paragraph",
+      "text": "I recently came back from Washington, D.C., where we were advocating for Alzheimer’s screening and prevention."
+    },
+    {
+      "type": "paragraph",
+      "text": "I call this our mammogram moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Think about breast cancer screening. Earlier screening changed the way families approached the disease. The earlier you know, the earlier you can plan, treat, and act."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer’s disease is entering a similar moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "We now have blood-based testing that may help identify Alzheimer’s-related risk earlier. But if Medicare does not support access, then access becomes limited."
+    },
+    {
+      "type": "paragraph",
+      "text": "And in dementia care, limited access is not just an administrative issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is time lost."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time to plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time to talk about driving."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time to talk about legal documents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time to discuss power of attorney."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time to consider treatment options when appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time to support the caregiver before collapse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Time to have difficult conversations before the family is trapped in difficult situations."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why reimbursement matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why policy matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because policy and reimbursement translate directly to time for families."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "POLICY DOES NOT ALWAYS MOVE FAST ENOUGH"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another theme from the conversation was that policy does not always move as fast as innovation."
+    },
+    {
+      "type": "paragraph",
+      "text": "People want access to better care."
+    },
+    {
+      "type": "paragraph",
+      "text": "They want preventative care."
+    },
+    {
+      "type": "paragraph",
+      "text": "They want faster systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "They want innovation that reaches them before crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "But government, procurement, reimbursement, and policy can move slowly."
+    },
+    {
+      "type": "paragraph",
+      "text": "That gap has consequences."
+    },
+    {
+      "type": "paragraph",
+      "text": "If technology moves fast but policy moves slowly, families can stay stuck."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we have better screening but access is delayed, families wait."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we have promising tools but procurement takes too long, health systems cannot move."
+    },
+    {
+      "type": "paragraph",
+      "text": "If builders, regulators, buyers, clinicians, and users are not in the same room, everyone keeps solving only one part of the problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why events like World Health Expo Miami matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rooms like this matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conversations like this matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Healthcare cannot be changed by one group alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "The builder needs to understand the health system."
+    },
+    {
+      "type": "paragraph",
+      "text": "The health system needs to understand the caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policymaker needs to understand the clinical reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "The clinician needs to understand the workflow."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver needs to be heard."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the person living with dementia has to remain at the center."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-9.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "THE FIVE FILTERS HEALTHCARE INNOVATION HAS TO SURVIVE"
+    },
+    {
+      "type": "paragraph",
+      "text": "If I had to summarize the conversation, I would say healthcare innovation has to survive five filters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "Relevance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adoption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trust means the organization has to believe the solution is safe, stable, secure, and credible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Relevance means the innovation must solve a real clinical or operational problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economics means the cost, reimbursement, and financial logic have to make sense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policy means the solution has to survive regulation, procurement, and system-level rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adoption means the people expected to use it must actually use it."
+    },
+    {
+      "type": "paragraph",
+      "text": "That last one is critical."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because an unused innovation is not innovation."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is decoration."
+    },
+    {
+      "type": "paragraph",
+      "text": "And dementia care cannot afford decoration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families do not need impressive ideas that never touch their lives."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need support that works."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-10.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 810
+    },
+    {
+      "type": "heading",
+      "text": "WHAT DEMENTIA CARE ACTUALLY NEEDS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let’s bring this back to dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dementia care does not need another disconnected platform."
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not need another glossy brochure."
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not need another referral that goes nowhere."
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not need innovation that looks impressive in a boardroom but fails in the home."
+    },
+    {
+      "type": "paragraph",
+      "text": "What dementia care actually needs is practical."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accessible early screening."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accurate staging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Next-step action plans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medication review."
+    },
+    {
+      "type": "paragraph",
+      "text": "Help after hospital discharge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Respite."
+    },
+    {
+      "type": "paragraph",
+      "text": "Care navigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Support when behaviors happen at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "Caregiver education."
+    },
+    {
+      "type": "paragraph",
+      "text": "A system that recognizes the caregiver as part of the care plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the caregiver is not extra."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver is the infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "If Mom refuses a shower, the family needs help."
+    },
+    {
+      "type": "paragraph",
+      "text": "If Dad is seeing shadows at 10 PM, the family needs help."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the caregiver is staring at discharge papers they do not understand, they need help."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the family is trying to manage medications from multiple doctors, they need help."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the caregiver is exhausted, isolated, depressed, and physically worn down, they need help."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where innovation has to land."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not only inside the hospital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inside the home."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-does-healthcare-innovation-fail-before-it-reaches-dementia-families/image-11.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 802
+    },
+    {
+      "type": "heading",
+      "text": "THE GUIDE MODEL AND CONNECTED CARE"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is exactly why I believe so strongly in the GUIDE Model."
+    },
+    {
+      "type": "paragraph",
+      "text": "The GUIDE Model — Guiding an Improved Dementia Experience — is not only a program."
+    },
+    {
+      "type": "paragraph",
+      "text": "It represents a shift in how Medicare thinks about dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead of treating only the individual patient, it recognizes the patient and caregiver together."
+    },
+    {
+      "type": "paragraph",
+      "text": "That matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia care is not only about memory loss."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about behavior."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about home life."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about caregiver health."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about medication confusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about hospital transitions."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about what happens when the doctor visit ends and the family goes home."
+    },
+    {
+      "type": "paragraph",
+      "text": "Through the GUIDE Model, eligible families may receive structured dementia-care support through MedBetter Health."
+    },
+    {
+      "type": "paragraph",
+      "text": "That support may include:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A dedicated Care Navigator who coordinates dementia care and support"
+    },
+    {
+      "type": "paragraph",
+      "text": "A 24/7 helpline for behavioral and non-medical dementia-related concerns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Respite care support so caregivers can rest and recover"
+    },
+    {
+      "type": "paragraph",
+      "text": "Personalized dementia care plans and caregiver education"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ongoing support navigating the realities of dementia care at home"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the kind of innovation dementia care needs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not disconnected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Connected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not theoretical."
+    },
+    {
+      "type": "paragraph",
+      "text": "Practical."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not only built for the clinic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Built for the family."
+    },
+    {
+      "type": "heading",
+      "text": "BEGIN WITH THE END IN MIND"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the things I said during the panel is this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Begin with the end in mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a healthcare innovator, do not start only with your technology."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with the problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with the patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with the caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with the workflow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with the reimbursement reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with the adoption problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start with the question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What are we actually solving, and will this still work six months after go-live?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the difference between an idea and implementation."
+    },
+    {
+      "type": "paragraph",
+      "text": "And in dementia care, implementation is everything."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the family does not need an impressive concept."
+    },
+    {
+      "type": "paragraph",
+      "text": "The family needs support that works when the crisis happens."
+    },
+    {
+      "type": "heading",
+      "text": "THE HUMAN SIDE OF ADVOCACY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toward the end of the panel, I shared a story from Washington."
+    },
+    {
+      "type": "paragraph",
+      "text": "During an Alzheimer’s advocacy trip, there was a gentleman living with Alzheimer’s disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "He was around 60 when he was diagnosed."
+    },
+    {
+      "type": "paragraph",
+      "text": "His son was diagnosed even younger."
+    },
+    {
+      "type": "paragraph",
+      "text": "He was speaking directly to a senator and saying:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“If I only would have known earlier, I could have planned so many things.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "You could see the senator’s face change."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because at the end of the day, policymakers are people too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Healthcare executives are people too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Innovators are people too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, the data matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "But sometimes, the story makes the data real."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why advocacy matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why being in the room matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why caregivers and families have to be part of the conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Healthcare innovation should not be designed only around what the system wants to build."
+    },
+    {
+      "type": "paragraph",
+      "text": "It should be designed around what families actually need."
+    },
+    {
+      "type": "paragraph",
+      "text": "A sincere thank you to Steven Travers, Roberto J. Gonzalez, Himakshi Jhala, and Yiannis S. Chatzizisis for sharing your time, expertise, and perspective on this panel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conversations like this matter because healthcare innovation cannot improve lives if the people building, buying, regulating, implementing, and using these systems are not in the same room."
+    },
+    {
+      "type": "heading",
+      "text": "WHAT I WANT PROFESSIONALS TO TAKE FROM THIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a healthcare professional, hospital leader, policymaker, home care agency owner, innovator, investor, researcher, or clinician reading this, here is what I want you to remember:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Healthcare innovation must survive reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not theory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reality."
+    },
+    {
+      "type": "paragraph",
+      "text": "The physician’s workflow."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver’s exhaustion."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hospital’s procurement process."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reimbursement pathway."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy timeline."
+    },
+    {
+      "type": "paragraph",
+      "text": "The end user’s trust."
+    },
+    {
+      "type": "paragraph",
+      "text": "The patient’s safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "The family’s ability to actually use the support."
+    },
+    {
+      "type": "paragraph",
+      "text": "If an innovation does not survive reality, it does not matter how good it looks."
+    },
+    {
+      "type": "paragraph",
+      "text": "And in dementia care, reality is often happening at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is happening when the caregiver is alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is happening after the hospital discharge."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is happening when the aide calls and says, “I cannot manage this.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is happening when the family does not know whether to call the doctor, go to the ER, or wait."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where innovation has to work."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is where healthcare has to improve."
+    },
+    {
+      "type": "paragraph",
+      "text": "And that is where dementia care has to go next."
+    }
+  ],
+  "disclaimer": "This is education, not medical advice. Dementia symptoms, diagnosis, blood-based screening, treatment options, care planning, medication concerns, caregiver burnout, safety concerns, and eligibility for care programs should be discussed with qualified healthcare professionals."
+}

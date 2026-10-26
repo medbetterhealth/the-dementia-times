@@ -1,0 +1,1251 @@
+{
+  "title": "¿Por qué el cuidado de la demencia no puede enfocarse solo en el paciente?",
+  "slug": "why-can-t-dementia-care-focus-only-on-the-patient",
+  "issueNumber": 30,
+  "publishedDate": "2026-06-15",
+  "sourceUrl": "https://www.linkedin.com/pulse/why-cant-dementia-care-focus-only-patient-erik-ilyayev-8vebe",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Antes de hablar del Modelo GUIDE, quiero contarle por qué este trabajo me importa tanto. Cuando terminé la residencia en 2012, vi una oferta de trabajo para un médico de visitas a domicilio.",
+  "topics": [
+    "Plan de cuidado conectado"
+  ],
+  "coverImage": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-1.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 809
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-9.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-10.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Antes de hablar del Modelo GUIDE, quiero contarle por qué este trabajo me importa tanto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando terminé la residencia en 2012, vi una oferta de trabajo para un médico de visitas a domicilio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora recuerde: esto fue antes de que las visitas médicas a domicilio volvieran realmente de la forma en que hablamos de ellas hoy. Yo era un médico joven. Acababa de terminar la residencia. Vi la oportunidad y pensé: “Bueno, veamos de qué se trata.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "En mi primer día, un auto me recogió y me llevó a Brooklyn."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entré a la casa de una mujer mayor que había estado perdiendo peso. Empecé a leer las notas. Mayo: pérdida de peso, necesita tomografía. Junio: pérdida de peso, necesita tomografía. Julio: la misma nota."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora era agosto."
+    },
+    {
+      "type": "paragraph",
+      "text": "La miré y le dije: “Sra. Smith, ¿por qué no se hizo la tomografía?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y ella dijo: “Doctor joven, sí me la hice.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Llamé al hospital donde me había entrenado. Conocía gente allí. Obtuve el resultado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Múltiples lesiones en el hígado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cáncer metastásico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y ahora estoy de pie en la casa de esta mujer, mirándola a los ojos, dándome cuenta de que durante meses el sistema había documentado la preocupación, había copiado la nota de una visita a otra, y nadie le había dado seguimiento de verdad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese momento me cambió."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque cuando entra a la casa de alguien, ve la verdad de otra manera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve los frascos de medicamentos. Ve el estrés familiar. Ve los papeles de alta. Ve los riesgos de caídas. Ve lo que realmente está pasando cuando termina la visita al consultorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa experiencia eventualmente me llevó a iniciar My House Visit, y luego MedBetter Health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y mi primera paciente en ese trabajo fue mi propia abuela."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que cuando hablo del cuidado de la demencia, esto no es teórico para mí. Tanto profesional como personalmente, he visto lo que ocurre cuando las familias quedan cargando demasiado sin el apoyo adecuado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi nombre es Dr. Erik Ilyayev. Soy médico de cuidado de la demencia, miembro de la junta de la South Florida Alzheimer's Association®, y CEO de MedBetterHealth.org, una de las organizaciones seleccionadas por Medicare para participar en un nuevo modelo diseñado para cambiar la forma en que Estados Unidos cuida a las personas que viven con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta edición, quiero explicar el Modelo GUIDE, por qué importa y por qué el cuidado de la demencia ya no puede enfocarse solo en el paciente mientras ignora al cuidador que mantiene todo unido."
+    },
+    {
+      "type": "heading",
+      "text": "LOS NÚMEROS ESTÁN GRITANDO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Siempre le digo a la gente: las personas hablan, los números GRITAN."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que veamos los números."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Florida, el número de personas de 65 años o más que vivían con enfermedad de Alzheimer era de aproximadamente 580,000 en 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para 2025, se estimaba que ese número subiría a 720,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es un aumento del 24.1% en un periodo muy corto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y eso es solo enfermedad de Alzheimer, no todas las formas de demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora déjeme preguntarle algo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si ya estimamos que 720,000 personas en Florida viven con enfermedad de Alzheimer, pero casi el 40% de los clínicos de atención primaria reportan que nunca o solo a veces se sienten cómodos haciendo un diagnóstico de demencia, ¿realmente pensamos que 720,000 es el número completo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Probablemente no."
+    },
+    {
+      "type": "paragraph",
+      "text": "El número real probablemente es más alto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y esto importa porque la demencia no es solo un diagnóstico que queda en una historia clínica. La demencia cambia el costo del cuidado, el ambiente del hogar, la salud del cuidador y todo el sistema familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "El beneficiario promedio de Medicare puede costar alrededor de $8,000 a $12,000 al año."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona que vive con demencia puede costar mucho más."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque la demencia no se queda ordenadamente dentro de una visita al consultorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Afecta los medicamentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las caídas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las hospitalizaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los síntomas conductuales."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estrés del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las visitas a la sala de emergencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "La seguridad del hogar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conducir."
+    },
+    {
+      "type": "paragraph",
+      "text": "El sueño."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bañarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "La nutrición."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y la capacidad de la familia para mantener segura a la persona en casa."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-1.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "type": "heading",
+      "text": "EL CUIDADOR NO ES UN TEMA SECUNDARIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora hablemos del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Florida, los cuidadores no remunerados brindan una enorme cantidad de cuidado de demencia cada año. Muchos son cónyuges. Muchos son hijos adultos. Muchos son adultos mayores ellos mismos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y estos cuidadores no están saludables por defecto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchos tienen sus propias condiciones crónicas. Muchos experimentan depresión. Muchos están privados de sueño. Muchos todavía trabajan. Muchos están criando hijos. Muchos se están ahogando en silencio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mis padres son cuidadores de mi abuela."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi abuela tiene 93 años. Mi madre y mi padre están en sus 70. La cuidan todos los días."
+    },
+    {
+      "type": "paragraph",
+      "text": "Piense en eso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona de 70 años cuidando a una de 93."
+    },
+    {
+      "type": "paragraph",
+      "text": "Noches sin dormir. Síntomas conductuales. Confusión. Dolor emocional. Estrés familiar. Preguntas sobre medicamentos. Preguntas sobre seguridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso cobra un precio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y por eso digo algo una y otra vez:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuidador no está al margen."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuidador es parte del plan de cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si no cuidamos al cuidador, eventualmente perdemos el entorno de cuidado en el hogar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el cuidador colapsa, el paciente está en riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este es el cambio que Medicare está intentando hacer a través del Modelo GUIDE. Por primera vez, el sistema está diciendo: “No podemos mirar solo a la persona que vive con demencia. También tenemos que mirar a la persona que la cuida.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese es un gran cambio de paradigma."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "EL CUIDADO DE LA DEMENCIA REQUIERE EMOCIÓN, NO SOLO LÓGICA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como médicos, nos entrenan en la lógica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicamentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guías clínicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resultados de laboratorio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imágenes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Datos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y la lógica importa. Por supuesto que importa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero el cuidado de la demencia también requiere inteligencia emocional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Déjeme darle un ejemplo de mi propia familia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi abuela una vez le preguntó a mi madre: “¿Dónde está mi mamá?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora, lógicamente, sabíamos la respuesta. Su madre había muerto hacía mucho tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, ¿qué dijo mi madre?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dijo la verdad."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Tu mamá falleció.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y mi abuela se enojó. Le dijo algo muy doloroso a mi madre, que la ha cuidado por años."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas palabras fueron flechas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que entré y dije: “Abuela, no te preocupes. Tu mamá solo fue a comprar pan para Shabat. Ya vuelve.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué usé?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Validación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego la redirigí. Le mostré un álbum de fotos. Empecé a nombrar a mis hijos. Moví su mente a otro lugar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y la tensión en la habitación bajó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de aprender más profundamente este trabajo, quizá habría usado lógica. Quizá habría dicho: “Abuela, eso no es verdad.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la lógica no siempre es la herramienta correcta cuando alguien vive en una realidad diferente por la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces la mejor herramienta es la validación."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces es la redirección."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces es la dignidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces es cambiar el ambiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces es entender que el cuidador no necesita más corrección. Necesita acompañamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es lo que el cuidado conectado de la demencia tiene que brindar."
+    },
+    {
+      "type": "paragraph",
+      "text": "No solo recetas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un marco."
+    },
+    {
+      "type": "heading",
+      "text": "EL MODELO GUIDE: QUÉ ES REALMENTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Modelo GUIDE significa Guiding an Improved Dementia Experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un modelo de cuidado de demencia de Medicare diseñado para apoyar a las personas que viven con demencia y a los cuidadores que las ayudan en casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "MedBetterHealth.org es una de las organizaciones seleccionadas para participar."
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo es voluntario. Está diseñado para complementar al equipo de cuidado existente, no para reemplazar al médico de atención primaria. El médico primario, los especialistas, la farmacia y las relaciones de seguro de la persona pueden mantenerse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque el objetivo no es tomar control del cuidado del paciente."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo es ampliar el apoyo alrededor del paciente y del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Modelo GUIDE está construido alrededor de varios apoyos centrales:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Coordinación y navegación de cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manejo clínico del cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Educación y apoyo para el cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Apoyo de respiro para el cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una línea de ayuda 24/7 para preocupaciones no médicas relacionadas con la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese es el plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y cuando entiende con qué lidian realmente las familias en casa, entiende por qué importa cada pieza."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "type": "heading",
+      "text": "PARA QUIÉN ES EL MODELO GUIDE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usemos un ejemplo simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael es la persona que vive con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jane es la cuidadora."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para que Michael potencialmente califique, necesita un diagnóstico establecido de demencia y Medicare Tradicional Partes A y B. El programa generalmente no aplica si la persona está inscrita en Medicare Advantage, hospicio, PACE, un hogar de ancianos o una unidad dedicada de cuidado de memoria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jane es la cuidadora."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede ser familiar o no serlo, pero según el Modelo GUIDE, es alguien que brinda asistencia no remunerada con actividades de la vida diaria o actividades instrumentales de la vida diaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso puede significar bañarse, vestirse, alimentarse, ir al baño, transferirse, lavar ropa, hacer compras, transporte, finanzas, citas o apoyo con medicamentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y aquí está la clave:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo no solo pregunta: “¿Qué necesita Michael?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "También pregunta: “¿Qué necesita Jane para poder seguir haciendo esto de forma segura?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa pregunta lo cambia todo."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "RESPIRO: ALIVIO PARA EL CUIDADOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las partes más importantes del Modelo GUIDE es el respiro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Respiro significa alivio para el cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Digamos que Jane cuida a Michael todos los días. Lo ama. Quiere que esté seguro. Pero está agotada."
+    },
+    {
+      "type": "paragraph",
+      "text": "No puede salir."
+    },
+    {
+      "type": "paragraph",
+      "text": "No puede dormir."
+    },
+    {
+      "type": "paragraph",
+      "text": "No puede ir a cenar con su familia."
+    },
+    {
+      "type": "paragraph",
+      "text": "No puede tomar un descanso sin preocuparse de que algo pase."
+    },
+    {
+      "type": "paragraph",
+      "text": "El respiro puede permitir que un trabajador capacitado de cuidado domiciliario privado entre a la casa para que el cuidador tenga tiempo de respirar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá cuatro horas un domingo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá tiempo para ir a cenar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá tiempo para ir al médico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá tiempo para sentarse con la familia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá tiempo solo para descansar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y algunas personas escuchan la cantidad anual de respiro y dicen: “Dr. Erik, eso no es suficiente para resolverlo todo.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Correcto."
+    },
+    {
+      "type": "paragraph",
+      "text": "No lo resuelve todo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero si se mira correctamente, esas horas pueden ser significativas. Pueden darle al cuidador momentos repetidos de alivio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cuidador que tiene tiempo para recuperarse quizá pueda continuar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cuidador que nunca recibe oxígeno eventualmente colapsa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso el respiro no es un lujo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es parte del cuidado de la demencia."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 809
+    },
+    {
+      "type": "heading",
+      "text": "LA CRISIS DE LAS 10 P. M."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora hablemos de lo que pasa después del horario de oficina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son las 10 p. m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mamá empieza a ver un fantasma en la habitación."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuidador dice: “No hay nadie ahí. Vuelve a la cama. Mañana tengo un día importante.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y escuche, entiendo al cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Está agotado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ha lidiado con esto todo el día."
+    },
+    {
+      "type": "paragraph",
+      "text": "Está al límite."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero para la persona que vive con demencia, esa sombra puede sentirse completamente real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que si discute, corrige o descarta lo que la persona siente, puede aumentar el miedo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un equipo de apoyo con experiencia en demencia puede orientar al cuidador de otra manera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá el problema es un perchero que crea una sombra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá las persianas deben cerrarse más temprano."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá se necesita una luz nocturna con sensor de movimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá la respuesta correcta es:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Ah, lo veo. Yo me encargo. Tú quédate aquí.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego retire el perchero, siéntese con ella y diga suavemente: “Mamá, quizá deberíamos dejar esto afuera para que tus chaquetas tengan un lugar.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Validación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Redirección."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dignidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso puede prevenir un pánico innecesario, una visita innecesaria a emergencias y una noche traumática para todos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exactamente por eso importa una línea de ayuda de demencia 24/7."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las crisis de demencia no esperan el horario de oficina."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "type": "heading",
+      "text": "DESCIFRAR LA CONDUCTA EN LUGAR DE RECETAR DE MÁS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí hay otro ejemplo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cuidador llama y dice: “Mi esposo está en una residencia asistida y se niega a ducharse.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta fácil es etiquetarlo como progresión de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "La respuesta fácil es decir: “Está agitado. Aumenten el medicamento.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero no es ahí donde debemos empezar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Primero preguntamos: ¿en qué etapa de demencia está?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un rechazo leve es diferente de un rechazo moderado. Un rechazo moderado es diferente de un rechazo severo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego preguntamos: ¿qué está ocurriendo realmente?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En este caso, la persona tenía demencia severa. Pero cuando se ensuciaba, todavía podía levantarse, sostener la barra del baño y permitir que el personal lo limpiara."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso nos dijo algo importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podía comprender algunas partes del cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces la pregunta se volvió: ¿qué es diferente sobre la ducha?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá la habitación está demasiado fría."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá se siente avergonzado al desvestirse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá su hijo está presente y eso afecta su dignidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá la temperatura del agua es incómoda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá el sonido del agua da miedo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá el acercamiento es apurado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que tuvimos una llamada de Zoom con el cuidador, el navegador de cuidado, la agencia de cuidado privado y el equipo de cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas personas pueden decir: “¿Pasaron 45 minutos hablando de cómo lograr que alguien se duche?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque eso era lo que más le importaba al cuidador en ese momento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Creamos un plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calentar la habitación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Llenar la ducha de vapor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Preservar la dignidad con toallas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usar la temperatura adecuada del agua."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ir despacio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Preguntar si está cómodo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usar algo que le guste, como chocolate, para crear una asociación positiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y el cuidador volvió a llamar y dijo que funcionó."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es cuidado de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "No aumentar automáticamente el medicamento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender la conducta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Proteger la dignidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resolver el problema real."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "EL ICEBERG DE LOS MEDICAMENTOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otro problema que vemos constantemente es el riesgo de medicamentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cuidador puede decir: “Mamá solo toma algo de venta libre para dormir.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y cuando pedimos ver la caja, resulta que contiene difenhidramina: Benadryl."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para el cuidador, parece inofensivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es de venta libre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuesta pocos dólares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dice ayuda para dormir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero para un adulto mayor que vive con demencia, ese medicamento puede crear riesgos serios: confusión, caídas, mareos, sedación y posiblemente hospitalización."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso importa la revisión de medicamentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuidador no siempre sabe que un medicamento de venta libre puede ser peligroso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y honestamente, los clínicos de atención primaria ocupados ya manejan muchísimo: fibrilación auricular, diabetes, colesterol alto, derrame cerebral, seguimientos de hospital, 19 medicamentos, preguntas familiares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que los proveedores GUIDE no deben reemplazar al médico de atención primaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deben ayudar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deben revisar el panorama del cuidado específico de la demencia, identificar riesgos, señalar preocupaciones y comunicarse con el PCP antes de hacer recomendaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es apoyo adicional, no reemplazo."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "type": "heading",
+      "text": "APOYO ADICIONAL, NO REEMPLAZO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es muy importante que los profesionales lo entiendan."
+    },
+    {
+      "type": "paragraph",
+      "text": "El Modelo GUIDE no está diseñado para reemplazar al médico de atención primaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "El PCP sigue siendo el líder clínico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El equipo GUIDE apoya la parte específica de la demencia en el panorama."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo, el navegador de cuidado puede ayudar a programar citas, conectar al cuidador con recursos comunitarios, organizar transporte, hacer seguimiento mensual y ayudar a la familia a entender qué viene después."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la llamada telefónica en sí no es el punto."
+    },
+    {
+      "type": "paragraph",
+      "text": "El punto es si el cuidador sale de esa llamada con algo útil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá el navegador de cuidado le recuerda al cuidador hablar de directivas anticipadas mientras el ser querido todavía puede participar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá ayuda a la familia a entender una preocupación sobre medicamentos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá coordina con el PCP."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá ayuda al cuidador a pensar en el respiro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá ayuda a identificar que la persona está empeorando y necesita evaluación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso tiene sentido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es navegación de cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "No marcar una casilla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Agregar valor."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-9.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 808
+    },
+    {
+      "type": "heading",
+      "text": "EL CAMINO DE ACTIVACIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias y los profesionales suelen preguntar: “¿Cómo funciona la inscripción?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "El proceso es estructurado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Primero, el participante GUIDE verifica la elegibilidad de Medicare."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego se tiene que confirmar el diagnóstico de demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego ocurre la evaluación del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego ocurre la evaluación del paciente y del cuidador con un proveedor capacitado en demencia, incluida la determinación de la etapa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Luego los datos se envían para revisión de CMS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto requiere trabajo porque el modelo requiere información real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitamos entender al paciente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitamos entender al cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitamos entender la etapa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitamos entender la carga."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitamos entender qué apoyos se necesitan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no es solo un formulario rápido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un intento de construir un plan de cuidado alrededor de la situación real del hogar."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/why-can-t-dementia-care-focus-only-on-the-patient/image-10.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "QUÉ SIGNIFICA ESTO PARA LAS FAMILIAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted es cuidador, esto es lo que quiero que se lleve."
+    },
+    {
+      "type": "paragraph",
+      "text": "No debería tener que hacer esto sin apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No debería tener que entender las conductas de la demencia sin apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No debería tener que manejar preocupaciones sobre medicamentos sin apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No debería tener que interpretar papeles de alta sin apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "No debería tener que sacrificar toda su salud hasta convertirse en el siguiente paciente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y no debería tener que esperar hasta una crisis para recibir apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuidado de la demencia está cambiando."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lentamente, pero está cambiando."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estamos pasando de un modelo que trata al paciente individual de forma aislada a un modelo que reconoce al paciente y al cuidador como una unidad conectada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque en el cuidado de la demencia, el cuidador no es extra."
+    },
+    {
+      "type": "paragraph",
+      "text": "El cuidador es el ancla."
+    }
+  ],
+  "disclaimer": "Esto es educación, no consejo médico. El diagnóstico de demencia, los cambios de medicamentos, los síntomas conductuales, la planificación del cuidado, el respiro, el hospicio, la elegibilidad de Medicare y las preocupaciones de seguridad deben hablarse con profesionales de la salud calificados.",
+  "youtubeVideo": {
+    "id": "6ZlQDHwb7V8",
+    "title": "Apoyo para cuidadores de personas con demencia y el Modelo GUIDE de CMS | Dr. Erik Ilyayev",
+    "publishedDate": "2026-06-15",
+    "description": "Video complementario de Straight Talk with Dr. Erik para el artículo \"¿Por qué el cuidado de la demencia no puede enfocarse solo en el paciente?\": Apoyo para cuidadores de personas con demencia y el Modelo GUIDE de CMS | Dr. Erik Ilyayev.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6ZlQDHwb7V8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=6ZlQDHwb7V8",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/6ZlQDHwb7V8"
+  }
+}

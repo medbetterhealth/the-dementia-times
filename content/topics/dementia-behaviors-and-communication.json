@@ -1,0 +1,40 @@
+{
+  "title": "Dementia Behaviors and Communication",
+  "slug": "dementia-behaviors-and-communication",
+  "description": "A caregiver guide to refusal, accusations, wandering, delusions, hallucinations, agitation, and communication changes in dementia.",
+  "directAnswer": "Dementia behaviors are usually not random. They often communicate fear, pain, confusion, unmet needs, overstimulation, loss of control, or a mismatch between the environment and the person’s changing brain. The first step is to ask what the behavior may be communicating before trying to correct it.",
+  "keyTakeaways": [
+    "Arguing with dementia reality often escalates distress.",
+    "Sudden behavioral change should trigger a search for medical causes such as infection, pain, dehydration, medication changes, sleep disruption, or sensory loss.",
+    "Validation, redirection, routine, environmental adjustments, and caregiver tone can be as important as medication."
+  ],
+  "issueSlugs": [
+    "why-do-dementia-behaviors-happen-and-what-should-families-do",
+    "why-do-dementia-patients-refuse-help",
+    "why-is-my-loved-one-with-dementia-accusing-me-of-stealing",
+    "delusions-and-hallucinations",
+    "wandering-and-elopement",
+    "why-does-my-loved-one-with-dementia-refuse-to-shower-and-what-can-i-actually-do-about-it",
+    "why-is-mom-being-so-aggressive-what-behavioral-changes-in-dementia-really-mean-and-what-to-do-about-them"
+  ],
+  "faqs": [
+    {
+      "question": "Why does someone with dementia refuse help?",
+      "answer": "Refusal may come from fear, loss of insight, embarrassment, pain, confusion, or feeling rushed. The response should reduce threat and preserve dignity."
+    },
+    {
+      "question": "What should families do when accusations or hallucinations appear suddenly?",
+      "answer": "A sudden change should prompt a medical check for reversible triggers before assuming the dementia itself has simply progressed."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: Why Do Dementia Behaviors Happen?",
+      "url": "https://thedementiatimes.com/issues/why-do-dementia-behaviors-happen-and-what-should-families-do/"
+    },
+    {
+      "title": "National Institute on Aging: Managing personality and behavior changes",
+      "url": "https://www.nia.nih.gov/health/alzheimers-caregiving/managing-personality-and-behavior-changes-alzheimers"
+    }
+  ]
+}

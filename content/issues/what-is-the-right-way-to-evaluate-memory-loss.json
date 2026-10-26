@@ -1,0 +1,935 @@
+{
+  "title": "What Is the Right Way to Evaluate Memory Loss?",
+  "slug": "what-is-the-right-way-to-evaluate-memory-loss",
+  "issueNumber": 48,
+  "publishedDate": "2026-07-20",
+  "sourceUrl": "https://www.linkedin.com/pulse/what-right-way-evaluate-memory-loss-erik-ilyayev-6znae",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Every week, caregivers ask me some version of the same question: “Dr. Erik, how do we actually know if this is dementia?” And I understand why families ask it.",
+  "topics": [
+    "Dementia Evaluation Roadmap"
+  ],
+  "coverImage": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/cover.png",
+  "images": [
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-1.png",
+      "alt": "Article content",
+      "width": 2232,
+      "height": 1190
+    },
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-2.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 827
+    },
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-3.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 822
+    },
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-4.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 827
+    },
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-5.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 824
+    },
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-6.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 831
+    },
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-7.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 810
+    },
+    {
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-8.png",
+      "alt": "Article content",
+      "width": 1488,
+      "height": 825
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Every week, caregivers ask me some version of the same question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, how do we actually know if this is dementia?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And I understand why families ask it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because memory changes can be confusing."
+    },
+    {
+      "type": "paragraph",
+      "text": "One person says, “It’s just aging.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another person says, “Maybe it’s dementia.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Someone else says, “Maybe it’s Alzheimer’s.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And the family is left trying to figure out whether they should worry, wait, push for testing, or trust that everything is normal."
+    },
+    {
+      "type": "paragraph",
+      "text": "But here is the problem:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Memory changes should not be brushed off casually."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every memory lapse is dementia. But when memory, thinking, behavior, or daily function starts changing, the right answer is not panic and it is not denial."
+    },
+    {
+      "type": "paragraph",
+      "text": "The right answer is evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently, I had the privilege of speaking with Dr. James Galvin on Straight Talk with Dr. Erik. Dr. Galvin is one of the leading voices in neurology and brain health, and in this part of our conversation, we talked about something every family should understand:"
+    },
+    {
+      "type": "paragraph",
+      "text": "What is the proper way to evaluate someone when dementia is a concern?"
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I’m a dementia care physician, a board member of the South Florida Alzheimer's Association® , and the CEO of MedBetterHealth.org — one of the organizations selected by Medicare to participate in the GUIDE Model, an 8-year CMS initiative designed to support people living with dementia and the family caregivers caring for them at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because in dementia care, vague concern is not enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families need a roadmap."
+    },
+    {
+      "type": "heading",
+      "text": "THE FIRST STEP: NOTICE THE CHANGE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before we talk about tests, we have to talk about how memory changes are first noticed."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are usually three ways this begins."
+    },
+    {
+      "type": "paragraph",
+      "text": "The person may notice something themselves."
+    },
+    {
+      "type": "paragraph",
+      "text": "A spouse, adult child, or caregiver may notice something."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or the clinician may notice something indirectly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each one matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The person may say, “My memory feels different.” But people with memory problems may not always be the best storytellers about what is happening, because the symptom itself can interfere with the ability to give a clear timeline."
+    },
+    {
+      "type": "paragraph",
+      "text": "The family may notice things the doctor never sees in the office: missed medications, unpaid bills, repeated questions, confusion with routines, personality changes, difficulty following familiar tasks, or unsafe decisions at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "And sometimes the clinician notices something indirectly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Galvin gave a very practical example. A patient with diabetes may have been well controlled for years, but suddenly their numbers start worsening. Their hemoglobin A1C goes from 5.9 to 6.3 even though the treatment plan has been consistent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe the person is missing medications. Maybe they cannot track the regimen anymore. Maybe the first clue is not “I forgot where I put my keys.” Maybe the first clue is that the person can no longer manage a medical routine they used to manage."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why the patient, the family, and the clinician all matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each one sees a different part of the picture."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-1.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "DO NOT MAKE MEMORY LOSS THE “BY THE WAY”"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the biggest mistakes families make is bringing up memory at the end of a routine doctor visit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The blood pressure has already been checked. Diabetes has been discussed. Medications have been refilled. Lab results have been reviewed. The chart has been updated. The visit is almost over."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then someone says:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Oh, by the way, my memory has been slipping.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the wrong moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not because the concern is unimportant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because it is too important to squeeze into the last minute of a routine visit."
+    },
+    {
+      "type": "paragraph",
+      "text": "A real cognitive evaluation takes time. The clinician needs history, a timeline, family observations, medication review, functional assessment, cognitive screening, and sometimes follow-up testing."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not fit into the last 60 seconds."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you are worried about memory changes, make it the reason for the visit. Call ahead and say, “We need an appointment to discuss memory concerns and cognitive changes.” Bring a spouse, adult child, caregiver, or trusted person who can describe what is happening at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not overreacting."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is smart care."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-2.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "THE NORMAL AGING TRAP"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now I want to slow down on this point because it is very important."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families hear this all the time:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Oh, it’s just normal aging.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "And sometimes, yes, aging can make things slower. It may take longer to remember a name. It may take longer to remember what you had for breakfast. It may take longer to balance a checkbook. It may take longer to retrieve information."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the key is this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can still do it."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the distinction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taking longer is different from losing the ability to function."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a person eventually remembers the name, eventually remembers the meal, eventually completes the task, that can be one thing. But if they are no longer able to manage medications, pay bills, follow a familiar recipe, keep track of appointments, manage diabetes, or drive safely to familiar places, that is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "That should not be dismissed as “just aging.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Memory loss that interferes with function is caused by something."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may not be Alzheimer’s disease. It may not even be dementia. It could be poorly controlled diabetes. It could be medication side effects. It could be thyroid disease. It could be vitamin deficiency. It could be depression, sleep problems, infection, or another medical issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it deserves evaluation."
+    },
+    {
+      "type": "heading",
+      "text": "THE QUICK SCREEN IS ONLY THE ENTRY POINT"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first formal step is often a screening test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicare wellness visits are supposed to include some form of cognitive assessment. The problem is that the exact method is not always prescribed clearly. In real life, a person may be asked, “How is everything?” They say, “Fine,” and the box gets checked."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not enough when there is a real concern."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are brief tools clinicians can use. One example Dr. Galvin discussed is the Mini-Cog. It is simple: the person is asked to remember three words, draw a clock, and then recall the words."
+    },
+    {
+      "type": "paragraph",
+      "text": "It does not take long."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is not perfect."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it can be a useful entry screen."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone has trouble remembering the words or drawing the clock from memory, that does not automatically diagnose dementia. It tells the clinician, “Something may be going on. We need to evaluate further.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is the right way to think about screening."
+    },
+    {
+      "type": "paragraph",
+      "text": "A screen is not the finish line."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is the doorway."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the screen raises concern, then the next step may include more detailed cognitive testing, such as a MoCA, MMSE, or another tool the clinician prefers. None of these tests are perfect by themselves. But they help identify whether there is a cognitive problem that needs more investigation."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-3.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "THE NEUROLOGIC EXAM MATTERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "After screening, the neurologic exam matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because not every dementia looks the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some diseases may have a relatively normal neurologic exam early on. Others may show abnormal findings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Galvin explained that Alzheimer’s disease often has a relatively normal neurologic exam, while conditions such as Parkinson’s disease, Lewy body dementia, or vascular dementia may have abnormal neurologic findings."
+    },
+    {
+      "type": "paragraph",
+      "text": "That matters because the exam helps the clinician build a differential diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is just a medical way of saying:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What are the possible causes?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this Alzheimer’s disease?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this Lewy body disease?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this vascular disease?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this Parkinson’s-related?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is this something else?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The exam helps narrow the path."
+    },
+    {
+      "type": "paragraph",
+      "text": "And in dementia care, the path matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because if you do not know what you are dealing with, the family may receive the wrong expectations, the wrong safety guidance, and the wrong care plan."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-4.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "LABS ARE NOT OPTIONAL DETAILS"
+    },
+    {
+      "type": "paragraph",
+      "text": "The next part of the evaluation is looking for treatable or reversible contributors."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is where laboratory testing matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Galvin talked about checking things like a complete metabolic panel, hemoglobin A1C, thyroid function, and vitamin levels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because abnormalities in these areas can affect cognition."
+    },
+    {
+      "type": "paragraph",
+      "text": "If blood sugar is poorly controlled, cognition can suffer. If thyroid function is abnormal, memory and thinking can be affected. If vitamin levels are low, that may contribute to symptoms. If metabolic issues are present, the brain may not function the way it should."
+    },
+    {
+      "type": "paragraph",
+      "text": "And some of these problems may be treatable."
+    },
+    {
+      "type": "paragraph",
+      "text": "That does not mean fixing a lab automatically fixes every memory problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it means we should not skip the basics."
+    },
+    {
+      "type": "paragraph",
+      "text": "A family should not be told “dementia” without asking whether reversible or treatable contributors have been considered."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is not being difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is responsible."
+    },
+    {
+      "type": "heading",
+      "text": "WHY DIABETES MATTERS TO THE BRAIN"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to highlight diabetes because Dr. Galvin made a point families need to hear."
+    },
+    {
+      "type": "paragraph",
+      "text": "After age, diabetes may be one of the major risk factors for developing diseases like Alzheimer’s disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "And unlike age, diabetes is treatable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, does better blood sugar control erase all memory problems?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No."
+    },
+    {
+      "type": "paragraph",
+      "text": "But people with poorly controlled blood sugars and elevated hemoglobin A1C may perform worse on cognitive testing than people whose sugars are better controlled."
+    },
+    {
+      "type": "paragraph",
+      "text": "So when we talk about memory, we cannot only talk about the brain in isolation."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have to talk about the whole body."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blood sugar matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blood pressure matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cholesterol matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sleep matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medications matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vitamins matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thyroid function matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The brain is not floating separate from the rest of the person."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is connected to the entire medical picture."
+    },
+    {
+      "type": "heading",
+      "text": "THE BRAIN IMAGE"
+    },
+    {
+      "type": "paragraph",
+      "text": "The next part is imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Galvin explained that an MRI is usually the best picture of the brain because it gives more detail and a thinner resolution than many other types of imaging."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why do we take a picture of the brain?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because we are looking for structural problems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stroke."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tumor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Infection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other findings that may be more directly addressable."
+    },
+    {
+      "type": "paragraph",
+      "text": "If those are not present, that helps the clinician think more seriously about primary neurological diseases such as Alzheimer’s disease or Lewy body dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this does not mean every person needs the exact same test in the exact same way. Imaging decisions should be made by qualified clinicians based on the person’s situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "But the principle matters:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A proper evaluation does not stop at “you seem forgetful.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "It asks what is happening inside the full clinical picture."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-5.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "BLOOD-BASED BIOMARKERS ARE CHANGING THE CONVERSATION"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are also entering a new era with blood-based biomarkers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Galvin mentioned that there are now blood tests available that can help in Alzheimer’s evaluation. Some may be used in the primary care setting to help rule out Alzheimer’s disease. Others may be used in specialty settings to help rule in Alzheimer’s disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is important, but we have to be careful."
+    },
+    {
+      "type": "paragraph",
+      "text": "These tests are not something families should interpret on their own."
+    },
+    {
+      "type": "paragraph",
+      "text": "They do not replace a full medical evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "They do not replace clinical judgment, history, functional assessment, neurologic exam, labs, imaging, or specialist involvement when appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "But they are becoming part of the conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "And that means families need to ask better questions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Is blood-based biomarker testing appropriate in this situation?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What does this test actually tell us?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What does it not tell us?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Who should interpret it?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What happens next depending on the result?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is how families become informed without becoming careless."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-6.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "THE LOGS IN THE RIVER"
+    },
+    {
+      "type": "paragraph",
+      "text": "There was another image I brought up in the conversation that I think matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine logs falling down a river."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every day, people are standing at the bottom pulling the logs out, cleaning the river, and reacting to the mess."
+    },
+    {
+      "type": "paragraph",
+      "text": "But nobody goes upstream to ask:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where are the logs coming from?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Who is throwing them in?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How do we stop them before they keep falling?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That is how I think about prevention."
+    },
+    {
+      "type": "paragraph",
+      "text": "Too often, families wait until the crisis arrives. The fall. The hospital stay. The wandering episode. The medication mistake. The caregiver collapse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then everyone reacts."
+    },
+    {
+      "type": "paragraph",
+      "text": "But dementia care also has to ask upstream questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "How is blood sugar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How is blood pressure?"
+    },
+    {
+      "type": "paragraph",
+      "text": "How is sleep?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What medications may be affecting thinking?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is depression present?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there infection?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is there isolation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the caregiver exhausted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the person eating well?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the person moving?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are there risks we could identify earlier?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prevention is not only about one medication, one vitamin, or one test."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about understanding the whole person earlier."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-7.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "WHAT FAMILIES SHOULD BRING TO THE DOCTOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are worried about memory changes, do not walk into the appointment with only a vague concern."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write things down."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not just:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Mom is forgetful.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Be specific."
+    },
+    {
+      "type": "paragraph",
+      "text": "“She missed her medications three times this week.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She paid the same bill twice.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She left food on the stove.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She got lost driving to a familiar store.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She cannot follow a recipe she has made for years.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She keeps asking the same question every few minutes.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“She is no longer managing her diabetes the way she used to.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Those examples matter because they show function."
+    },
+    {
+      "type": "paragraph",
+      "text": "And dementia is not only about memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is about function."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person may still be charming in the office. They may smile. They may answer simple questions. They may appear socially intact. They may say, “I’m fine.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "But the family sees the real pattern at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "That information matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bring it."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/what-is-the-right-way-to-evaluate-memory-loss/image-8.png",
+      "alt": "Article content"
+    },
+    {
+      "type": "heading",
+      "text": "WHAT I WANT FAMILIES TO REMEMBER"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are worried about memory changes, here is what I want you to remember."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not dismiss functional change as “just aging.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taking longer to remember something can happen with age. Losing the ability to manage familiar daily tasks is different."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not make memory concerns the last-minute “by the way” at a routine visit. Make it the reason for a dedicated appointment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bring a person who sees what is happening at home. The patient may not always be able to explain the full timeline, and the doctor may not see the daily pattern in a short office visit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Write down specific examples. Missed medications. Unpaid bills. Repeated questions. Unsafe cooking. Worsening diabetes control. Getting lost on familiar routes. Difficulty with routines that used to be automatic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask for a proper evaluation. That may include screening, more detailed cognitive testing, a neurologic exam, labs, imaging, and discussion of whether additional testing or referral is appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "And most importantly, ask what is causing the symptoms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia is not the end of the question."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is the beginning."
+    }
+  ],
+  "disclaimer": "This is education, not medical advice. Memory changes, cognitive decline, dementia diagnosis, Alzheimer’s disease, diagnostic testing, treatment options, medication decisions, diabetes, thyroid disease, vitamin deficiency, imaging, biomarker testing, caregiver burnout, and safety concerns should be discussed with qualified healthcare professionals. If symptoms are sudden, severe, dangerous, or medically concerning, seek immediate medical help.",
+  "youtubeVideo": {
+    "id": "8TqMC4AL5vE",
+    "title": "Dementia Evaluation: What Tests Should Come First? | Dr. James Galvin Explains",
+    "publishedDate": "2026-07-20",
+    "description": "What should a proper dementia evaluation include? If you are caring for someone living with dementia in New York or Florida, MedBetterHealth may be able to support eligible families through the GUIDE Model. Learn more here: https://medbetterhealth.org/guide The GUIDE Model is a Medicare-covered dementia care support program for eligible families. Through MedBetterHealth, eligible families may receive dementia care education, caregiver support, care coordination, access to 24/7 support, and respite support when eligible. In Part 3 of my conversation with Dr. James Galvin, we talk about one of the most important questions families face when memory changes begin: What tests should come first? Too often, families are told memory loss is “just normal aging.” But memory loss that interferes with daily life should be evaluated. Dr. Galvin explains what a proper dementia workup may include, starting with cognitive screening and moving into more detailed evaluation when needed. We discuss memory testing, neurologic examination, blood work, MRI, and how doctors look for causes that may be more directly addressable. The goal is not just to say, “They have dementia.” The goal is to understand what may be causing the symptoms. Because the cause can affect treatment, safety planning, caregiver support, next steps, and whether a family should be referred to a memory specialist. In this episode, we discuss: * Why memory loss should not automatically be dismissed as normal aging * When families should speak up about cognitive changes * What cognitive screening can show * Why the patient, family, and clinician may all notice different changes * What a neurologic exam can help evaluate * Why blood work may be part of the dementia workup * Why MRI or brain imaging may be ordered * How doctors look for strokes, tumors, infections, thyroid issues, vitamin deficiencies, diabetes-related changes, and other possible contributors * When a memory specialist may be needed * Why the right diagnosis matters for the path forward Timestamps: 00:00 - What tests should come first in a dementia evaluation? 00:40 - Why families should not ignore memory concerns 01:30 - Memory loss vs. normal aging 02:30 - The first step in a dementia workup 03:30 - Cognitive screening and memory testing 04:30 - When a doctor should go deeper 05:30 - Why the family’s observations matter 06:30 - What clinicians may notice 07:30 - Neurologic exam and detailed evaluation 08:30 - Blood work and reversible causes 09:15 - MRI and structural brain changes 09:45 - Blood-based biomarkers and Alzheimer’s testing 10:13 - Transition to prevention and Part 4 Imagine a world where families do not notice memory changes and have to figure out the next step alone. Imagine having dementia care education that helps you understand what the diagnosis means. Imagine having a care navigator helping your family think through the right questions to ask. Imagine having care coordination so you are not trying to manage doctors, symptoms, medications, safety concerns, and family stress alone. Imagine having access to 24/7 support when something changes and you do not know what to do. Imagine having caregiver support that recognizes how heavy this journey can feel. And imagine having respite support when eligible, so the caregiver has room to breathe before burnout takes over. That is what the GUIDE Model is designed to support. If your loved one is living with dementia in New York or Florida, take the next step. Learn more here: https://medbetterhealth.org/guide This video is for educational purposes only and is not medical advice. Families should speak with their doctor, neurologist, or healthcare professional about diagnosis, memory concerns, cognitive changes, Alzheimer’s disease, dementia testing, medications, imaging, safety, and care planning. Subscribe to Straight Talk with Dr. Erik for more dementia care education, Alzheimer’s caregiver support, and practical guidance for families caring for someone living with dementia. Keywords: dementia evaluation, dementia testing, memory loss test, dementia workup, Alzheimer’s testing, memory specialist, neurologist dementia evaluation, cognitive screening, dementia diagnosis, memory loss normal aging, MRI dementia, blood tests for dementia, Alzheimer’s blood test, Dr. James Galvin, Dr. Erik Ilyayev, Straight Talk with Dr. Erik, GUIDE Model, Medicare GUIDE Model, MedBetterHealth, dementia care New York, dementia care Florida",
+    "thumbnailUrl": "https://i.ytimg.com/vi/8TqMC4AL5vE/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8TqMC4AL5vE",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/8TqMC4AL5vE"
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "title": "¿Cuándo debe dejar de conducir una persona con demencia?",
+  "slug": "when-should-someone-with-dementia-stop-driving",
+  "issueNumber": 20,
+  "publishedDate": "2026-05-28",
+  "sourceUrl": "https://www.linkedin.com/pulse/when-should-someone-dementia-stop-driving-erik-ilyayev-iytte",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Cada semana, las familias me hacen alguna versión de la misma pregunta: “Dr. Erik, mi papá tiene demencia, pero todavía conduce. ¿Cómo sé cuándo ya no es seguro?”",
+  "topics": [
+    "Demencia y seguridad al conducir"
+  ],
+  "coverImage": "/assets/issues/when-should-someone-with-dementia-stop-driving/cover.png",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-1.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 803
+    },
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 812
+    },
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 809
+    },
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    },
+    {
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-8.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 811
+    }
+  ],
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Cada semana, las familias me hacen alguna versión de la misma pregunta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, mi papá tiene demencia, pero todavía conduce. ¿Cómo sé cuándo ya no es seguro?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es una de las conversaciones más difíciles en el cuidado de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "No porque a las familias no les importe. Les importa profundamente. Justamente por eso la conversación duele tanto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conducir no es solo transporte. Conducir representa independencia. Adultez. Privacidad. Control. La capacidad de ir adonde uno quiere, cuando quiere, sin pedir ayuda a otra persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que cuando un cuidador empieza a pensar: “No sé si mamá todavía debería estar al volante”, no está pensando solo en seguridad. Está pensando en dignidad. Está pensando en libertad. Está pensando en la reacción emocional. Está pensando: “Si saco este tema, ¿voy a empezar la Tercera Guerra Mundial en mi casa?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a veces, sí pasa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero esto es lo que quiero que todo cuidador entienda:"
+    },
+    {
+      "type": "paragraph",
+      "text": "La seguridad al conducir en la demencia no se trata de si la persona quiere conducir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ni siquiera se trata de si antes era un excelente conductor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se trata de si el cerebro todavía puede procesar en tiempo real un entorno rápido, impredecible y de alto riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es la pregunta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi nombre es Dr. Erik Ilyayev. Soy médico de cuidado de la demencia, miembro de la junta de la South Florida Alzheimer’s Association® y CEO de MedBetterHealth.org, una de las organizaciones seleccionadas por Medicare para participar en un nuevo programa innovador diseñado para cambiar la forma en que Estados Unidos cuida a las personas que viven con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta edición, quiero guiarle sobre cómo pensar en la conducción y la demencia, qué señales de alerta deben vigilar las familias, cómo tener la conversación y por qué la meta no es quitar un auto: la meta es construir un sistema de apoyo más seguro antes de que ocurra una crisis prevenible."
+    },
+    {
+      "type": "heading",
+      "text": "EL CHOQUE ENTRE INDEPENDENCIA Y DETERIORO COGNITIVO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero empezar con algo muy directo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias suelen ver la capacidad física para conducir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ven que papá todavía puede caminar hasta el auto. Todavía puede encender el motor. Todavía puede pisar el acelerador. Sabe dónde están los pedales. Ha conducido durante 50 años."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces la familia dice: “Se ve bien.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la demencia por lo general no quita primero los movimientos físicos de conducir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ataca las habilidades cognitivas que hay detrás de conducir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Juicio. Atención. Tiempo de reacción. Conciencia espacial. Función ejecutiva. Percepción de la propia condición. La capacidad de procesar varios objetos en movimiento al mismo tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es lo que requiere conducir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona puede seguir sabiendo cómo girar la llave, pero ya no tener la velocidad de procesamiento para responder a un auto que frena de repente delante de ella. Puede recordar la ruta al supermercado, pero ya no manejar tráfico complejo, cambios de carril o desvíos inesperados. Puede seguir creyendo que maneja con seguridad, pero la enfermedad puede haber dañado su capacidad de evaluar con precisión su propio deterioro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso conducir con demencia es tan difícil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por fuera puede verse normal mientras el sistema de procesamiento interno está fallando."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-1.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 811
+    },
+    {
+      "type": "heading",
+      "text": "CONDUCIR NO ES UNA SOLA HABILIDAD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conducir con seguridad no es una sola capacidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una ecuación en tiempo real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Memoria. Procesamiento visoespacial. Función ejecutiva. Tiempo de reacción. Percepción de la propia condición."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todo eso tiene que trabajar junto."
+    },
+    {
+      "type": "paragraph",
+      "text": "La memoria ayuda a la persona a entender adónde va y reconocer rutas familiares. El procesamiento visoespacial ayuda a juzgar carriles, distancia, giros, estacionamiento y dónde están otros autos en relación con ella. La función ejecutiva ayuda a hacer varias cosas a la vez: espejos, velocidad, señales de tránsito, peatones, luces de freno y navegación, todo al mismo tiempo. El tiempo de reacción ayuda a responder rápido cuando algo cambia. La percepción de la propia condición ayuda a reconocer cuándo uno no está seguro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si la demencia reduce una de esas habilidades lo suficiente, toda la ecuación puede fallar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y ese es el punto clave."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conducir no se trata de esforzarse más."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se trata de si el cerebro puede procesar la carretera con suficiente rapidez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un cuidador puede decir: “Papá promete que tendrá cuidado.” Lo entiendo. Pero tener cuidado no basta si el cerebro no puede procesar rápido. La carretera no se desacelera porque alguien tenga demencia. El tráfico no se vuelve más simple. Un niño que cruza la calle no da una advertencia extra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso no podemos evaluar la seguridad al conducir solo por la intención."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tenemos que evaluar la capacidad."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-2.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 803
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ SU SER QUERIDO TAL VEZ NO VEA EL PROBLEMA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las partes más frustrantes de esta conversación es que la persona que vive con demencia puede creer sinceramente que está bien."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted puede decir: “Papá, no creo que sea seguro que conduzcas.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y papá dice: “¿De qué hablas? Yo manejo bien.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted puede decir: “Mamá, te perdiste dos veces este mes.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y mamá dice: “Eso le pasa a cualquiera.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted puede señalar abolladuras en el auto, multas, señales de alto que no vio o confusión, y aun así la persona puede no entender la seriedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay una palabra que los cuidadores necesitan conocer: anosognosia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anosognosia significa que la persona puede ser genuinamente incapaz de reconocer su propio deterioro debido a cambios en el cerebro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no siempre es negación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no siempre es terquedad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto no siempre es orgullo."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces, la enfermedad ha dañado la capacidad de la persona para revisarse a sí misma. En su realidad, todavía conduce bien. No le está mintiendo. No está tratando de manipularlo. Puede creer de verdad lo que dice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso no hace que el riesgo sea menos real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero sí debería cambiar la forma en que abordamos la conversación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si la persona no puede reconocer el deterioro, discutir con más fuerza casi nunca funcionará. Puede ganar los hechos y perder la relación. Puede probar su punto y aun así no lograr cooperación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así que la meta no es avergonzarla."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta es alejar la decisión de una discusión familiar y llevarla hacia un proceso objetivo de seguridad."
+    },
+    {
+      "type": "heading",
+      "text": "EL FILTRO DE SEÑALES DE ALERTA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, ¿cómo saben las familias cuándo actuar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero que piense en tres categorías: verde, amarillo y rojo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Verde significa monitorear. Es precaución normal relacionada con la edad. No hay incidentes. El cuidador no tiene preocupaciones importantes. En esta etapa, usted inicia la conversación temprano. No espera una crisis. Empieza a hablar sobre cuál será el plan si algún día conducir deja de ser seguro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amarillo significa evaluar. Es cuando empieza a ver señales de advertencia: salirse del carril, conducir demasiado lento, recibir nuevas multas, dificultad para incorporarse al tráfico, incomodidad en tráfico complejo o confusión leve en áreas desconocidas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amarillo no significa pánico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero amarillo sí significa que debe hablar con el médico y considerar una evaluación formal de conducción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rojo significa detenerse y actuar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Confundir el acelerador y el freno. Pasarse luces rojas. No ver señales de alto. Nuevo daño inexplicable en el vehículo. Perderse en rutas familiares. Choques. Casi accidentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "No espere a que un choque grave demuestre que el riesgo es real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las señales rojas cotidianas bastan para actuar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es una de esas áreas en las que las familias no pueden permitirse decir: “Vamos a ver qué pasa.” Porque lo que pase puede ser irreversible."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-3.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 806
+    },
+    {
+      "type": "heading",
+      "text": "LA MATRIZ DE DECISIÓN SOBRE CONDUCCIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuanto más peligrosa sea la evidencia, menos debe ser esto un debate familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es la frase que quiero que recuerde."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si no hay incidentes ni preocupaciones del cuidador, empiece la conversación temprano y monitoree. Cree un acuerdo futuro sobre la conducción antes de que las emociones estén altas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si hay preocupaciones moderadas — reacciones más lentas, dificultad en tráfico complejo, perderse en áreas desconocidas — hable con el médico y considere una evaluación formal de conducción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si hay preocupaciones altas — abolladuras, raspaduras, multas, dificultad para incorporarse, problemas con señales, perderse en rutas familiares — pause la conducción hasta que la persona sea evaluada. Involucre al clínico. Involucre el proceso del DMV si es necesario. No deje que esto quede solo entre usted y su ser querido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si hay peligro inmediato — un choque, confusión entre acelerador y freno, pasarse luces rojas, un médico diciendo que debe parar — la conducción debe detenerse de inmediato. Puede ser necesario retirar el acceso al vehículo, y debe activarse un plan de transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sé que esto suena duro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero a veces el amor tiene que tomar la decisión difícil antes de que la tragedia la tome por usted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y quiero ser claro: el cuidador no tiene que ser el evaluador. Usted no es la prueba de manejo. Usted no es el DMV. Usted no es el terapeuta ocupacional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted es la persona que ve las señales rojas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su trabajo es llevar la preocupación a un proceso clínico."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-4.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 805
+    },
+    {
+      "type": "heading",
+      "text": "EL PROTOCOLO DE 6 PASOS PARA CUIDADORES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, ¿qué deben hacer realmente las familias?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Primero, empiece temprano. No espere a que haya un choque. Saque el tema de conducir antes de la crisis. Haga preguntas como: “Papá, si alguna vez llega un momento en que conducir no sea seguro, ¿cómo te gustaría que lo manejáramos?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Segundo, observe y documente. No dependa solo de sensaciones. Anote incidentes específicos: fechas, rutas, multas, abolladuras, casi accidentes, perderse, confusión, giros equivocados o llamadas pidiendo ayuda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tercero, involucre al médico. Pida al médico de atención primaria, neurólogo o equipo de cuidado que documente las preocupaciones. El cuidador no debe cargar esto solo como una opinión familiar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuarto, solicite una evaluación formal de conducción. El estándar de oro suele ser una evaluación en carretera por un terapeuta ocupacional o especialista en rehabilitación de conductores, junto con pruebas cognitivas, visuales y motoras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quinto, conozca las leyes de su estado. Las reglas de reporte varían por estado. No asuma que las reglas son iguales en todas partes. Algunos estados exigen reporte médico obligatorio. Otros dependen más del autorreporte o del reporte voluntario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sexto, construya transporte antes de quitar las llaves. Esto es crítico. Si quita la conducción sin reemplazar la función de transporte, puede crear aislamiento, enojo, citas perdidas, pérdida de dignidad y sobrecarga del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta no es solo quitar el auto."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta es reemplazar el sistema que el auto proporcionaba."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-5.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 812
+    },
+    {
+      "type": "heading",
+      "text": "CÓMO TENER LA CONVERSACIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "La forma en que lo dice importa."
+    },
+    {
+      "type": "paragraph",
+      "text": "El enfoque equivocado suena así:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Eres peligroso.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Ya no puedes conducir.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Estás siendo terco.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entiendo por qué los cuidadores dicen cosas así. Tienen miedo. Están agotados. Están tratando de evitar que ocurra algo terrible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero por lo general esto no funciona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recuerde, puede haber anosognosia. La persona tal vez no pueda ver lo que usted ve. Así que cuando usted dice: “Eres peligroso”, puede oír un insulto. Cuando dice: “No puedes conducir”, puede oír control. Cuando dice: “Estás siendo terco”, puede sentirse atacada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un mejor enfoque es simple y respetuoso:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Quiero que tú y otras personas estén seguros.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Hagamos una evaluación objetiva.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“El médico nos está ayudando a hacer el plan más seguro.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto aleja la conversación de la vergüenza y la acerca a la seguridad."
+    },
+    {
+      "type": "paragraph",
+      "text": "También usa una autoridad externa. No como arma, sino como apoyo. El cuidador no debería tener que ser el malo. La familia no debería tener que convertir esto en una batalla personal."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta no es ganar una discusión ni demostrar que la persona está equivocada."
+    },
+    {
+      "type": "paragraph",
+      "text": "La meta es proteger la seguridad mientras se preserva la dignidad."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-6.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 809
+    },
+    {
+      "type": "heading",
+      "text": "EL CAMBIO OCULTO EN EL TRABAJO DEL CUIDADOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay otra parte de esta conversación para la que las familias no siempre se preparan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando la persona que vive con demencia deja de conducir, el cuidador a menudo se convierte en el sistema de transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visitas médicas. Compras de supermercado. Recogida de medicamentos en la farmacia. Visitas sociales. Cuidado diurno para adultos. Emergencias. Eventos familiares. Citas de laboratorio. Visitas con especialistas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese es un cambio importante en la carga de trabajo del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y si no hablamos de eso honestamente, hacemos que el cuidador se sienta culpable por tener dificultad."
+    },
+    {
+      "type": "paragraph",
+      "text": "La decisión sobre conducir no es solo un asunto de seguridad del paciente. También es un asunto de carga de trabajo del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si papá deja de conducir, ¿quién lo lleva al médico? ¿Quién compra los alimentos? ¿Quién recoge los medicamentos? ¿Quién lo lleva al cuidado diurno para adultos? ¿Quién maneja la llamada de emergencia cuando algo cambia? ¿Quién administra el calendario?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas preguntas importan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque si eliminamos la conducción pero no construimos un sistema de apoyo, podemos proteger contra un riesgo mientras creamos otra crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso la planificación tiene que incluir transporte, apoyo de cuidado en el hogar, programas comunitarios, horarios familiares, servicios de entrega, telesalud cuando corresponda y navegación de cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "No pregunte solo: “¿Debe mamá dejar de conducir?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregunte: “¿Qué sistema reemplaza la conducción cuando ella deje de hacerlo?”"
+    },
+    {
+      "type": "heading",
+      "text": "EL EQUILIBRIO ÉTICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta es una de las decisiones éticas más difíciles en el cuidado de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "De un lado están la seguridad pública, la responsabilidad familiar y el deterioro cognitivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Del otro lado están la autonomía, la dignidad, la independencia y la identidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambos lados importan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted se enfoca solo en la seguridad, puede quitar dignidad. Si se enfoca solo en la independencia, puede ignorar un riesgo serio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, ¿cómo lo equilibramos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Construimos un plan de transporte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese es el puente."
+    },
+    {
+      "type": "paragraph",
+      "text": "No solo está quitando un auto. Está reemplazando transporte. Está reemplazando acceso. Está reemplazando independencia en una forma más segura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso puede significar viajes con familiares. Servicios de transporte compartido cuando corresponda. Paratránsito. Transporte para adultos mayores. Programas diurnos para adultos. Entrega de farmacia. Entrega de supermercado. Navegación de cuidado. Telesalud. Visitas a domicilio. Apoyo comunitario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Así protegemos el cuerpo sin quebrar el espíritu."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/when-should-someone-with-dementia-stop-driving/image-7.png",
+      "alt": "Contenido del artículo",
+      "width": 1488,
+      "height": 807
+    }
+  ],
+  "disclaimer": "Esto es educación, no consejo médico. Las leyes de conducción, los requisitos de reporte y las recomendaciones médicas varían según el estado y la situación individual. Si le preocupa la demencia y la seguridad al conducir, hable con un profesional de la salud calificado y revise los requisitos del DMV de su estado.",
+  "youtubeVideo": {
+    "id": "i7Ru2J3mnlM",
+    "title": "¿Es seguro que una persona con demencia conduzca? Señales de alerta que todo cuidador debe conocer",
+    "publishedDate": "2026-05-28",
+    "description": "Video complementario de Straight Talk with Dr. Erik para el artículo \"¿Cuándo debe dejar de conducir una persona con demencia?\": ¿Es seguro que una persona con demencia conduzca? Señales de alerta que todo cuidador debe conocer.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/i7Ru2J3mnlM/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=i7Ru2J3mnlM",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/i7Ru2J3mnlM"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-07-08",
+  "policy": "Only embed a Straight Talk with Dr. Erik video when the title, date, and description/transcript context are confident, or when the site owner supplies the exact video URL.",
+  "missingVideoLinksNeeded": [],
+  "intentionallyNoVideo": [
+    {
+      "issueNumber": 33,
+      "publishedDate": "2026-06-18",
+      "title": "Why Does Healthcare Innovation Fail Before It Reaches Dementia Families?",
+      "slug": "why-does-healthcare-innovation-fail-before-it-reaches-dementia-families",
+      "reason": "Owner confirmed this World Health Expo in Miami issue has no video."
+    }
+  ],
+  "ownerSuppliedOrConfirmed": [
+    {
+      "issueNumber": 10,
+      "publishedDate": "2026-05-07",
+      "title": "What Does It Really Take to Fight Alzheimer's in South Florida?",
+      "slug": "what-does-it-really-take-to-fight-alzheimer-s-in-south-florida",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=X_yt-JEJpWw",
+        "https://www.youtube.com/watch?v=hO-i7822_kw&t=38s"
+      ],
+      "note": "Event issue with two Dr. Erik speaking clips."
+    },
+    {
+      "issueNumber": 15,
+      "publishedDate": "2026-05-20",
+      "title": "Is It Normal To Feel Overwhelmed Caring For Someone With Dementia?",
+      "slug": "is-it-normal-to-feel-overwhelmed-caring-for-someone-with-dementia",
+      "videoUrl": "https://www.youtube.com/watch?v=IDOCw_Pnakg"
+    },
+    {
+      "issueNumber": 31,
+      "publishedDate": "2026-06-16",
+      "title": "Why Does Routine Matter So Much in Dementia Care?",
+      "slug": "why-does-routine-matter-so-much-in-dementia-care",
+      "videoUrl": "https://youtu.be/4GlfV0yKV64"
+    },
+    {
+      "issueNumber": 32,
+      "publishedDate": "2026-06-17",
+      "title": "Why Is Early Dementia Diagnosis So Important for Families?",
+      "slug": "why-is-early-dementia-diagnosis-so-important-for-families",
+      "videoUrl": "https://www.youtube.com/watch?v=7ff9nImsWKo",
+      "note": "Matched to the long event-style early detection and caregiver support video from the local YouTube cache."
+    },
+    {
+      "issueNumber": 37,
+      "publishedDate": "2026-06-24",
+      "title": "Why Is Dementia Care More Than Medication?",
+      "slug": "why-is-dementia-care-more-than-medication",
+      "videoUrl": "https://youtu.be/AVK3Tj6V2h8"
+    }
+  ],
+  "matchedVideosNeedingReview": []
+}

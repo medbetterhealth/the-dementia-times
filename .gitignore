@@ -1,0 +1,5 @@
+# Files GitHub should NOT store (they are rebuilt automatically)
+node_modules/
+dist/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,37 @@
+{
+  "title": "Dementia Medications and Treatment",
+  "slug": "dementia-medications-and-treatment",
+  "description": "A plain-language guide to dementia medications, newer Alzheimer’s treatments, agitation, and what families should ask before medication becomes the answer.",
+  "directAnswer": "Dementia medications can sometimes help symptoms or slow decline in selected Alzheimer’s patients, but they are not cures and they are not one-size-fits-all. Families should ask what problem the medication is meant to solve, what stage it is appropriate for, what risks to monitor, and what non-medication causes should be checked first.",
+  "keyTakeaways": [
+    "Traditional dementia medications generally support symptoms; newer anti-amyloid treatments are limited to specific early Alzheimer’s situations.",
+    "Agitation, refusal, sleep issues, pain, infection, hearing loss, and environmental triggers should be assessed before reflexively adding medication.",
+    "Medication decisions should be individualized with a clinician who understands the diagnosis, stage, goals, and risks."
+  ],
+  "issueSlugs": [
+    "dementia-medications",
+    "are-there-any-new-treatments-that-can-actually-slow-alzheimer-s-disease",
+    "should-medication-be-the-first-answer-for-dementia-agitation",
+    "why-won-t-my-loved-one-with-dementia-take-their-medication"
+  ],
+  "faqs": [
+    {
+      "question": "Are there medications that cure dementia?",
+      "answer": "No. Some medications may help symptoms or slow progression for selected patients, but they do not restore lost memory or cure dementia."
+    },
+    {
+      "question": "Should agitation always be treated with antipsychotics?",
+      "answer": "No. Agitation can be communication. Families and clinicians should first look for pain, infection, fear, overstimulation, routine disruption, medication side effects, and environmental causes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Dementia Times: Dementia Medications",
+      "url": "https://thedementiatimes.com/issues/dementia-medications/"
+    },
+    {
+      "title": "U.S. FDA: FDA converts novel Alzheimer’s treatment to traditional approval",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-converts-novel-alzheimers-disease-treatment-traditional-approval"
+    }
+  ]
+}
