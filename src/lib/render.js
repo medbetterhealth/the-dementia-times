@@ -1575,7 +1575,7 @@ function renderArchive(issues, pathDepth = 0, locale = "en") {
 
 function renderRecentEditions(issues, pathDepth = 0, locale = "en") {
   const text = ui(locale);
-  const recentIssues = issues.slice(1, 6);
+  const recentIssues = issues.slice(0, 5);
   if (recentIssues.length === 0) {
     return "";
   }
