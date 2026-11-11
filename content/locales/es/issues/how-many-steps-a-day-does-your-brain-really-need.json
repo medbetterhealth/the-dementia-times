@@ -48,12 +48,6 @@
       "alt": "Contenido del artículo",
       "width": 1376,
       "height": 768
-    },
-    {
-      "src": "/assets/issues/how-many-steps-a-day-does-your-brain-really-need/image-7.jpg",
-      "alt": "Contenido del artículo",
-      "width": 1600,
-      "height": 264
     }
   ],
   "sections": [
@@ -388,17 +382,12 @@
       "text": "También puedes suscribirte a Straight Talk with Dr. Erik para recibir educación práctica sobre el cuidado de la demencia:"
     },
     {
-      "type": "image",
-      "src": "/assets/issues/how-many-steps-a-day-does-your-brain-really-need/image-7.jpg",
-      "alt": "Contenido del artículo"
-    },
-    {
       "type": "paragraph",
       "text": "https://www.youtube.com/@ErikIlyayev"
     },
     {
       "type": "paragraph",
-      "text": "Esto es educación, no asesoramiento médico. Las cifras de esta edición son las compartidas por líderes de la Alzheimer’s Association en la Actualización del Territorio Sureste. Las pruebas, el diagnóstico, las opciones de tratamiento, la salud cerebral y la planificación del cuidado del Alzheimer deben consultarse con un profesional de la salud calificado."
+      "text": "Esto es educación, no asesoramiento médico. Las pruebas, el diagnóstico, las opciones de tratamiento, la salud cerebral y la planificación del cuidado del Alzheimer deben consultarse con un profesional de la salud calificado."
     },
     {
       "type": "paragraph",

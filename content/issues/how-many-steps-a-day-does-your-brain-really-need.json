@@ -48,12 +48,6 @@
       "alt": "Article content",
       "width": 1376,
       "height": 768
-    },
-    {
-      "src": "/assets/issues/how-many-steps-a-day-does-your-brain-really-need/image-7.jpg",
-      "alt": "Article content",
-      "width": 1600,
-      "height": 264
     }
   ],
   "sections": [
@@ -388,17 +382,12 @@
       "text": "You can also subscribe to Straight Talk with Dr. Erik for practical dementia-care education:"
     },
     {
-      "type": "image",
-      "src": "/assets/issues/how-many-steps-a-day-does-your-brain-really-need/image-7.jpg",
-      "alt": "Article content"
-    },
-    {
       "type": "paragraph",
       "text": "https://www.youtube.com/@ErikIlyayev"
     },
     {
       "type": "paragraph",
-      "text": "This is education, not medical advice. Figures in this issue are as shared by Alzheimer’s Association leaders at the Southeast Territory Update. Alzheimer’s testing, diagnosis, treatment options, brain health and care planning should be discussed with a qualified healthcare professional."
+      "text": "This is education, not medical advice. Alzheimer’s testing, diagnosis, treatment options, brain health and care planning should be discussed with a qualified healthcare professional."
     },
     {
       "type": "paragraph",
