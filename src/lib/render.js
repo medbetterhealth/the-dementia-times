@@ -22,6 +22,73 @@ function attr(value) {
   return escapeHtml(value);
 }
 
+const LINKIFY_TLDS = "com|org|net|gov|edu|io|us|co|info|health|care|news|bot|tv|me|ly|be";
+const LINKIFY_PATTERN = new RegExp(
+  String.raw`(?<![\p{L}\p{N}@._/-])((?:https?:\/\/)[^\s<>"]+|(?:www\.)?(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+(?:${LINKIFY_TLDS})(?![\p{L}\p{N}-])(?:[/?#][^\s<>"]*)?)`,
+  "giu"
+);
+const LINKIFY_TRAILING = /[.,;:!?'"’”»…)\]}]+$/u;
+const INTERNAL_LINK_HOSTS = new Set(["thedementiatimes.com", "www.thedementiatimes.com"]);
+
+function trimLinkCandidate(candidate) {
+  let url = candidate;
+  let trailing = "";
+  for (;;) {
+    const match = url.match(LINKIFY_TRAILING);
+    if (!match) break;
+    let cut = match[0];
+    // Keep a closing parenthesis that balances one inside the URL, e.g. wiki/Foo_(bar).
+    if (cut.endsWith(")")) {
+      const opens = (url.match(/\(/g) ?? []).length;
+      const closes = (url.match(/\)/g) ?? []).length;
+      if (opens >= closes && cut === ")") break;
+    }
+    url = url.slice(0, url.length - cut.length);
+    trailing = cut + trailing;
+  }
+  return { url, trailing };
+}
+
+function linkHref(url) {
+  return /^https?:\/\//i.test(url) ? url : `https://${url}`;
+}
+
+function isInternalLink(href) {
+  try {
+    return INTERNAL_LINK_HOSTS.has(new URL(href).hostname.toLowerCase());
+  } catch {
+    return false;
+  }
+}
+
+// Escapes plain article text and turns URLs (http(s)://… and bare domains such as
+// guide.medbetterhealth.org/news) into links. Every piece of text, including the URL
+// itself, goes through escapeHtml, so the output is as safe as escapeHtml alone.
+export function linkifyText(value) {
+  const text = String(value ?? "");
+  let html = "";
+  let last = 0;
+  for (const match of text.matchAll(LINKIFY_PATTERN)) {
+    const { url, trailing } = trimLinkCandidate(match[1]);
+    const start = match.index;
+    const href = linkHref(url);
+    let parsed;
+    try {
+      parsed = new URL(href);
+    } catch {
+      continue;
+    }
+    if (!/^https?:$/.test(parsed.protocol)) continue;
+    html += escapeHtml(text.slice(last, start));
+    const external = isInternalLink(href) ? "" : ' target="_blank" rel="noopener"';
+    html += `<a class="inline-link" href="${attr(parsed.href)}"${external}>${escapeHtml(url)}</a>`;
+    html += escapeHtml(trailing);
+    last = start + match[1].length;
+  }
+  html += escapeHtml(text.slice(last));
+  return html;
+}
+
 const BRAND_IMAGE_DIMENSIONS = {
   publicationMark: { width: 44, height: 44 },
   medBetterLogo: { width: 142, height: 42 },
@@ -240,7 +307,7 @@ const defaultGuideScenarios = [
 
 function renderGuideCta(site, pathDepth = 0, { compact = false } = {}) {
   const guide = site.guide ?? {};
-  const guideUrl = guide.url ?? "https://intakeguide.medbetterhealth.org";
+  const guideUrl = guide.url ?? "https://guide.medbetterhealth.org/news";
   const cta = guide.cta ?? "Apply for GUIDE";
 
   if (compact) {
@@ -725,21 +792,21 @@ export function renderIssueBody(issue, { pathDepth = 0, midArticleHtml = "" } = 
         return `<h2>${escapeHtml(section.text)}</h2>`;
       }
       if (section.type === "paragraph") {
-        return `<p>${escapeHtml(section.text)}</p>`;
+        return `<p>${linkifyText(section.text)}</p>`;
       }
       if (section.type === "image") {
         const image = `<img src="${attr(relativeInternalUrl(section.src, pathDepth))}" alt="${attr(section.alt)}" loading="lazy" decoding="async"${imageDimensionAttrs(section)}>`;
         return `<figure>${image}</figure>`;
       }
       if (section.type === "list") {
-        const items = section.items.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
+        const items = section.items.map((item) => `<li>${linkifyText(item)}</li>`).join("");
         return `<ul>${items}</ul>`;
       }
       if (section.type === "quote") {
-        return `<blockquote>${escapeHtml(section.text)}</blockquote>`;
+        return `<blockquote>${linkifyText(section.text)}</blockquote>`;
       }
       if (section.type === "callout") {
-        return `<aside class="callout">${escapeHtml(section.text)}</aside>`;
+        return `<aside class="callout">${linkifyText(section.text)}</aside>`;
       }
       return "";
     });
@@ -751,7 +818,7 @@ export function renderIssueBody(issue, { pathDepth = 0, midArticleHtml = "" } = 
   const sections = renderedSections.join("\n");
 
   const disclaimer = issue.disclaimer
-    ? `<aside class="disclaimer">${escapeHtml(issue.disclaimer)}</aside>`
+    ? `<aside class="disclaimer">${linkifyText(issue.disclaimer)}</aside>`
     : "";
 
   return `${sections}

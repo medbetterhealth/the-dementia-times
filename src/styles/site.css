@@ -1834,6 +1834,10 @@ main {
   object-fit: cover;
 }
 
+.article-body a.inline-link {
+  overflow-wrap: anywhere;
+}
+
 .article-body a:visited,
 .archive-item a:visited,
 .topic-issue-list a:visited {

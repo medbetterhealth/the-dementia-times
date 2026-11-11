@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import {
   escapeHtml,
+  linkifyText,
   renderAuthorPage,
   renderIssueBody,
   renderIssuePage,
@@ -110,6 +111,57 @@ test("renderIssueBody renders headings, paragraphs, images, lists, and disclaime
   assert.match(html, /loading="lazy"/);
   assert.match(html, /Reduce background noise/);
   assert.match(html, /This is education, not medical advice/);
+});
+
+test("linkifyText escapes text and links full and bare URLs", () => {
+  assert.equal(
+    linkifyText("Check eligibility here: guide.medbetterhealth.org/news The GUIDE Model"),
+    'Check eligibility here: <a class="inline-link" href="https://guide.medbetterhealth.org/news" target="_blank" rel="noopener">guide.medbetterhealth.org/news</a> The GUIDE Model'
+  );
+  assert.equal(
+    linkifyText("Visit https://guide.medbetterhealth.org/news."),
+    'Visit <a class="inline-link" href="https://guide.medbetterhealth.org/news" target="_blank" rel="noopener">https://guide.medbetterhealth.org/news</a>.'
+  );
+  assert.equal(
+    linkifyText("<b>Tom & Jerry</b> say hi"),
+    "&lt;b&gt;Tom &amp; Jerry&lt;/b&gt; say hi"
+  );
+});
+
+test("linkifyText leaves trailing punctuation outside the link", () => {
+  const html = linkifyText("See (medbetterhealth.org/about), then youtube.com/@ErikIlyayev!");
+  assert.match(html, /\(<a class="inline-link" href="https:\/\/medbetterhealth.org\/about"[^>]*>medbetterhealth.org\/about<\/a>\), then/);
+  assert.match(html, /href="https:\/\/youtube.com\/@ErikIlyayev"[^>]*>youtube.com\/@ErikIlyayev<\/a>!$/);
+  assert.match(linkifyText("“thedementiatimes.com”"), /<\/a>”$/);
+});
+
+test("linkifyText opens external links safely and keeps the site's own links in the tab", () => {
+  assert.match(linkifyText("https://example.org/a"), /target="_blank" rel="noopener"/);
+  assert.doesNotMatch(linkifyText("thedementiatimes.com"), /target=/);
+  assert.match(linkifyText("thedementiatimes.com"), /href="https:\/\/thedementiatimes.com\/"/);
+});
+
+test("linkifyText escapes query strings and ignores emails, numbers and file names", () => {
+  assert.match(linkifyText("https://a.com/?x=1&y=2"), /href="https:\/\/a.com\/\?x=1&amp;y=2"/);
+  assert.equal(linkifyText("Email it@medbetterhealth.org"), "Email it@medbetterhealth.org");
+  assert.equal(linkifyText("About 3.5 times, e.g. Node.js"), "About 3.5 times, e.g. Node.js");
+  assert.equal(linkifyText("javascript:alert(1)"), "javascript:alert(1)");
+});
+
+test("renderIssueBody links URLs in paragraphs and lists but not headings", () => {
+  const html = renderIssueBody({
+    sections: [
+      { type: "heading", text: "VISIT THEDEMENTIATIMES.COM" },
+      { type: "paragraph", text: "Check eligibility here: https://guide.medbetterhealth.org/news" },
+      { type: "list", items: ["Watch youtube.com/@ErikIlyayev"] }
+    ],
+    disclaimer: "Learn more at medbetterhealth.org."
+  });
+  assert.match(html, /<h2>VISIT THEDEMENTIATIMES.COM<\/h2>/);
+  assert.match(html, /<p>Check eligibility here: <a class="inline-link" href="https:\/\/guide.medbetterhealth.org\/news"/);
+  assert.match(html, /<li>Watch <a class="inline-link" href="https:\/\/youtube.com\/@ErikIlyayev"/);
+  assert.match(html, /<aside class="disclaimer">Learn more at <a class="inline-link" href="https:\/\/medbetterhealth.org\/"[^>]*>medbetterhealth.org<\/a>.<\/aside>/);
+  assert.doesNotMatch(html, /<a[^>]*><a/);
 });
 
 test("renderIssueBody does not link ordinary article images to the YouTube playlist", () => {
