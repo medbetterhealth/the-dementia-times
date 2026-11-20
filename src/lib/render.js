@@ -785,6 +785,20 @@ function guideInsertionIndex(sections = []) {
   return firstParagraph === -1 ? Math.min(sections.length, target) : Math.min(sections.length, firstParagraph + 1);
 }
 
+// The LinkedIn source can link descriptive labels, not just displayed URLs.
+// New content can supply the link explicitly; older issues keep their existing linkification.
+function renderIssueParagraph(section) {
+  let text = linkifyText(section.text);
+  if (section.href && URL.canParse(section.href)) {
+    const url = new URL(section.href);
+    if (["http:", "https:"].includes(url.protocol) && !url.username && !url.password) {
+      const external = isInternalLink(url.href) ? "" : ' target="_blank" rel="noopener"';
+      text = `<a class="inline-link" href="${attr(url.href)}"${external}>${escapeHtml(section.text)}</a>`;
+    }
+  }
+  return section.bold === true ? `<strong>${text}</strong>` : text;
+}
+
 export function renderIssueBody(issue, { pathDepth = 0, midArticleHtml = "" } = {}) {
   const renderedSections = issue.sections
     .map((section) => {
@@ -792,7 +806,7 @@ export function renderIssueBody(issue, { pathDepth = 0, midArticleHtml = "" } = 
         return `<h2>${escapeHtml(section.text)}</h2>`;
       }
       if (section.type === "paragraph") {
-        return `<p>${linkifyText(section.text)}</p>`;
+        return `<p>${renderIssueParagraph(section)}</p>`;
       }
       if (section.type === "image") {
         const image = `<img src="${attr(relativeInternalUrl(section.src, pathDepth))}" alt="${attr(section.alt)}" loading="lazy" decoding="async"${imageDimensionAttrs(section)}>`;
@@ -919,14 +933,14 @@ export function renderIssuePage({ site, issue, previousIssue, nextIssue, issues 
       <div class="topics">${renderTopics(issue.topics)}</div>
       </header>
       ${renderArticleTools(site, issue, pathDepth, locale)}
-      <img class="article-cover" src="${attr(relativeInternalUrl(issue.coverImage, pathDepth))}" alt="${attr(issue.title)}" fetchpriority="high" decoding="async"${issueCoverDimensions(issue)}>
+      <img class="article-cover" src="${attr(relativeInternalUrl(issue.coverImage, pathDepth))}" alt="${attr(issue.coverAlt || issue.title)}" fetchpriority="high" decoding="async"${issueCoverDimensions(issue)}>
       ${renderAnswerBox(issue, locale)}
       ${renderArticleTrustPanel(site, issue, locale)}
       ${renderYoutubeEmbed(issue, locale)}
       <div class="article-body">
         ${renderIssueBody(issue, { pathDepth, midArticleHtml: renderGuideCta(site, pathDepth) })}
         ${renderUnplacedIssueImages(issue, pathDepth, locale)}
-        ${renderYoutubeBanner(site, pathDepth, locale)}
+        ${issue.hasInlineYoutubeBanner === true ? "" : renderYoutubeBanner(site, pathDepth, locale)}
         ${renderArticleFaq(issue, locale)}
         ${renderRelatedIssues(issue, issues, pathDepth, locale)}
         <p><a class="source-link button-link" href="${attr(sourceUrl(issue))}">${escapeHtml(text.viewOriginal)}</a></p>
@@ -945,7 +959,7 @@ export function renderIssuePage({ site, issue, previousIssue, nextIssue, issues 
     pathname,
     canonicalUrl,
     imageUrl,
-    imageAlt: issue.title,
+    imageAlt: issue.coverAlt || issue.title,
     type: "article",
     publishedDate: issue.publishedDate,
     structuredData: [articleSchema, faqSchema, breadcrumbSchema],

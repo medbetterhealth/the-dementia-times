@@ -1,0 +1,943 @@
+{
+  "title": "Illuminating The Invisible: Who Is Taking Care Of The Dementia Caregiver?",
+  "slug": "illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver",
+  "issueNumber": 60,
+  "publishedDate": "2026-11-20",
+  "sourceUrl": "https://www.linkedin.com/pulse/illuminating-invisible-who-taking-care-dementia-erik-ilyayev-nl7ie",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Recently, I sat in a room with a group of dementia caregivers and asked them a question: “What do you wish was different for caregivers?” Their answers stayed with me.",
+  "topics": [
+    "Caregiver Support",
+    "Medicare GUIDE",
+    "Brain Health"
+  ],
+  "coverImage": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/cover.jpg",
+  "coverAlt": "“Illuminating the Invisible”: a golden brain overlaid on a navy blueprint.",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-1.jpg",
+      "alt": "The Invisible Patient: there’s the person living with dementia, and there’s the person caring for them.",
+      "width": 744,
+      "height": 378
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-2.jpg",
+      "alt": "What caregivers asked for: regular check-ins that lead to help, earlier notice about research studies, doctors who can diagnose dementia, and routine memory checks.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-3.jpg",
+      "alt": "U.S. POINTER compared self-guided educational materials and goals with a structured program of team meetings, coaching, and goals. Both groups improved on cognitive tests; the structured group improved slightly more. Source: JAMA, 2025.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-4.jpg",
+      "alt": "Deep sleep and the brain: conceptual illustration of how sleep may help the brain clear waste, a process researchers are studying.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-5.jpg",
+      "alt": "Subscribe to Straight Talk with Dr. Erik.",
+      "width": 744,
+      "height": 123
+    }
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "text": "ISSUE NO. 60 THE INVISIBLE PATIENT: WHAT CAREGIVERS TOLD ME, AND WHAT THE SCIENCE IS SHOWING"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently, I sat in a room with a group of dementia caregivers and asked them a question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“What do you wish was different for caregivers?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Their answers stayed with me."
+    },
+    {
+      "type": "paragraph",
+      "text": "One caregiver had lost her job. Her savings were shrinking. She was managing her husband's care, their finances, their home, and nearly every responsibility that came with it."
+    },
+    {
+      "type": "paragraph",
+      "text": "But when I asked what would make a difference, her answer wasn't another brochure or another list of instructions."
+    },
+    {
+      "type": "paragraph",
+      "text": "She wanted someone who would call regularly, remember what she was going through, and actually help."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another caregiver shared how her husband's dementia symptoms changed throughout the day, and how a morning assessment hadn't reflected the difficulties she was seeing at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "And throughout the conversation, I kept hearing different versions of the same questions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Who helps me figure out what comes next?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Who can I call when I don't know what to do?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"What happens when I need help, too?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "These are not just questions about dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are questions about the people who care for someone living with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "And they reminded me of something I've believed for a long time."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two people who need support in dementia care."
+    },
+    {
+      "type": "paragraph",
+      "text": "The person with the diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the person caring for them."
+    },
+    {
+      "type": "paragraph",
+      "text": "I call that second person the invisible patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recently, I had the privilege of joining a caregiver support group at Broward Health in South Florida."
+    },
+    {
+      "type": "paragraph",
+      "text": "I had come to share some of the latest developments in dementia research, prevention, and caregiver support."
+    },
+    {
+      "type": "paragraph",
+      "text": "But as I listened to the people in that room, I realized that some of the most important lessons weren't coming from the research."
+    },
+    {
+      "type": "paragraph",
+      "text": "They were coming from the caregivers themselves."
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I'm a dementia care physician, a board member of the South Florida Alzheimer's Association, and the CEO of MedBetterHealth.org, one of the organizations selected by Medicare to participate in the GUIDE Model, an eight-year CMS initiative designed to support people living with dementia and the family caregivers caring for them at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this issue, I want to share what those caregivers taught me, what new dementia research is revealing, and why I believe we need to rethink how we care for the person who is doing the caring."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because while science is advancing, caregivers are carrying the responsibility today."
+    },
+    {
+      "type": "paragraph",
+      "text": "And they deserve to be seen."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-1.jpg",
+      "alt": "The Invisible Patient: there’s the person living with dementia, and there’s the person caring for them.",
+      "width": 744,
+      "height": 378
+    },
+    {
+      "type": "heading",
+      "text": "THE INVISIBLE PATIENT"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I care for someone living with dementia, I see two people who need support."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is the person with the diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "And there is the person caring for them."
+    },
+    {
+      "type": "paragraph",
+      "text": "I call that second person the invisible patient."
+    },
+    {
+      "type": "paragraph",
+      "text": "One caregiver described what happens when her husband becomes upset."
+    },
+    {
+      "type": "paragraph",
+      "text": "He may eventually forget the incident."
+    },
+    {
+      "type": "paragraph",
+      "text": "She doesn't."
+    },
+    {
+      "type": "paragraph",
+      "text": "She remembers the argument, the worry, the emotional exhaustion, and everything she still has to manage afterward."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's a part of dementia caregiving that doesn't always show up in a medical chart."
+    },
+    {
+      "type": "paragraph",
+      "text": "The caregiver may be sleeping poorly, missing appointments, managing medications, coordinating transportation, or wondering how long the family's savings will last."
+    },
+    {
+      "type": "paragraph",
+      "text": "And yet, when someone asks how things are going, the answer is often about the person with dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "I believe we need to ask about both."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because dementia doesn't affect only the person with the diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "It changes the life of the person standing beside them."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-2.jpg",
+      "alt": "What caregivers asked for: regular check-ins that lead to help, earlier notice about research studies, doctors who can diagnose dementia, and routine memory checks.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "type": "heading",
+      "text": "WHAT CAREGIVERS TOLD ME THEY NEED"
+    },
+    {
+      "type": "paragraph",
+      "text": "During the support group, I asked a question:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“From the day of diagnosis onward, what do you wish had been different for caregivers?”",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Their answers were practical, personal, and remarkably consistent."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Someone who actually helps.",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Caregivers don't always need more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes they need someone to help make an appointment, follow up with a doctor, or figure out what to do next."
+    },
+    {
+      "type": "paragraph",
+      "text": "They want someone who remembers what happened last week and follows through this week."
+    },
+    {
+      "type": "paragraph",
+      "text": "One caregiver explained that even a regular weekly call would make a difference."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not simply a call to ask whether everything was okay."
+    },
+    {
+      "type": "paragraph",
+      "text": "A call that leads to something getting done."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Financial guidance before a crisis",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "One caregiver spoke openly about losing her income and dipping into retirement savings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Others discussed Medicaid, long-term care expenses, and programs that may provide financial assistance to certain family caregivers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The financial burden of dementia care is real."
+    },
+    {
+      "type": "paragraph",
+      "text": "When someone becomes a full-time caregiver, the household doesn't stop having bills."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mortgage still needs to be paid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Groceries still need to be purchased."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical appointments still need to be scheduled."
+    },
+    {
+      "type": "paragraph",
+      "text": "And for many families, paying someone else to help with care can become another financial challenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families need trustworthy guidance about available resources, eligibility requirements, and financial planning."
+    },
+    {
+      "type": "paragraph",
+      "text": "They should not have to discover every option through trial and error."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Information about research opportunities earlier",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Another caregiver wished she had learned about research studies sooner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families often hear about clinical research only after they've spent months or years navigating a diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "And by then, they may have missed opportunities to explore studies for which their loved one might previously have been eligible."
+    },
+    {
+      "type": "paragraph",
+      "text": "We should help families understand how to ask about legitimate research opportunities earlier, while recognizing that participation and eligibility vary by study."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Earlier recognition and better diagnosis",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Caregivers also raised concerns about how long it can take to recognize and diagnose dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Memory changes are sometimes dismissed as normal aging."
+    },
+    {
+      "type": "paragraph",
+      "text": "But not every cognitive change should be treated that way."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why clinician education and appropriate cognitive assessment matter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicare's Annual Wellness Visit includes detecting possible cognitive impairment."
+    },
+    {
+      "type": "paragraph",
+      "text": "When concerns arise, families should feel comfortable asking their healthcare professional whether additional evaluation is appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are not extraordinary requests."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are requests for a healthcare system that pays attention."
+    },
+    {
+      "type": "heading",
+      "text": "WHEN ONE ASSESSMENT DOESN'T TELL THE WHOLE STORY"
+    },
+    {
+      "type": "paragraph",
+      "text": "One caregiver shared an experience that stayed with me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Her husband had been assessed virtually at nine in the morning, shortly after waking up."
+    },
+    {
+      "type": "paragraph",
+      "text": "At that hour, he was alert."
+    },
+    {
+      "type": "paragraph",
+      "text": "He answered questions well."
+    },
+    {
+      "type": "paragraph",
+      "text": "But later in the day, his symptoms could be very different."
+    },
+    {
+      "type": "paragraph",
+      "text": "She felt that the assessment had not captured what she was seeing at home, and she was frustrated by the decision that followed."
+    },
+    {
+      "type": "paragraph",
+      "text": "This matters because dementia symptoms can fluctuate throughout the day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some people experience increased confusion, restlessness, or agitation later in the afternoon or evening, sometimes described as sundowning."
+    },
+    {
+      "type": "paragraph",
+      "text": "A clinical assessment is important."
+    },
+    {
+      "type": "paragraph",
+      "text": "But so are the observations of the person who lives alongside those changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Her feedback made me think about what we can do better at MedBetterHealth."
+    },
+    {
+      "type": "paragraph",
+      "text": "I want our team to pay closer attention to when symptoms tend to occur and make sure caregivers have an opportunity to describe what happens across a typical day."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal should never be to make someone appear better or worse than they are."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal is to understand their actual needs so the care plan reflects the reality of daily life."
+    },
+    {
+      "type": "paragraph",
+      "text": "And to the caregiver who shared that experience, thank you for speaking up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your experience matters."
+    },
+    {
+      "type": "heading",
+      "text": "WHAT A CARE NAVIGATOR SHOULD REALLY DO"
+    },
+    {
+      "type": "paragraph",
+      "text": "That brings me back to the caregiver who wished someone would call every week."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicare's GUIDE Model was designed to help people living with dementia and the family members caring for them navigate a complicated journey."
+    },
+    {
+      "type": "paragraph",
+      "text": "Through MedBetterHealth, eligible families can access a dedicated dementia care navigator."
+    },
+    {
+      "type": "paragraph",
+      "text": "But I tell our navigators something important."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't call simply to ask whether everything is okay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ask what is making this week difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe the caregiver has been trying to schedule a specialist appointment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe her husband refuses to shower, and she doesn't know how to approach the situation without another argument."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe she needs help understanding the next step after a diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "A navigator should help identify practical next steps, coordinate appropriate resources, and follow through."
+    },
+    {
+      "type": "paragraph",
+      "text": "The goal isn't to add another task to a caregiver's list."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's to help make that list more manageable."
+    },
+    {
+      "type": "paragraph",
+      "text": "And that brings me to something else we discussed during the support group."
+    },
+    {
+      "type": "paragraph",
+      "text": "The future of dementia care."
+    },
+    {
+      "type": "heading",
+      "text": "A NEW ERA OF DEMENTIA RESEARCH"
+    },
+    {
+      "type": "paragraph",
+      "text": "During my visit, I also shared why I am hopeful about the direction of dementia research."
+    },
+    {
+      "type": "paragraph",
+      "text": "I had recently attended an invitation-only discussion involving federal and state health leaders, where prevention and research were major themes."
+    },
+    {
+      "type": "paragraph",
+      "text": "For decades, much of the conversation around dementia has focused on treating the disease after symptoms appear."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now researchers are also asking how lifestyle, cardiovascular health, sleep, and other factors may influence cognitive health as we age."
+    },
+    {
+      "type": "paragraph",
+      "text": "One important example is the U.S. POINTER study."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-3.jpg",
+      "alt": "U.S. POINTER compared self-guided educational materials and goals with a structured program of team meetings, coaching, and goals. Both groups improved on cognitive tests; the structured group improved slightly more. Source: JAMA, 2025.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "type": "heading",
+      "text": "WHAT U.S. POINTER TAUGHT US"
+    },
+    {
+      "type": "paragraph",
+      "text": "Led by the Alzheimer's Association, U.S. POINTER studied 2,111 older adults at increased risk of cognitive decline."
+    },
+    {
+      "type": "paragraph",
+      "text": "Participants followed lifestyle programs involving physical activity, nutrition, cognitive and social engagement, and health monitoring."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both groups received guidance."
+    },
+    {
+      "type": "paragraph",
+      "text": "But one group had a more structured program with regular coaching, goals, and accountability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Over two years, both groups improved on cognitive testing, with greater improvement in the structured group."
+    },
+    {
+      "type": "paragraph",
+      "text": "The study did not establish that participants prevented dementia."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it offered an encouraging lesson."
+    },
+    {
+      "type": "paragraph",
+      "text": "Knowing what to do and having consistent support to do it are two different things."
+    },
+    {
+      "type": "paragraph",
+      "text": "I think about that when I go to the gym with my sons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some mornings I don't feel like going."
+    },
+    {
+      "type": "paragraph",
+      "text": "But they expect me to show up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accountability makes a difference."
+    },
+    {
+      "type": "paragraph",
+      "text": "And that same principle applies to the way we support caregivers."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can give someone all the information in the world."
+    },
+    {
+      "type": "paragraph",
+      "text": "But information alone doesn't always translate into action."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes people need guidance, encouragement, and someone to help them stay on track."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-4.jpg",
+      "alt": "Deep sleep and the brain: conceptual illustration of how sleep may help the brain clear waste, a process researchers are studying.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "type": "heading",
+      "text": "WHY SLEEP DESERVES MORE ATTENTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another area of research involves sleep and the brain's ability to clear waste."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scientists have identified drainage pathways associated with the brain and are studying how sleep may influence the movement and clearance of substances such as amyloid, a protein associated with Alzheimer's disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "Much of the early mechanistic evidence came from animal research."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scientists are still working to understand how these processes operate in humans."
+    },
+    {
+      "type": "paragraph",
+      "text": "What we do know is that healthy sleep is important for overall health, including cognitive well-being."
+    },
+    {
+      "type": "paragraph",
+      "text": "And for caregivers, sleep can be especially difficult to protect."
+    },
+    {
+      "type": "paragraph",
+      "text": "A loved one may wake repeatedly."
+    },
+    {
+      "type": "paragraph",
+      "text": "They may become restless at night."
+    },
+    {
+      "type": "paragraph",
+      "text": "They may need assistance using the bathroom."
+    },
+    {
+      "type": "paragraph",
+      "text": "And the caregiver's sleep is interrupted, too."
+    },
+    {
+      "type": "heading",
+      "text": "SMALL STEPS TOWARD BETTER SLEEP"
+    },
+    {
+      "type": "paragraph",
+      "text": "A few practical habits may help:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Maintain a consistent waking and bedtime routine.",
+        "Get natural daylight and appropriate activity during the day.",
+        "Limit caffeine later in the day.",
+        "Create a calm, predictable bedtime routine.",
+        "Discuss persistent nighttime waking, pain, medication effects, or urinary symptoms with a healthcare professional.",
+        "If nighttime bathroom trips are disruptive, ask a clinician about appropriate fluid timing rather than restricting hydration independently."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "These steps won't solve every sleep problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "But small, consistent changes may make nights more manageable."
+    },
+    {
+      "type": "paragraph",
+      "text": "And caregivers deserve help protecting their sleep as well."
+    },
+    {
+      "type": "heading",
+      "text": "THE SCIENCE GIVES ME HOPE. CAREGIVERS NEED HELP TODAY."
+    },
+    {
+      "type": "paragraph",
+      "text": "Research may change what dementia care looks like in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "But families are living with dementia right now."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need someone to answer questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need guidance after a difficult appointment."
+    },
+    {
+      "type": "paragraph",
+      "text": "They need help coordinating care."
+    },
+    {
+      "type": "paragraph",
+      "text": "And sometimes, they simply need someone they trust to step in so they can take a break."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why I believe programs such as Medicare's GUIDE Model are important."
+    },
+    {
+      "type": "paragraph",
+      "text": "GUIDE stands for Guiding an Improved Dementia Experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "MedBetterHealth participates in this CMS initiative to support eligible people living with dementia and their caregivers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on eligibility and individual needs, the program includes:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A dedicated Care Navigator",
+        "A 24/7 support line for urgent questions and concerns",
+        "Caregiver education and training",
+        "Personalized dementia care planning",
+        "Connections to community resources",
+        "Medicare-covered respite services based on eligibility and assessed need. Respite means a trained caregiver stays with your loved one so you can take a break."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "TO THE CAREGIVERS WHO SHARED THEIR STORIES"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for speaking openly about the financial stress, the sleepless nights, the difficult decisions, and the things you wish someone had told you sooner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your experiences deserve to be heard."
+    },
+    {
+      "type": "paragraph",
+      "text": "They should inform the way healthcare organizations design services, communicate with families, and measure whether the care we provide is actually helping."
+    },
+    {
+      "type": "paragraph",
+      "text": "I left that room reminded that listening is not separate from good healthcare."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is part of good healthcare."
+    },
+    {
+      "type": "paragraph",
+      "text": "And to every caregiver reading this:"
+    },
+    {
+      "type": "paragraph",
+      "text": "You are not invisible.",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "You are not alone in that house.",
+      "bold": true
+    },
+    {
+      "type": "heading",
+      "text": "THE NEXT STEP FOR YOUR FAMILY"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are caring for someone living with dementia, MedBetterHealth may be able to support your family through Medicare's GUIDE Model."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can check eligibility here:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://medbetterhealth.org/guide",
+      "bold": true,
+      "href": "https://guide.medbetterhealth.org/news"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eligibility depends on Medicare coverage, diagnosis, and other program requirements. Availability of specific services, including respite care, is subject to additional criteria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if your family does not qualify for the GUIDE Model, MedBetterHealth remains committed to supporting caregivers through practical, evidence-based dementia education."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more dementia-care education, visit:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://thedementiatimes.com",
+      "bold": true,
+      "href": "https://thedementiatimes.com"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more conversations about dementia, brain health, caregiving, and the future of care, watch Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also subscribe for more dementia care education:"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-5.jpg",
+      "alt": "Subscribe to Straight Talk with Dr. Erik.",
+      "width": 744,
+      "height": 123
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/@ErikIlyayev",
+      "bold": true,
+      "href": "https://www.youtube.com/@ErikIlyayev"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is education, not medical advice. Memory changes, cognitive decline, Alzheimer's disease, dementia risk, prevention strategies, sleep, diet, exercise, stress, medications, caregiver burnout, dementia behaviors, delirium concerns, infection symptoms, and care decisions should be discussed with qualified healthcare professionals. If symptoms are sudden, severe, dangerous, or medically concerning, seek immediate medical help."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for reading The Dementia Times."
+    },
+    {
+      "type": "paragraph",
+      "text": "With gratitude,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Erik Ilyayev, MD",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "CEO, MedBetterHealth"
+    },
+    {
+      "type": "paragraph",
+      "text": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "type": "paragraph",
+      "text": "A NOTE FOR HEALTHCARE & HOME CARE PROFESSIONALS"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you work in home care, geriatrics, elder law, neurology, nursing, assisted living, adult day care, care management, behavioral health, primary care, hospital discharge planning, respite care, senior living, occupational therapy, or any field supporting dementia families — I would love to have you on my podcast, Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m always looking for professionals with real frontline experience and meaningful insight into dementia care and caregiver support."
+    },
+    {
+      "type": "paragraph",
+      "text": "If that sounds like you, let’s connect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Trend Media Company",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/floridatrend/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer's Foundation of America",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/alzheimer%27s-foundation-of-america/"
+    },
+    {
+      "type": "paragraph",
+      "text": "South Florida Business Journal",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/south-florida-business-journal/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Department of Elder Affairs",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/fdoea/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aging with Dignity",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aging-with-dignity/"
+    },
+    {
+      "type": "paragraph",
+      "text": "American Society on Aging",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/american-society-on-aging/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Caregiver Alliance / National Center on Caregiving",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/family-caregiver-alliance/"
+    },
+    {
+      "type": "paragraph",
+      "text": "AARP",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aarp/"
+    },
+    {
+      "type": "paragraph",
+      "text": "USF Health Byrd Alzheimer's Institute",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/usf-health-byrd-alzheimer%27s-institute/"
+    }
+  ],
+  "disclaimer": "",
+  "hasInlineYoutubeBanner": true
+}

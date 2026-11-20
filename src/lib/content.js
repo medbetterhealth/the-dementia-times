@@ -86,6 +86,15 @@ function assertOptionalYoutubeVideo(issue) {
   }
 }
 
+function isPublicArticleLink(value) {
+  try {
+    const url = new URL(value);
+    return (url.protocol === "https:" || url.protocol === "http:") && !url.username && !url.password;
+  } catch {
+    return false;
+  }
+}
+
 export function validateIssue(issue) {
   if (!isPlainObject(issue)) {
     throw new Error("Issue must be an object");
@@ -103,6 +112,11 @@ export function validateIssue(issue) {
 
   for (const field of arrayFields) {
     assertArray(issue[field], field);
+  }
+
+  if ("coverAlt" in issue) assertString(issue.coverAlt, "coverAlt");
+  if ("hasInlineYoutubeBanner" in issue && typeof issue.hasInlineYoutubeBanner !== "boolean") {
+    throw new Error("hasInlineYoutubeBanner must be a boolean");
   }
 
   if (!issue.coverImage.startsWith("/assets/issues/")) {
@@ -134,6 +148,16 @@ export function validateIssue(issue) {
 
     if ("text" in section) {
       assertString(section.text, `sections[${index}].text`);
+    }
+
+    if ("href" in section) {
+      assertString(section.href, `sections[${index}].href`);
+      if (section.type !== "paragraph" || !isPublicArticleLink(section.href)) {
+        throw new Error(`sections[${index}].href must be an absolute HTTP(S) paragraph link`);
+      }
+    }
+    if ("bold" in section && (section.type !== "paragraph" || typeof section.bold !== "boolean")) {
+      throw new Error(`sections[${index}].bold must be a paragraph boolean`);
     }
 
     if ("items" in section) {

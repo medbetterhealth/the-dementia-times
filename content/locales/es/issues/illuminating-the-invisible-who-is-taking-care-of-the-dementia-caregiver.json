@@ -1,0 +1,943 @@
+{
+  "title": "Iluminar lo invisible: ¿quién cuida a quienes cuidan a personas con demencia?",
+  "slug": "illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver",
+  "issueNumber": 60,
+  "publishedDate": "2026-11-20",
+  "sourceUrl": "https://www.linkedin.com/pulse/illuminating-invisible-who-taking-care-dementia-erik-ilyayev-nl7ie",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "Hace poco me senté en una sala con un grupo de personas que cuidan a alguien con demencia y les hice una pregunta: «¿Qué les gustaría que fuera distinto para los cuidadores?» Sus respuestas se me quedaron grabadas.",
+  "topics": [
+    "Apoyo a cuidadores",
+    "Medicare GUIDE",
+    "Salud Cerebral"
+  ],
+  "coverImage": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/cover.jpg",
+  "coverAlt": "«Iluminar lo invisible»: un cerebro dorado sobre un plano azul marino.",
+  "coverWidth": 1279,
+  "coverHeight": 720,
+  "images": [
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-1.jpg",
+      "alt": "El paciente invisible: está la persona que vive con demencia, y está la persona que la cuida.",
+      "width": 744,
+      "height": 378
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-2.jpg",
+      "alt": "Lo que pidieron los cuidadores: seguimiento regular que se traduzca en ayuda, enterarse antes de los estudios de investigación, médicos que puedan diagnosticar la demencia y evaluaciones periódicas de la memoria.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-3.jpg",
+      "alt": "U.S. POINTER comparó materiales educativos y objetivos autogestionados con un programa estructurado de reuniones de grupo, acompañamiento y objetivos. Ambos grupos mejoraron en las pruebas cognitivas; el grupo estructurado mejoró un poco más. Fuente: JAMA, 2025.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-4.jpg",
+      "alt": "El sueño profundo y el cerebro: ilustración conceptual de cómo el sueño podría ayudar al cerebro a eliminar desechos, un proceso que se está investigando.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-5.jpg",
+      "alt": "Suscríbete a Straight Talk with Dr. Erik.",
+      "width": 744,
+      "height": 123
+    }
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "text": "EDICIÓN N.º 60 · EL PACIENTE INVISIBLE: LO QUE ME CONTARON LOS CUIDADORES Y LO QUE NOS MUESTRA LA CIENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hace poco me senté en una sala con un grupo de personas que cuidan a alguien con demencia y les hice una pregunta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "«¿Qué les gustaría que fuera distinto para los cuidadores?»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus respuestas se me quedaron grabadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cuidadora había perdido su empleo. Sus ahorros se iban reduciendo. Se ocupaba del cuidado de su esposo, de las finanzas de ambos, de su hogar y de casi todas las responsabilidades que eso implicaba."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero cuando le pregunté qué cambiaría las cosas para ella, no me pidió otro folleto ni otra lista de instrucciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quería a alguien que la llamara con regularidad, que recordara por lo que estaba pasando y que de verdad la ayudara."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra cuidadora contó cómo cambiaban los síntomas de demencia de su esposo a lo largo del día y cómo una evaluación hecha por la mañana no había reflejado las dificultades que ella veía en casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a lo largo de la conversación seguí escuchando distintas versiones de las mismas preguntas:"
+    },
+    {
+      "type": "paragraph",
+      "text": "«¿Quién me ayuda a saber qué viene después?»"
+    },
+    {
+      "type": "paragraph",
+      "text": "«¿A quién puedo llamar cuando no sé qué hacer?»"
+    },
+    {
+      "type": "paragraph",
+      "text": "«¿Qué pasa cuando también necesito ayuda?»"
+    },
+    {
+      "type": "paragraph",
+      "text": "No son solo preguntas sobre la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Son preguntas sobre quienes cuidan a alguien que vive con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y me recordaron algo que creo desde hace mucho tiempo."
+    },
+    {
+      "type": "paragraph",
+      "text": "En el cuidado de la demencia, hay dos personas que necesitan apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "La persona que recibió el diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y la persona que la cuida."
+    },
+    {
+      "type": "paragraph",
+      "text": "A esa segunda persona la llamo el paciente invisible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hace poco tuve el privilegio de participar en un grupo de apoyo para cuidadores en Broward Health, en el sur de Florida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Había ido a compartir algunos de los avances más recientes en la investigación y la prevención de la demencia, y en el apoyo a los cuidadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero al escuchar a las personas en esa sala, me di cuenta de que algunas de las lecciones más importantes no venían de la investigación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Venían de los propios cuidadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Soy el Dr. Erik Ilyayev. Soy médico especializado en el cuidado de la demencia, miembro de la junta directiva de la South Florida Alzheimer's Association y director ejecutivo (CEO) de MedBetterHealth.org, una de las organizaciones que Medicare seleccionó para participar en el modelo GUIDE, una iniciativa de ocho años de los Centros de Servicios de Medicare y Medicaid (CMS) que busca apoyar a las personas que viven con demencia y a los familiares que las cuidan en casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta edición quiero compartir lo que me enseñaron esos cuidadores, lo que están revelando las nuevas investigaciones sobre la demencia y por qué creo que debemos replantearnos cómo cuidamos a quien cuida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque mientras la ciencia avanza, los cuidadores ya llevan esa responsabilidad sobre los hombros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y merecen que los veamos."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-1.jpg",
+      "alt": "El paciente invisible: está la persona que vive con demencia, y está la persona que la cuida.",
+      "width": 744,
+      "height": 378
+    },
+    {
+      "type": "heading",
+      "text": "EL PACIENTE INVISIBLE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando atiendo a alguien que vive con demencia, veo a dos personas que necesitan apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Está la persona que recibió el diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y está la persona que la cuida."
+    },
+    {
+      "type": "paragraph",
+      "text": "A esa segunda persona la llamo el paciente invisible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cuidadora describió lo que ocurre cuando su esposo se altera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que con el tiempo él olvide el incidente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ella no."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ella recuerda la discusión, la preocupación, el agotamiento emocional y todo lo que todavía tiene que resolver después."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es una parte del cuidado de la demencia que no siempre queda reflejada en la historia clínica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que la persona cuidadora esté durmiendo mal, faltando a citas, administrando medicamentos, coordinando traslados o preguntándose cuánto tiempo durarán los ahorros de la familia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y aun así, cuando alguien pregunta cómo van las cosas, la respuesta suele referirse a la persona con demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Creo que debemos preguntar por las dos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque la demencia no afecta solo a la persona que recibió el diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le cambia la vida a quien está a su lado."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-2.jpg",
+      "alt": "Lo que pidieron los cuidadores: seguimiento regular que se traduzca en ayuda, enterarse antes de los estudios de investigación, médicos que puedan diagnosticar la demencia y evaluaciones periódicas de la memoria.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE LOS CUIDADORES ME DIJERON QUE NECESITAN"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la reunión del grupo de apoyo les hice una pregunta:"
+    },
+    {
+      "type": "paragraph",
+      "text": "«Desde el día del diagnóstico en adelante, ¿qué les habría gustado que fuera distinto para los cuidadores?»",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus respuestas fueron prácticas y personales, y coincidían de una manera sorprendente."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Alguien que de verdad ayude.",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuidadores no siempre necesitan más información."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces necesitan a alguien que les ayude a programar una cita, hacer un seguimiento con un médico o ver qué hacer después."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quieren a alguien que recuerde lo que pasó la semana pasada y que esta semana dé seguimiento a lo que quedó pendiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cuidadora explicó que hasta una llamada semanal podría cambiar las cosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "No una llamada solo para preguntar si todo estaba bien."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una llamada que sirva para resolver algo concreto."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Orientación financiera antes de una crisis",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cuidadora habló abiertamente de haber perdido sus ingresos y de haber tenido que recurrir a sus ahorros para la jubilación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Otros hablaron de Medicaid, de los gastos de atención a largo plazo y de programas que pueden brindar ayuda económica a algunos cuidadores familiares."
+    },
+    {
+      "type": "paragraph",
+      "text": "La carga económica del cuidado de la demencia es real."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando alguien se convierte en cuidador de tiempo completo, las cuentas del hogar no desaparecen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todavía hay que pagar la hipoteca."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todavía hay que comprar la comida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todavía hay que programar las citas médicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y para muchas familias, pagarle a otra persona para que ayude con el cuidado puede convertirse en otro desafío económico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias necesitan orientación confiable sobre los recursos disponibles, los requisitos para acceder a ellos y la planificación financiera."
+    },
+    {
+      "type": "paragraph",
+      "text": "No deberían tener que descubrir cada opción por ensayo y error."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Información más temprana sobre oportunidades de participar en investigaciones",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra cuidadora dijo que le habría gustado enterarse antes de los estudios de investigación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias a menudo oyen hablar de la investigación clínica solo después de pasar meses o años intentando orientarse tras un diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y para entonces quizá ya hayan perdido la oportunidad de explorar estudios para los que su ser querido podría haber cumplido antes los requisitos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deberíamos ayudar a las familias a entender cómo preguntar desde antes por oportunidades legítimas de participar en investigaciones, teniendo en cuenta que la participación y los requisitos de elegibilidad varían según el estudio."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Detección más temprana y un mejor diagnóstico",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Los cuidadores también expresaron su preocupación por el tiempo que puede llevar reconocer y diagnosticar la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces se les resta importancia a los cambios en la memoria por considerarlos parte normal del envejecimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero no todos los cambios cognitivos deben verse de esa manera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso son importantes la formación del personal clínico y una evaluación cognitiva adecuada."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Visita Anual de Bienestar de Medicare incluye la detección de un posible deterioro cognitivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si hay motivos de preocupación, las familias deberían sentirse con la confianza de preguntar a su profesional de la salud si conviene hacer una evaluación adicional."
+    },
+    {
+      "type": "paragraph",
+      "text": "No están pidiendo nada extraordinario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Están pidiendo un sistema de salud que preste atención."
+    },
+    {
+      "type": "heading",
+      "text": "CUANDO UNA SOLA EVALUACIÓN NO CUENTA TODA LA HISTORIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cuidadora compartió una experiencia que se me quedó grabada."
+    },
+    {
+      "type": "paragraph",
+      "text": "A su esposo le habían hecho una evaluación virtual a las nueve de la mañana, poco después de despertarse."
+    },
+    {
+      "type": "paragraph",
+      "text": "A esa hora estaba alerta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Respondió bien a las preguntas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero más tarde, sus síntomas podían ser muy distintos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ella sentía que la evaluación no había reflejado lo que veía en casa y le frustró la decisión que se tomó después."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto importa porque los síntomas de la demencia pueden fluctuar a lo largo del día."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas personas sienten más confusión, inquietud o agitación al final de la tarde o por la noche, algo que a veces se conoce como síndrome del atardecer (sundowning)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Una evaluación clínica es importante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero también lo son las observaciones de quien vive de cerca esos cambios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo que me contó me hizo pensar en lo que podemos hacer mejor en MedBetterHealth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero que nuestro equipo preste más atención a cuándo suelen aparecer los síntomas y que se asegure de que los cuidadores puedan describir qué sucede a lo largo de un día típico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo nunca debe ser dar la impresión de que alguien está mejor o peor de lo que realmente está."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo es entender sus necesidades reales para que el plan de cuidados refleje cómo es su vida cotidiana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a la cuidadora que compartió esa experiencia, gracias por contarlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tu experiencia importa."
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE DE VERDAD DEBE HACER UN ORIENTADOR DE CUIDADOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso me lleva de nuevo a la cuidadora que quería que alguien la llamara todas las semanas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El modelo GUIDE de Medicare se diseñó para ayudar a las personas que viven con demencia y a los familiares que las cuidan a orientarse en un camino complicado."
+    },
+    {
+      "type": "paragraph",
+      "text": "A través de MedBetterHealth, las familias que reúnen los requisitos pueden contar con un orientador dedicado al cuidado de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero hay algo importante que les digo a nuestros orientadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "No llamen solo para preguntar si todo está bien."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregunten qué dificultades están teniendo esta semana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez la cuidadora lleva tiempo intentando programar una cita con un especialista."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez su esposo se niega a ducharse y ella no sabe cómo abordar la situación sin que termine en otra discusión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tal vez necesite ayuda para entender cuál es el siguiente paso después de un diagnóstico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un orientador debe ayudar a identificar pasos concretos, coordinar los recursos apropiados y dar seguimiento a lo acordado."
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo no es sumar otra tarea a la lista del cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es ayudar a que esa lista sea más fácil de manejar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y eso me lleva a otro tema del que hablamos en el grupo de apoyo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El futuro del cuidado de la demencia."
+    },
+    {
+      "type": "heading",
+      "text": "UNA NUEVA ERA EN LA INVESTIGACIÓN SOBRE LA DEMENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante mi visita también compartí por qué me da esperanza el rumbo que está tomando la investigación sobre la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Poco antes había asistido a una conversación a la que solo se podía asistir por invitación. Participaron responsables de salud federales y estatales, y la prevención y la investigación fueron temas centrales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante décadas, gran parte de la conversación sobre la demencia se ha centrado en tratar la enfermedad después de que aparecen los síntomas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora los investigadores también se preguntan cómo el estilo de vida, la salud cardiovascular, el sueño y otros factores pueden influir en la salud cognitiva a medida que envejecemos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ejemplo importante es el estudio U.S. POINTER."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-3.jpg",
+      "alt": "U.S. POINTER comparó materiales educativos y objetivos autogestionados con un programa estructurado de reuniones de grupo, acompañamiento y objetivos. Ambos grupos mejoraron en las pruebas cognitivas; el grupo estructurado mejoró un poco más. Fuente: JAMA, 2025.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "type": "heading",
+      "text": "LO QUE NOS ENSEÑÓ U.S. POINTER"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bajo la dirección de la Alzheimer's Association, U.S. POINTER estudió a 2,111 adultos mayores con mayor riesgo de deterioro cognitivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los participantes siguieron programas centrados en el estilo de vida que incluían actividad física, nutrición, actividades cognitivas y sociales, y seguimiento de su salud."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambos grupos recibieron orientación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero uno de los grupos siguió un programa más estructurado, con acompañamiento regular, metas y un compromiso de dar cuenta de sus avances."
+    },
+    {
+      "type": "paragraph",
+      "text": "A lo largo de dos años, los resultados de las pruebas cognitivas mejoraron en ambos grupos, y la mejora fue mayor en el grupo que siguió el programa estructurado."
+    },
+    {
+      "type": "paragraph",
+      "text": "El estudio no demostró que los participantes hubieran logrado prevenir la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero dejó una lección alentadora."
+    },
+    {
+      "type": "paragraph",
+      "text": "Saber qué hacer y contar con apoyo constante para hacerlo son dos cosas distintas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pienso en eso cuando voy al gimnasio con mis hijos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas mañanas no tengo ganas de ir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero ellos cuentan con que vaya."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener ese compromiso con otros marca la diferencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y ese mismo principio se aplica a la forma en que apoyamos a los cuidadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Podemos darle a alguien toda la información del mundo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero la información por sí sola no siempre se traduce en acción."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces se necesita orientación, aliento y alguien que ayude a no perder el rumbo."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-4.jpg",
+      "alt": "El sueño profundo y el cerebro: ilustración conceptual de cómo el sueño podría ayudar al cerebro a eliminar desechos, un proceso que se está investigando.",
+      "width": 716,
+      "height": 400
+    },
+    {
+      "type": "heading",
+      "text": "POR QUÉ EL SUEÑO MERECE MÁS ATENCIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra línea de investigación se ocupa del sueño y de la capacidad del cerebro para eliminar desechos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos han identificado vías de drenaje asociadas con el cerebro y estudian cómo el sueño podría influir en el movimiento y la eliminación de sustancias como el amiloide, una proteína asociada con la enfermedad de Alzheimer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gran parte de la evidencia inicial sobre estos mecanismos provino de estudios en animales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los científicos todavía están tratando de entender cómo funcionan estos procesos en los seres humanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo que sí sabemos es que dormir bien es importante para la salud en general, incluido el bienestar cognitivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y para los cuidadores, proteger su propio sueño puede ser especialmente difícil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que su ser querido se despierte varias veces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que se inquiete por la noche."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede que necesite ayuda para ir al baño."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y también se interrumpe el sueño del cuidador."
+    },
+    {
+      "type": "heading",
+      "text": "PEQUEÑOS PASOS PARA DORMIR MEJOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos hábitos prácticos pueden ayudar:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Mantén horarios regulares para levantarte y acostarte.",
+        "Exponte a la luz natural y haz actividad física adecuada durante el día.",
+        "Limita la cafeína hacia el final del día.",
+        "Establece una rutina tranquila y predecible antes de acostarte.",
+        "Habla con un profesional de la salud si persisten los despertares nocturnos, el dolor, los efectos de los medicamentos o los síntomas urinarios.",
+        "Si las idas al baño durante la noche interrumpen el sueño, consulta a un profesional de la salud sobre el mejor horario para tomar líquidos, en vez de restringir la hidratación por tu cuenta."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos pasos no resolverán todos los problemas de sueño."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero los cambios pequeños y constantes pueden hacer que las noches sean más llevaderas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y los cuidadores también merecen ayuda para proteger su sueño."
+    },
+    {
+      "type": "heading",
+      "text": "LA CIENCIA ME DA ESPERANZA. LOS CUIDADORES NECESITAN AYUDA HOY."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es posible que la investigación cambie la forma de cuidar a las personas con demencia en el futuro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero las familias viven con la demencia ahora mismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitan a alguien que responda sus preguntas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitan orientación después de una cita difícil."
+    },
+    {
+      "type": "paragraph",
+      "text": "Necesitan ayuda para coordinar los cuidados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a veces solo necesitan que alguien de confianza se haga cargo un rato para que puedan descansar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso creo que programas como el modelo GUIDE de Medicare son importantes."
+    },
+    {
+      "type": "paragraph",
+      "text": "GUIDE corresponde al nombre en inglés Guiding an Improved Dementia Experience (guía para mejorar la experiencia frente a la demencia)."
+    },
+    {
+      "type": "paragraph",
+      "text": "MedBetterHealth participa en esta iniciativa de los CMS para apoyar a las personas que viven con demencia y a sus cuidadores cuando reúnen los requisitos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según los requisitos de elegibilidad y las necesidades de cada persona, el programa incluye:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Un orientador de cuidados asignado a tu familia",
+        "Una línea de apoyo disponible las 24 horas, los 7 días de la semana para preguntas e inquietudes urgentes",
+        "Educación y capacitación para cuidadores",
+        "Planificación personalizada de los cuidados para personas con demencia",
+        "Conexión con recursos de la comunidad",
+        "Servicios de relevo cubiertos por Medicare según los requisitos de elegibilidad y las necesidades evaluadas. El relevo significa que una persona capacitada se queda con tu ser querido para que puedas tomarte un descanso."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "A LOS CUIDADORES QUE COMPARTIERON SUS HISTORIAS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gracias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gracias por hablar abiertamente de la presión económica, las noches sin dormir, las decisiones difíciles y todo aquello que les habría gustado que alguien les dijera antes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus experiencias merecen ser escuchadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deberían orientar la manera en que las organizaciones de salud diseñan sus servicios, se comunican con las familias y evalúan si los cuidados que brindamos realmente ayudan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Salí de esa sala recordando que escuchar no es algo aparte de una buena atención médica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es parte de una buena atención médica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a cada persona cuidadora que esté leyendo esto:"
+    },
+    {
+      "type": "paragraph",
+      "text": "No eres invisible.",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "No estás solo ni sola en esa casa.",
+      "bold": true
+    },
+    {
+      "type": "heading",
+      "text": "EL SIGUIENTE PASO PARA TU FAMILIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si cuidas a alguien que vive con demencia, es posible que MedBetterHealth pueda apoyar a tu familia a través del modelo GUIDE de Medicare."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí puedes consultar si reúnes los requisitos:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://medbetterhealth.org/guide",
+      "bold": true,
+      "href": "https://guide.medbetterhealth.org/news"
+    },
+    {
+      "type": "paragraph",
+      "text": "La elegibilidad depende de la cobertura de Medicare, el diagnóstico y otros requisitos del programa. La disponibilidad de servicios específicos, incluido el cuidado de relevo, está sujeta a criterios adicionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque tu familia no reúna los requisitos del modelo GUIDE, MedBetterHealth sigue comprometida con apoyar a los cuidadores mediante información práctica sobre la demencia basada en la evidencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para encontrar más información sobre el cuidado de la demencia, visita:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://thedementiatimes.com",
+      "bold": true,
+      "href": "https://thedementiatimes.com"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si quieres ver más conversaciones sobre la demencia, la salud cerebral, el cuidado y el futuro de la atención, mira Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "paragraph",
+      "text": "También puedes suscribirte para recibir más información sobre el cuidado de la demencia:"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/illuminating-the-invisible-who-is-taking-care-of-the-dementia-caregiver/image-5.jpg",
+      "alt": "Suscríbete a Straight Talk with Dr. Erik.",
+      "width": 744,
+      "height": 123
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/@ErikIlyayev",
+      "bold": true,
+      "href": "https://www.youtube.com/@ErikIlyayev"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este contenido es educativo y no constituye asesoramiento médico. Los cambios en la memoria, el deterioro cognitivo, la enfermedad de Alzheimer, el riesgo de demencia, las estrategias de prevención, el sueño, la alimentación, el ejercicio, el estrés, los medicamentos, el agotamiento del cuidador, las conductas asociadas a la demencia, las sospechas de síndrome confusional agudo (delirium), los síntomas de infección y las decisiones sobre el cuidado deben consultarse con profesionales de la salud calificados. Si los síntomas aparecen de forma repentina, son graves, representan un peligro o son motivo de preocupación médica, busca ayuda médica de inmediato."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gracias por leer The Dementia Times."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con gratitud,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Erik Ilyayev, MD",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "CEO, MedBetterHealth"
+    },
+    {
+      "type": "paragraph",
+      "text": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNA NOTA PARA PROFESIONALES DE LA SALUD Y DEL CUIDADO EN EL HOGAR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si trabajas en cuidado en el hogar, geriatría, derecho de las personas mayores, neurología, enfermería, residencias asistidas, centros de día para adultos, gestión de cuidados, salud conductual, atención primaria, planificación del alta hospitalaria, cuidado de relevo, residencias para personas mayores, terapia ocupacional o cualquier campo que apoye a las familias que viven con demencia, me encantaría tenerte en mi pódcast, Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "paragraph",
+      "text": "Siempre estoy buscando profesionales con experiencia real en primera línea y una visión valiosa sobre el cuidado de la demencia y el apoyo a los cuidadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si te identificas con esto, conectemos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Trend Media Company",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/floridatrend/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer's Foundation of America",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/alzheimer%27s-foundation-of-america/"
+    },
+    {
+      "type": "paragraph",
+      "text": "South Florida Business Journal",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/south-florida-business-journal/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Department of Elder Affairs",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/fdoea/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aging with Dignity",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aging-with-dignity/"
+    },
+    {
+      "type": "paragraph",
+      "text": "American Society on Aging",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/american-society-on-aging/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Caregiver Alliance / National Center on Caregiving",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/family-caregiver-alliance/"
+    },
+    {
+      "type": "paragraph",
+      "text": "AARP",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aarp/"
+    },
+    {
+      "type": "paragraph",
+      "text": "USF Health Byrd Alzheimer's Institute",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/usf-health-byrd-alzheimer%27s-institute/"
+    }
+  ],
+  "disclaimer": "",
+  "hasInlineYoutubeBanner": true
+}
