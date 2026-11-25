@@ -1,0 +1,835 @@
+{
+  "title": "Can You Trust Dementia Advice on Social Media?",
+  "slug": "can-you-trust-dementia-advice-on-social-media",
+  "issueNumber": 61,
+  "publishedDate": "2026-11-25",
+  "sourceUrl": "https://www.linkedin.com/pulse/can-you-trust-dementia-advice-social-media-erik-ilyayev-oimfe",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "“Dr. Erik, I saw a video that says a supplement can reverse Alzheimer’s. How do I know if I can trust it?” It's late at night. Your father has asked you the same question for the third time.",
+  "topics": [
+    "Health Misinformation",
+    "Caregiver Support",
+    "Dementia Care"
+  ],
+  "coverImage": "/assets/issues/can-you-trust-dementia-advice-on-social-media/cover.jpg",
+  "coverAlt": "Collage of social media posts and phones filled with blurred, misleading claims about memory loss.",
+  "coverWidth": 729,
+  "coverHeight": 768,
+  "images": [
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-1.jpg",
+      "alt": "Chart: global dementia cases rising toward a projected 78 million by 2030.",
+      "width": 633,
+      "height": 403
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-2.jpg",
+      "alt": "31% of U.S. adults use social media for health advice every month.",
+      "width": 520,
+      "height": 403
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-3.jpg",
+      "alt": "Dementia videos on TikTok: 66.4% contained misleading information, 47.6% potentially damaging advice, and 44% of creators lacked relevant medical qualifications.",
+      "width": 1270,
+      "height": 562
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-4.jpg",
+      "alt": "The vulnerability loop: emotional desperation, algorithmic supply, unqualified authority, and false resolution.",
+      "width": 926,
+      "height": 699
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-5.jpg",
+      "alt": "The cost of acting on unverified content: an emotional toll, a financial toll, and a clinical toll of delayed diagnosis and support.",
+      "width": 1301,
+      "height": 525
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-6.jpg",
+      "alt": "Two care pathways: relying on social media wastes time and misses the window for intervention, while a professional evaluation leads to early detection and access to treatment.",
+      "width": 1288,
+      "height": 498
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-7.jpg",
+      "alt": "Comparison of social media content creators and verified medical professionals by motivation, accountability, evidence base, and risk.",
+      "width": 1245,
+      "height": 515
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-8.jpg",
+      "alt": "How to check a source's credentials: full legal name, specific credential, and stated specialty, cross-referenced with certificationmatters.org or state licensing boards.",
+      "width": 1011,
+      "height": 625
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-9.jpg",
+      "alt": "The primary care physician at the center, connecting to neurologists, geriatricians, geriatric psychiatrists, neuropsychologists, and other dementia specialists.",
+      "width": 1252,
+      "height": 497
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-10.jpg",
+      "alt": "Subscribe to Straight Talk with Dr. Erik.",
+      "width": 2232,
+      "height": 369
+    }
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "text": "ISSUE NO. 61 HOW TO SEPARATE MEDICAL FACTS FROM MISINFORMATION AND MAKE INFORMED DECISIONS FOR SOMEONE YOU LOVE."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Dr. Erik, I saw a video that says a supplement can reverse Alzheimer’s. How do I know if I can trust it?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's late at night. Your father has asked you the same question for the third time, and you can't help but wonder whether his dementia is getting worse."
+    },
+    {
+      "type": "paragraph",
+      "text": "His next doctor's appointment is still three weeks away. So, like many family caregivers looking for answers, you reach for your phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Within minutes, you come across a video claiming that a particular vitamin can improve memory. Another promises to reverse Alzheimer's disease. The person speaking sounds knowledgeable, the comments are filled with hopeful stories, and for a moment, you wonder if you've finally found something that could help your father."
+    },
+    {
+      "type": "paragraph",
+      "text": "And who could blame you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When someone you love is living with dementia, it's natural to want to explore every possible option that might improve their quality of life."
+    },
+    {
+      "type": "paragraph",
+      "text": "But in an age where anyone with a smartphone can present themselves as a health expert, how do we separate genuine medical guidance from misinformation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "My name is Dr. Erik Ilyayev. I'm a dementia care physician, a board member of the South Florida Alzheimer's Association®, and the CEO of MedBetterHealth.org, one of the organizations selected by Medicare to participate in the GUIDE Model, an eight-year CMS initiative supporting people living with dementia and the family caregivers caring for them at home."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this issue of The Dementia Times, I want to explore the growing problem of dementia misinformation on social media, why it concerns me as a physician, and how you can make more informed decisions about the health of someone you love."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because when it comes to dementia care, knowing which information to trust can be just as important as knowing where to find it."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-1.jpg",
+      "alt": "Chart: global dementia cases rising toward a projected 78 million by 2030.",
+      "width": 633,
+      "height": 403
+    },
+    {
+      "type": "heading",
+      "text": "WHEN THE INTERNET BECOMES OUR FIRST DOCTOR"
+    },
+    {
+      "type": "paragraph",
+      "text": "We live in a remarkable time. Information that once required a visit to a medical library is now available within seconds."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to a 2026 KFF poll, 31% of American adults turn to social media for health information or advice at least once a month."
+    },
+    {
+      "type": "paragraph",
+      "text": "And when it comes to dementia, the need for answers is only growing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The World Health Organization estimates that 57 million people worldwide were living with dementia in 2021. That same year, WHO published a report projecting that the number could reach 78 million by 2030."
+    },
+    {
+      "type": "paragraph",
+      "text": "Behind every one of those numbers is a person, a family, and often a caregiver trying to understand what is happening to someone they love."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-2.jpg",
+      "alt": "31% of U.S. adults use social media for health advice every month.",
+      "width": 520,
+      "height": 403
+    },
+    {
+      "type": "paragraph",
+      "text": "Social media can be an incredible resource. It connects caregivers who might otherwise feel isolated, introduces families to helpful organizations, and makes conversations about dementia more accessible."
+    },
+    {
+      "type": "paragraph",
+      "text": "But there is another side to it that we need to talk about."
+    },
+    {
+      "type": "paragraph",
+      "text": "A recent analysis commissioned by Homewatch CareGivers examined 500 popular dementia-related videos on TikTok."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of the 336 videos that provided dementia advice or information, 223 were classified as misleading."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's 66.4%, or approximately two out of every three videos offering information or advice in the sample."
+    },
+    {
+      "type": "paragraph",
+      "text": "The analysis also found that:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Nearly half of the misleading videos contained potentially harmful information.",
+        "44% of the misleading videos came from creators who were judged to lack relevant qualifications."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A separate peer-reviewed study examining 100 popular dementia-related TikTok videos also found that the overall quality of information was generally low."
+    },
+    {
+      "type": "paragraph",
+      "text": "These findings do not mean that every dementia-related video you encounter is inaccurate. Both studies examined selected popular videos rather than every piece of content on the platform."
+    },
+    {
+      "type": "paragraph",
+      "text": "But they should make us more thoughtful about what we watch, what we believe, and most importantly, what we act upon."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-3.jpg",
+      "alt": "Dementia videos on TikTok: 66.4% contained misleading information, 47.6% potentially damaging advice, and 44% of creators lacked relevant medical qualifications.",
+      "width": 1270,
+      "height": 562
+    },
+    {
+      "type": "paragraph",
+      "text": "Research: Homewatch CareGivers TikTok analysis and Frontiers in Public Health."
+    },
+    {
+      "type": "heading",
+      "text": "WHEN HOPE BECOMES A MARKETING TOOL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine caring for your mother, who has Alzheimer's disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "Over the past few months, you've noticed that she is becoming more forgetful. Conversations are getting harder. Activities she once enjoyed are becoming increasingly difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then one afternoon, you see a video promising that a particular supplement can restore her memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are testimonials, convincing explanations, and perhaps even someone wearing a white coat."
+    },
+    {
+      "type": "paragraph",
+      "text": "You want to believe it."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a physician, I understand why."
+    },
+    {
+      "type": "paragraph",
+      "text": "Families caring for someone with dementia are often searching for something more than information. They are searching for hope."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unfortunately, that hope can also make families vulnerable to misleading health claims."
+    },
+    {
+      "type": "paragraph",
+      "text": "A personal experience shared by another caregiver may offer comfort or encouragement. But someone's personal experience is not the same as scientific evidence that a treatment works."
+    },
+    {
+      "type": "paragraph",
+      "text": "And when someone claims that a supplement can cure or reverse Alzheimer's disease, that is a claim that deserves serious scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "The FDA has warned consumers about unproven products marketed as treatments or cures for Alzheimer's disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before purchasing a supplement, changing a medication, or following a new treatment recommendation, speak with your loved one's physician or pharmacist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even products marketed as natural can have side effects or interact with medications."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-4.jpg",
+      "alt": "The vulnerability loop: emotional desperation, algorithmic supply, unqualified authority, and false resolution.",
+      "width": 926,
+      "height": 699
+    },
+    {
+      "type": "heading",
+      "text": "THE MOST VALUABLE THING MISINFORMATION CAN TAKE FROM YOU IS TIME"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we discuss misleading health information, we often focus on the money families might spend on products that do not work."
+    },
+    {
+      "type": "paragraph",
+      "text": "But what concerns me even more is the time they might lose."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine spending several months trying different supplements because someone online convinced you that your father's memory problems could be reversed without a medical evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "During those months, an underlying medical condition may go unrecognized. Your family may miss opportunities to explore appropriate treatments, make important care decisions, or access valuable support."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-5.jpg",
+      "alt": "The cost of acting on unverified content: an emotional toll, a financial toll, and a clinical toll of delayed diagnosis and support.",
+      "width": 1301,
+      "height": 525
+    },
+    {
+      "type": "paragraph",
+      "text": "We are living through an important period of advancement in dementia medicine."
+    },
+    {
+      "type": "paragraph",
+      "text": "New diagnostic tools, including certain blood-based biomarkers, can help clinicians evaluate people experiencing cognitive symptoms as part of a comprehensive medical assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are also treatments available that may slow disease progression in certain eligible individuals with early symptomatic Alzheimer's disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "These advances do not mean that we have found a cure. Nor does every person living with dementia qualify for these treatments."
+    },
+    {
+      "type": "paragraph",
+      "text": "But they reinforce the importance of receiving an accurate diagnosis and understanding the options available to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The earlier we understand what is happening, the better equipped we are to make informed decisions about treatment, safety, and long-term care."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-6.jpg",
+      "alt": "Two care pathways: relying on social media wastes time and misses the window for intervention, while a professional evaluation leads to early detection and access to treatment.",
+      "width": 1288,
+      "height": 498
+    },
+    {
+      "type": "heading",
+      "text": "THREE QUESTIONS I WOULD ASK BEFORE TRUSTING ONLINE MEDICAL ADVICE"
+    },
+    {
+      "type": "paragraph",
+      "text": "You don't need a medical degree to become a more informed consumer of health information."
+    },
+    {
+      "type": "paragraph",
+      "text": "The next time you encounter a video making a medical claim about dementia, I encourage you to ask three simple questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Who is giving me this advice?",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Look beyond the number of followers, the confidence of the speaker, or the appearance of their profile."
+    },
+    {
+      "type": "paragraph",
+      "text": "What is their professional background? Do they have relevant training in the subject they are discussing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "For dementia-related medical guidance, professionals with relevant expertise may include neurologists, geriatricians, geriatric psychiatrists, neuropsychologists, and other healthcare professionals specializing in cognitive health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Look for verifiable credentials such as MD, DO, PhD, or RN, along with the person's actual area of expertise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, having a professional title does not automatically make someone an expert in every medical condition."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the United States, you can verify a physician's license through their state medical board and check specialty board certification through Certification Matters.",
+      "href": "https://www.certificationmatters.org/"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-7.jpg",
+      "alt": "Comparison of social media content creators and verified medical professionals by motivation, accountability, evidence base, and risk.",
+      "width": 1245,
+      "height": 515
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-8.jpg",
+      "alt": "How to check a source's credentials: full legal name, specific credential, and stated specialty, cross-referenced with certificationmatters.org or state licensing boards.",
+      "width": 1011,
+      "height": 625
+    },
+    {
+      "type": "paragraph",
+      "text": "2. What evidence supports the claim?",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most important questions you can ask is also one of the simplest:"
+    },
+    {
+      "type": "paragraph",
+      "text": "How do we know this works?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is the recommendation supported by credible scientific research? Can you find the original study? Do established medical organizations provide similar guidance?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Be especially cautious when someone uses phrases such as:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "“Reverse Alzheimer's naturally.”",
+        "“The dementia cure doctors don't want you to know about.”",
+        "“Restore your memory in just 30 days.”",
+        "“You don't need medication if you take this supplement.”"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Medicine is rarely that simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "A responsible healthcare professional should be willing to discuss the limitations of a treatment, its potential risks, and the circumstances in which it may or may not be appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Is someone trying to sell me something?",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "There is nothing inherently wrong with a healthcare professional recommending a product or service."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you should understand whether the person providing the advice has a financial interest in what they are recommending."
+    },
+    {
+      "type": "paragraph",
+      "text": "Are they selling a supplement? Do they receive a commission when you purchase through their link? Are they using dramatic testimonials to encourage you to buy something immediately?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A financial relationship does not automatically make a recommendation inaccurate, but it is another reason to independently evaluate the evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "When making decisions about your loved one's health, you deserve information that puts their well-being first."
+    },
+    {
+      "type": "heading",
+      "text": "NOT EVERY MEMORY PROBLEM IS DEMENTIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is something I want every family to understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your mother starts forgetting appointments, your father begins repeating questions, or your spouse suddenly struggles with familiar tasks, it does not automatically mean they have Alzheimer's disease."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are several medical conditions that can affect memory and thinking, including:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Vitamin B12 deficiency.",
+        "Depression.",
+        "Medication side effects and interactions.",
+        "Other underlying medical conditions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of these contributing factors may be treatable."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is why I encourage families to begin with a proper medical evaluation rather than trying to diagnose their loved one through social media."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your primary care physician is often the best place to start."
+    },
+    {
+      "type": "paragraph",
+      "text": "They can review your loved one's medical history, medications, symptoms, and other health conditions. When necessary, they can refer your loved one to a specialist for further evaluation."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-9.jpg",
+      "alt": "The primary care physician at the center, connecting to neurologists, geriatricians, geriatric psychiatrists, neuropsychologists, and other dementia specialists.",
+      "width": 1252,
+      "height": 497
+    },
+    {
+      "type": "paragraph",
+      "text": "Before the appointment, write down the changes you've noticed."
+    },
+    {
+      "type": "paragraph",
+      "text": "When did they begin? Are they becoming more frequent? Is your loved one having difficulty managing medications, paying bills, preparing meals, or finding their way around familiar places?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bring a list of their medications and supplements. Include your loved one in the conversation as much as possible, and respect how they would like you to help."
+    },
+    {
+      "type": "paragraph",
+      "text": "These everyday observations can provide valuable information to the medical team."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if a change in thinking or confusion develops suddenly, especially alongside symptoms such as difficulty speaking, weakness, or reduced alertness, seek urgent medical attention rather than waiting for a routine appointment."
+    },
+    {
+      "type": "heading",
+      "text": "WHERE I WOULD TURN FOR RELIABLE DEMENTIA INFORMATION"
+    },
+    {
+      "type": "paragraph",
+      "text": "I believe families should have access to trustworthy information long before they walk into a doctor's office."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fortunately, there are excellent resources available that provide evidence-based education, practical caregiving guidance, and professional support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here are three places I encourage families to start."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer's Association®",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/alzheimer%27s-association/"
+    },
+    {
+      "type": "paragraph",
+      "text": "As a board member of the South Florida Alzheimer's Association, I deeply value the work this organization does for people living with dementia and their families."
+    },
+    {
+      "type": "paragraph",
+      "text": "From educational resources to caregiver support groups and community programs, the Alzheimer's Association provides guidance throughout the dementia journey."
+    },
+    {
+      "type": "paragraph",
+      "text": "Its free, 24/7 helpline is available in the United States at 800-272-3900."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visit ALZ.org."
+    },
+    {
+      "type": "paragraph",
+      "text": "National Institute on Aging (NIA)",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/national-institute-on-aging/"
+    },
+    {
+      "type": "paragraph",
+      "text": "The National Institute on Aging, part of the National Institutes of Health, offers evidence-based information about dementia, cognitive health, diagnosis, treatment, and caregiving."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is an excellent starting point when you want to understand a medical topic or verify something you have encountered online."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visit NIA.NIH.gov."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your Primary Care Physician",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "No matter how informative a video or article may be, it cannot fully account for your loved one's individual medical history."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your physician can help you understand whether a recommendation is appropriate, whether further testing is necessary, and what the next steps should be."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bring your questions. Bring the videos you've saved. Bring the claims you've encountered online."
+    },
+    {
+      "type": "paragraph",
+      "text": "You should never feel embarrassed about asking your physician whether something you saw on social media is true."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those conversations are an important part of making informed healthcare decisions."
+    },
+    {
+      "type": "heading",
+      "text": "YOU DON'T HAVE TO FIGURE EVERYTHING OUT ON YOUR OWN"
+    },
+    {
+      "type": "paragraph",
+      "text": "I want to return to the caregiver we met at the beginning of this newsletter."
+    },
+    {
+      "type": "paragraph",
+      "text": "The one sitting awake late at night, scrolling through videos, hoping to find something that might help their father."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps that caregiver is you."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may be searching for answers about memory loss, wondering how to manage a new behavior, or trying to understand what the next stage of dementia might look like."
+    },
+    {
+      "type": "paragraph",
+      "text": "And while there is an abundance of information available online, what you may need most is someone who understands your loved one's situation and can help you navigate it."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is one of the reasons I believe so strongly in Medicare's GUIDE Model."
+    },
+    {
+      "type": "paragraph",
+      "text": "Through MedBetterHealth's participation in this initiative, eligible families caring for someone living with dementia at home may have access to:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "A dedicated dementia care navigator to help coordinate care and answer questions.",
+        "A 24/7 support line for guidance when concerns arise, including outside regular office hours.",
+        "Caregiver education and practical resources to help families navigate the challenges of dementia.",
+        "Covered respite care, when eligible, so someone can step in to care for your loved one while you attend to your own needs."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If your loved one is living with dementia and has Original Medicare, I encourage you to explore whether your family may qualify. Additional eligibility requirements apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visit MedBetterHealth.org/Guide to learn more.",
+      "href": "https://guide.medbetterhealth.org/news"
+    },
+    {
+      "type": "heading",
+      "text": "A FINAL THOUGHT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Social media can introduce us to new ideas, connect us with others, and help us discover valuable resources."
+    },
+    {
+      "type": "paragraph",
+      "text": "But it should be the beginning of a conversation about your loved one's health, not the final word."
+    },
+    {
+      "type": "paragraph",
+      "text": "The next time you encounter a promising claim about dementia, ask who is making it, what evidence supports it, and whether it is appropriate for the person you love."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stay curious. Ask questions. Seek guidance from people who are qualified to provide it."
+    },
+    {
+      "type": "paragraph",
+      "text": "And remember that you do not need to have all the answers to be a good caregiver."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, the most important thing you can do for someone you love is to know where to turn when you don't have the answer."
+    },
+    {
+      "type": "heading",
+      "text": "THE NEXT STEP FOR YOUR FAMILY"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are caring for someone living with dementia, MedBetterHealth may be able to support your family through Medicare's GUIDE Model."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can check eligibility here:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://medbetterhealth.org/guide",
+      "bold": true,
+      "href": "https://guide.medbetterhealth.org/news"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eligibility depends on Medicare coverage, diagnosis, and other program requirements. Availability of specific services, including respite care, is subject to additional criteria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if your family does not qualify for the GUIDE Model, MedBetterHealth remains committed to supporting caregivers through practical, evidence-based dementia education."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more dementia-care education, visit:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://thedementiatimes.com",
+      "bold": true,
+      "href": "https://thedementiatimes.com"
+    },
+    {
+      "type": "paragraph",
+      "text": "For more conversations about dementia, brain health, caregiving, and the future of care, watch Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-10.jpg",
+      "alt": "Subscribe to Straight Talk with Dr. Erik.",
+      "width": 2232,
+      "height": 369
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/@ErikIlyayev",
+      "bold": true,
+      "href": "https://www.youtube.com/@ErikIlyayev"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is education, not medical advice. Information about memory changes, cognitive decline, Alzheimer's disease, dementia diagnosis, supplements, medications, and treatment options should be discussed with qualified healthcare professionals. Do not start, stop, or change any treatment based solely on information found on social media or other online platforms. If symptoms are sudden, severe, dangerous, or medically concerning, seek immediate medical help."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for reading The Dementia Times."
+    },
+    {
+      "type": "paragraph",
+      "text": "With gratitude,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Erik Ilyayev, MD",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "CEO, MedBetterHealth"
+    },
+    {
+      "type": "paragraph",
+      "text": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "type": "paragraph",
+      "text": "A NOTE FOR HEALTHCARE & HOME CARE PROFESSIONALS"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you work in home care, geriatrics, elder law, neurology, nursing, assisted living, adult day care, care management, behavioral health, primary care, hospital discharge planning, respite care, senior living, occupational therapy, or any field supporting dementia families — I would love to have you on my podcast, Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "paragraph",
+      "text": "I’m always looking for professionals with real frontline experience and meaningful insight into dementia care and caregiver support."
+    },
+    {
+      "type": "paragraph",
+      "text": "If that sounds like you, let’s connect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Trend Media Company",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/floridatrend/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer's Foundation of America",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/alzheimer%27s-foundation-of-america/"
+    },
+    {
+      "type": "paragraph",
+      "text": "South Florida Business Journal",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/south-florida-business-journal/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Department of Elder Affairs",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/fdoea/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aging with Dignity",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aging-with-dignity/"
+    },
+    {
+      "type": "paragraph",
+      "text": "American Society on Aging",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/american-society-on-aging/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Caregiver Alliance / National Center on Caregiving",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/family-caregiver-alliance/"
+    },
+    {
+      "type": "paragraph",
+      "text": "AARP",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aarp/"
+    },
+    {
+      "type": "paragraph",
+      "text": "USF Health Byrd Alzheimer's Institute",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/usf-health-byrd-alzheimer%27s-institute/"
+    }
+  ],
+  "disclaimer": "",
+  "hasInlineYoutubeBanner": true
+}

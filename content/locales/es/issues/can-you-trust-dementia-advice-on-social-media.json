@@ -1,0 +1,835 @@
+{
+  "title": "¿Puedes confiar en los consejos sobre la demencia en las redes sociales?",
+  "slug": "can-you-trust-dementia-advice-on-social-media",
+  "issueNumber": 61,
+  "publishedDate": "2026-11-25",
+  "sourceUrl": "https://www.linkedin.com/pulse/can-you-trust-dementia-advice-social-media-erik-ilyayev-oimfe",
+  "author": "Dr. Erik Ilyayev, MD",
+  "excerpt": "«Dr. Erik, vi un video que dice que un suplemento puede revertir el alzhéimer. ¿Cómo sé si puedo confiar en él?» Es tarde por la noche. Tu padre te ha hecho la misma pregunta por tercera vez.",
+  "topics": [
+    "Desinformación en salud",
+    "Apoyo a cuidadores",
+    "Cuidado de la demencia"
+  ],
+  "coverImage": "/assets/issues/can-you-trust-dementia-advice-on-social-media/cover.jpg",
+  "coverAlt": "Collage de publicaciones de redes sociales y teléfonos llenos de afirmaciones borrosas y engañosas sobre la pérdida de memoria.",
+  "coverWidth": 729,
+  "coverHeight": 768,
+  "images": [
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-1.jpg",
+      "alt": "Gráfico: los casos de demencia en el mundo aumentan hasta una proyección de 78 millones en 2030.",
+      "width": 633,
+      "height": 403
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-2.jpg",
+      "alt": "El 31 % de los adultos en EE. UU. usa las redes sociales para obtener consejos de salud cada mes.",
+      "width": 520,
+      "height": 403
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-3.jpg",
+      "alt": "Videos sobre la demencia en TikTok: el 66,4 % contenía información engañosa, el 47,6 % consejos potencialmente dañinos y el 44 % de los creadores no tenía formación médica pertinente.",
+      "width": 1270,
+      "height": 562
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-4.jpg",
+      "alt": "El ciclo de vulnerabilidad: desesperación emocional, oferta del algoritmo, autoridad sin calificación y falsa solución.",
+      "width": 926,
+      "height": 699
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-5.jpg",
+      "alt": "El costo de actuar según contenido no verificado: un costo emocional, uno económico y uno clínico, con retrasos en el diagnóstico y el apoyo.",
+      "width": 1301,
+      "height": 525
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-6.jpg",
+      "alt": "Dos caminos de atención: depender de las redes sociales hace perder tiempo y la oportunidad de intervenir, mientras que una evaluación profesional lleva a la detección temprana y al acceso a tratamientos.",
+      "width": 1288,
+      "height": 498
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-7.jpg",
+      "alt": "Comparación entre creadores de contenido en redes sociales y profesionales médicos verificados según su motivación, responsabilidad, base de evidencia y riesgo.",
+      "width": 1245,
+      "height": 515
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-8.jpg",
+      "alt": "Cómo verificar las credenciales de una fuente: nombre legal completo, credencial específica y especialidad declarada, comprobados en certificationmatters.org o en las juntas estatales de licencias.",
+      "width": 1011,
+      "height": 625
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-9.jpg",
+      "alt": "El médico de atención primaria en el centro, conectado con neurólogos, geriatras, psiquiatras geriátricos, neuropsicólogos y otros especialistas en demencia.",
+      "width": 1252,
+      "height": 497
+    },
+    {
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-10.jpg",
+      "alt": "Suscríbete a Straight Talk with Dr. Erik.",
+      "width": 2232,
+      "height": 369
+    }
+  ],
+  "sections": [
+    {
+      "type": "heading",
+      "text": "EDICIÓN N.º 61 · CÓMO DISTINGUIR LOS DATOS MÉDICOS DE LA DESINFORMACIÓN Y TOMAR DECISIONES INFORMADAS POR UN SER QUERIDO"
+    },
+    {
+      "type": "paragraph",
+      "text": "«Dr. Erik, vi un video que dice que un suplemento puede revertir el alzhéimer. ¿Cómo sé si puedo confiar en él?»"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es tarde por la noche. Tu padre te ha hecho la misma pregunta por tercera vez, y no puedes evitar preguntarte si su demencia está empeorando."
+    },
+    {
+      "type": "paragraph",
+      "text": "Todavía faltan tres semanas para su próxima cita médica. Así que, como muchas personas que cuidan a un familiar y buscan respuestas, tomas el teléfono."
+    },
+    {
+      "type": "paragraph",
+      "text": "En pocos minutos, encuentras un video que asegura que cierta vitamina puede mejorar la memoria. Otro promete revertir la enfermedad de Alzheimer. La persona que habla parece saber del tema, los comentarios están llenos de historias esperanzadoras y, por un momento, te preguntas si por fin encontraste algo que podría ayudar a tu padre."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Y quién podría culparte?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando alguien que amas vive con demencia, es natural querer explorar todas las opciones que podrían mejorar su calidad de vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero en una época en la que cualquier persona con un teléfono inteligente puede presentarse como experta en salud, ¿cómo distinguimos la orientación médica genuina de la desinformación?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Soy el Dr. Erik Ilyayev. Soy médico especializado en el cuidado de la demencia, miembro de la junta directiva de la South Florida Alzheimer's Association® y director ejecutivo (CEO) de MedBetterHealth.org, una de las organizaciones que Medicare seleccionó para participar en el modelo GUIDE, una iniciativa de ocho años de los CMS que apoya a las personas que viven con demencia y a los familiares que las cuidan en casa."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta edición de The Dementia Times, quiero hablar del creciente problema de la desinformación sobre la demencia en las redes sociales, por qué me preocupa como médico y cómo puedes tomar decisiones más informadas sobre la salud de alguien que amas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Porque, en el cuidado de la demencia, saber en qué información confiar puede ser tan importante como saber dónde encontrarla."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-1.jpg",
+      "alt": "Gráfico: los casos de demencia en el mundo aumentan hasta una proyección de 78 millones en 2030.",
+      "width": 633,
+      "height": 403
+    },
+    {
+      "type": "heading",
+      "text": "CUANDO INTERNET SE CONVIERTE EN NUESTRO PRIMER MÉDICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vivimos en una época extraordinaria. Información que antes requería una visita a una biblioteca médica ahora está disponible en segundos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Según una encuesta de KFF de 2026, el 31 % de los adultos estadounidenses recurre a las redes sociales para obtener información o consejos de salud al menos una vez al mes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y cuando se trata de la demencia, la necesidad de respuestas no deja de crecer."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Organización Mundial de la Salud estima que 57 millones de personas en el mundo vivían con demencia en 2021. Ese mismo año, la OMS publicó un informe que proyectaba que la cifra podría llegar a 78 millones en 2030."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detrás de cada una de esas cifras hay una persona, una familia y, a menudo, alguien que cuida y que intenta entender qué le está pasando a un ser querido."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-2.jpg",
+      "alt": "El 31 % de los adultos en EE. UU. usa las redes sociales para obtener consejos de salud cada mes.",
+      "width": 520,
+      "height": 403
+    },
+    {
+      "type": "paragraph",
+      "text": "Las redes sociales pueden ser un recurso increíble. Conectan a cuidadores que de otro modo podrían sentirse aislados, dan a conocer a las familias organizaciones útiles y hacen que las conversaciones sobre la demencia sean más accesibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero tienen otra cara de la que tenemos que hablar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un análisis reciente encargado por Homewatch CareGivers examinó 500 videos populares sobre la demencia en TikTok."
+    },
+    {
+      "type": "paragraph",
+      "text": "De los 336 videos que daban consejos o información sobre la demencia, 223 se clasificaron como engañosos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eso es el 66,4 %, es decir, aproximadamente dos de cada tres videos de la muestra que ofrecían información o consejos."
+    },
+    {
+      "type": "paragraph",
+      "text": "El análisis también encontró que:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Casi la mitad de los videos engañosos contenía información potencialmente dañina.",
+        "El 44 % de los videos engañosos provenía de creadores que, según la evaluación, no tenían la formación pertinente."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Otro estudio, revisado por pares, que examinó 100 videos populares sobre la demencia en TikTok también encontró que la calidad general de la información era, en general, baja."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos hallazgos no significan que todos los videos sobre la demencia que veas sean inexactos. Ambos estudios examinaron una selección de videos populares, no todo el contenido de la plataforma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero deberían hacernos más reflexivos sobre lo que vemos, lo que creemos y, sobre todo, lo que ponemos en práctica."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-3.jpg",
+      "alt": "Videos sobre la demencia en TikTok: el 66,4 % contenía información engañosa, el 47,6 % consejos potencialmente dañinos y el 44 % de los creadores no tenía formación médica pertinente.",
+      "width": 1270,
+      "height": 562
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigación: análisis de TikTok de Homewatch CareGivers y Frontiers in Public Health."
+    },
+    {
+      "type": "heading",
+      "text": "CUANDO LA ESPERANZA SE CONVIERTE EN UNA HERRAMIENTA DE MARKETING"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagina que cuidas a tu madre, que tiene la enfermedad de Alzheimer."
+    },
+    {
+      "type": "paragraph",
+      "text": "En los últimos meses, has notado que está cada vez más olvidadiza. Las conversaciones son más difíciles. Las actividades que antes disfrutaba le resultan cada vez más complicadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entonces, una tarde, ves un video que promete que cierto suplemento puede devolverle la memoria."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay testimonios, explicaciones convincentes y quizá hasta alguien con bata blanca."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quieres creerlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Como médico, entiendo por qué."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las familias que cuidan a alguien con demencia a menudo buscan algo más que información. Buscan esperanza."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lamentablemente, esa esperanza también puede hacer que las familias sean vulnerables a afirmaciones de salud engañosas."
+    },
+    {
+      "type": "paragraph",
+      "text": "La experiencia personal que comparte otro cuidador puede ofrecer consuelo o ánimo. Pero la experiencia personal de alguien no es lo mismo que la evidencia científica de que un tratamiento funciona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y cuando alguien afirma que un suplemento puede curar o revertir la enfermedad de Alzheimer, esa afirmación merece un análisis serio."
+    },
+    {
+      "type": "paragraph",
+      "text": "La FDA ha advertido a los consumidores sobre productos no probados que se promocionan como tratamientos o curas para la enfermedad de Alzheimer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de comprar un suplemento, cambiar un medicamento o seguir una nueva recomendación de tratamiento, habla con el médico o el farmacéutico de tu ser querido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incluso los productos que se promocionan como naturales pueden tener efectos secundarios o interactuar con medicamentos."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-4.jpg",
+      "alt": "El ciclo de vulnerabilidad: desesperación emocional, oferta del algoritmo, autoridad sin calificación y falsa solución.",
+      "width": 926,
+      "height": 699
+    },
+    {
+      "type": "heading",
+      "text": "LO MÁS VALIOSO QUE TE PUEDE QUITAR LA DESINFORMACIÓN ES EL TIEMPO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando hablamos de información de salud engañosa, solemos centrarnos en el dinero que las familias podrían gastar en productos que no funcionan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero lo que más me preocupa es el tiempo que podrían perder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagina pasar varios meses probando distintos suplementos porque alguien en internet te convenció de que los problemas de memoria de tu padre podían revertirse sin una evaluación médica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante esos meses, una afección médica subyacente podría pasar desapercibida. Tu familia podría perder oportunidades de explorar tratamientos adecuados, tomar decisiones importantes sobre el cuidado o acceder a un apoyo valioso."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-5.jpg",
+      "alt": "El costo de actuar según contenido no verificado: un costo emocional, uno económico y uno clínico, con retrasos en el diagnóstico y el apoyo.",
+      "width": 1301,
+      "height": 525
+    },
+    {
+      "type": "paragraph",
+      "text": "Estamos viviendo un periodo importante de avances en la medicina de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nuevas herramientas de diagnóstico, incluidos ciertos biomarcadores en sangre, pueden ayudar a los profesionales clínicos a evaluar a personas con síntomas cognitivos como parte de una evaluación médica integral."
+    },
+    {
+      "type": "paragraph",
+      "text": "También existen tratamientos que pueden retrasar la progresión de la enfermedad en ciertas personas elegibles con enfermedad de Alzheimer sintomática temprana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos avances no significan que hayamos encontrado una cura. Tampoco todas las personas que viven con demencia reúnen los requisitos para estos tratamientos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero refuerzan la importancia de recibir un diagnóstico preciso y de entender las opciones que tienes a tu alcance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuanto antes entendamos lo que está pasando, mejor preparados estaremos para tomar decisiones informadas sobre el tratamiento, la seguridad y el cuidado a largo plazo."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-6.jpg",
+      "alt": "Dos caminos de atención: depender de las redes sociales hace perder tiempo y la oportunidad de intervenir, mientras que una evaluación profesional lleva a la detección temprana y al acceso a tratamientos.",
+      "width": 1288,
+      "height": 498
+    },
+    {
+      "type": "heading",
+      "text": "TRES PREGUNTAS QUE YO HARÍA ANTES DE CONFIAR EN CONSEJOS MÉDICOS EN INTERNET"
+    },
+    {
+      "type": "paragraph",
+      "text": "No necesitas un título en medicina para convertirte en un consumidor más informado de información de salud."
+    },
+    {
+      "type": "paragraph",
+      "text": "La próxima vez que veas un video con una afirmación médica sobre la demencia, te animo a hacerte tres preguntas sencillas."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. ¿Quién me está dando este consejo?",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Mira más allá de la cantidad de seguidores, la seguridad de quien habla o el aspecto de su perfil."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuál es su formación profesional? ¿Tiene preparación pertinente en el tema del que habla?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para orientación médica relacionada con la demencia, los profesionales con experiencia pertinente pueden incluir neurólogos, geriatras, psiquiatras geriátricos, neuropsicólogos y otros profesionales de la salud especializados en salud cognitiva."
+    },
+    {
+      "type": "paragraph",
+      "text": "Busca credenciales verificables como MD, DO, PhD o RN, junto con el área real de especialidad de la persona."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recuerda que tener un título profesional no convierte automáticamente a alguien en experto en todas las afecciones médicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "En Estados Unidos, puedes verificar la licencia de un médico a través de la junta médica de su estado y comprobar su certificación de especialidad en Certification Matters.",
+      "href": "https://www.certificationmatters.org/"
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-7.jpg",
+      "alt": "Comparación entre creadores de contenido en redes sociales y profesionales médicos verificados según su motivación, responsabilidad, base de evidencia y riesgo.",
+      "width": 1245,
+      "height": 515
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-8.jpg",
+      "alt": "Cómo verificar las credenciales de una fuente: nombre legal completo, credencial específica y especialidad declarada, comprobados en certificationmatters.org o en las juntas estatales de licencias.",
+      "width": 1011,
+      "height": 625
+    },
+    {
+      "type": "paragraph",
+      "text": "2. ¿Qué evidencia respalda la afirmación?",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las preguntas más importantes que puedes hacer también es una de las más sencillas:"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo sabemos que esto funciona?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿La recomendación está respaldada por investigación científica creíble? ¿Puedes encontrar el estudio original? ¿Las organizaciones médicas reconocidas ofrecen una orientación similar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten especial cuidado cuando alguien use frases como:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "«Revierte el alzhéimer de forma natural».",
+        "«La cura de la demencia que los médicos no quieren que conozcas».",
+        "«Recupera tu memoria en solo 30 días».",
+        "«No necesitas medicamentos si tomas este suplemento»."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La medicina rara vez es así de simple."
+    },
+    {
+      "type": "paragraph",
+      "text": "Un profesional de la salud responsable debe estar dispuesto a hablar de las limitaciones de un tratamiento, sus posibles riesgos y las circunstancias en las que puede o no ser adecuado."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. ¿Alguien está tratando de venderme algo?",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "No hay nada intrínsecamente malo en que un profesional de la salud recomiende un producto o servicio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, deberías saber si la persona que da el consejo tiene un interés económico en lo que recomienda."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Vende un suplemento? ¿Recibe una comisión cuando compras a través de su enlace? ¿Usa testimonios dramáticos para animarte a comprar algo de inmediato?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una relación económica no hace automáticamente que una recomendación sea inexacta, pero es otro motivo para evaluar la evidencia por tu cuenta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando tomas decisiones sobre la salud de tu ser querido, mereces información que ponga su bienestar en primer lugar."
+    },
+    {
+      "type": "heading",
+      "text": "NO TODO PROBLEMA DE MEMORIA ES DEMENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es algo que quiero que todas las familias entiendan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si tu madre empieza a olvidar citas, tu padre empieza a repetir preguntas o tu pareja de repente tiene dificultades con tareas conocidas, no significa automáticamente que tenga la enfermedad de Alzheimer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay varias afecciones médicas que pueden afectar la memoria y el pensamiento, entre ellas:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Deficiencia de vitamina B12.",
+        "Depresión.",
+        "Efectos secundarios e interacciones de medicamentos.",
+        "Otras afecciones médicas subyacentes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos de estos factores pueden tener tratamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por eso animo a las familias a empezar con una evaluación médica adecuada en lugar de intentar diagnosticar a su ser querido a través de las redes sociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tu médico de atención primaria suele ser el mejor punto de partida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede revisar el historial médico, los medicamentos, los síntomas y otras afecciones de salud de tu ser querido. Cuando sea necesario, puede derivarlo a un especialista para una evaluación más completa."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-9.jpg",
+      "alt": "El médico de atención primaria en el centro, conectado con neurólogos, geriatras, psiquiatras geriátricos, neuropsicólogos y otros especialistas en demencia.",
+      "width": 1252,
+      "height": 497
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de la cita, anota los cambios que has notado."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuándo empezaron? ¿Son cada vez más frecuentes? ¿Tu ser querido tiene dificultades para manejar sus medicamentos, pagar facturas, preparar comidas u orientarse en lugares conocidos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lleva una lista de sus medicamentos y suplementos. Incluye a tu ser querido en la conversación tanto como sea posible y respeta cómo le gustaría que lo ayudes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas observaciones del día a día pueden aportar información valiosa al equipo médico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y si un cambio en el pensamiento o la confusión aparece de repente, sobre todo junto con síntomas como dificultad para hablar, debilidad o menor nivel de alerta, busca atención médica urgente en lugar de esperar a una cita de rutina."
+    },
+    {
+      "type": "heading",
+      "text": "DÓNDE BUSCARÍA YO INFORMACIÓN CONFIABLE SOBRE LA DEMENCIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Creo que las familias deberían tener acceso a información confiable mucho antes de entrar en el consultorio de un médico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por suerte, existen recursos excelentes que ofrecen educación basada en la evidencia, orientación práctica para el cuidado y apoyo profesional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos son tres lugares por los que animo a las familias a empezar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer's Association®",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/alzheimer%27s-association/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como miembro de la junta directiva de la South Florida Alzheimer's Association, valoro profundamente el trabajo que esta organización hace por las personas que viven con demencia y sus familias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde recursos educativos hasta grupos de apoyo para cuidadores y programas comunitarios, la Alzheimer's Association ofrece orientación a lo largo de todo el camino de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Su línea de ayuda gratuita, disponible las 24 horas, los 7 días de la semana, atiende en Estados Unidos en el 800-272-3900."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visita ALZ.org."
+    },
+    {
+      "type": "paragraph",
+      "text": "National Institute on Aging (NIA)",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/national-institute-on-aging/"
+    },
+    {
+      "type": "paragraph",
+      "text": "El National Institute on Aging (Instituto Nacional sobre el Envejecimiento), parte de los Institutos Nacionales de Salud, ofrece información basada en la evidencia sobre la demencia, la salud cognitiva, el diagnóstico, el tratamiento y el cuidado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un excelente punto de partida cuando quieres entender un tema médico o verificar algo que encontraste en internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visita NIA.NIH.gov."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tu médico de atención primaria",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Por muy informativo que sea un video o un artículo, no puede tener en cuenta por completo el historial médico individual de tu ser querido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tu médico puede ayudarte a entender si una recomendación es adecuada, si se necesitan más pruebas y cuáles deberían ser los siguientes pasos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lleva tus preguntas. Lleva los videos que guardaste. Lleva las afirmaciones que encontraste en internet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nunca deberías sentir vergüenza de preguntarle a tu médico si algo que viste en las redes sociales es cierto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esas conversaciones son una parte importante de tomar decisiones de salud informadas."
+    },
+    {
+      "type": "heading",
+      "text": "NO TIENES QUE RESOLVERLO TODO SOLO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero volver a la persona que conocimos al principio de este boletín."
+    },
+    {
+      "type": "paragraph",
+      "text": "La que está despierta a altas horas de la noche, viendo videos y con la esperanza de encontrar algo que pueda ayudar a su padre."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá esa persona eres tú."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quizá estés buscando respuestas sobre la pérdida de memoria, preguntándote cómo manejar una conducta nueva o intentando entender cómo podría ser la siguiente etapa de la demencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y aunque en internet hay información de sobra, lo que quizá más necesites es a alguien que entienda la situación de tu ser querido y pueda ayudarte a afrontarla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esa es una de las razones por las que creo tanto en el modelo GUIDE de Medicare."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gracias a la participación de MedBetterHealth en esta iniciativa, las familias elegibles que cuidan en casa a alguien que vive con demencia pueden tener acceso a:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Un navegador de cuidados de la demencia dedicado que ayuda a coordinar la atención y a responder preguntas.",
+        "Una línea de apoyo disponible las 24 horas, los 7 días de la semana, para recibir orientación cuando surjan inquietudes, incluso fuera del horario de oficina.",
+        "Educación para cuidadores y recursos prácticos para ayudar a las familias a afrontar los desafíos de la demencia.",
+        "Cuidado de relevo cubierto, cuando se reúnen los requisitos, para que alguien pueda cuidar a tu ser querido mientras atiendes tus propias necesidades."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si tu ser querido vive con demencia y tiene Original Medicare, te animo a averiguar si tu familia podría reunir los requisitos. Se aplican requisitos de elegibilidad adicionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Visita MedBetterHealth.org/Guide para obtener más información.",
+      "href": "https://guide.medbetterhealth.org/news"
+    },
+    {
+      "type": "heading",
+      "text": "UNA ÚLTIMA REFLEXIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las redes sociales pueden presentarnos nuevas ideas, conectarnos con otras personas y ayudarnos a descubrir recursos valiosos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero deberían ser el comienzo de una conversación sobre la salud de tu ser querido, no la última palabra."
+    },
+    {
+      "type": "paragraph",
+      "text": "La próxima vez que encuentres una afirmación prometedora sobre la demencia, pregúntate quién la hace, qué evidencia la respalda y si es adecuada para la persona que amas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mantén la curiosidad. Haz preguntas. Busca orientación de personas que estén calificadas para darla."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y recuerda que no necesitas tener todas las respuestas para ser un buen cuidador."
+    },
+    {
+      "type": "paragraph",
+      "text": "A veces, lo más importante que puedes hacer por alguien que amas es saber a dónde acudir cuando no tienes la respuesta."
+    },
+    {
+      "type": "heading",
+      "text": "EL SIGUIENTE PASO PARA TU FAMILIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si cuidas a alguien que vive con demencia, es posible que MedBetterHealth pueda apoyar a tu familia a través del modelo GUIDE de Medicare."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí puedes consultar si reúnes los requisitos:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://medbetterhealth.org/guide",
+      "bold": true,
+      "href": "https://guide.medbetterhealth.org/news"
+    },
+    {
+      "type": "paragraph",
+      "text": "La elegibilidad depende de la cobertura de Medicare, el diagnóstico y otros requisitos del programa. La disponibilidad de servicios específicos, incluido el cuidado de relevo, está sujeta a criterios adicionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque tu familia no reúna los requisitos del modelo GUIDE, MedBetterHealth sigue comprometida con apoyar a los cuidadores mediante información práctica sobre la demencia basada en la evidencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Para encontrar más información sobre el cuidado de la demencia, visita:"
+    },
+    {
+      "type": "paragraph",
+      "text": "https://thedementiatimes.com",
+      "bold": true,
+      "href": "https://thedementiatimes.com"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si quieres ver más conversaciones sobre la demencia, la salud cerebral, el cuidado y el futuro de la atención, mira Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "image",
+      "src": "/assets/issues/can-you-trust-dementia-advice-on-social-media/image-10.jpg",
+      "alt": "Suscríbete a Straight Talk with Dr. Erik.",
+      "width": 2232,
+      "height": 369
+    },
+    {
+      "type": "paragraph",
+      "text": "https://www.youtube.com/@ErikIlyayev",
+      "bold": true,
+      "href": "https://www.youtube.com/@ErikIlyayev"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este contenido es educativo y no constituye asesoramiento médico. La información sobre cambios en la memoria, deterioro cognitivo, enfermedad de Alzheimer, diagnóstico de demencia, suplementos, medicamentos y opciones de tratamiento debe consultarse con profesionales de la salud calificados. No empieces, suspendas ni cambies ningún tratamiento basándote solo en información encontrada en las redes sociales u otras plataformas en línea. Si los síntomas son repentinos, graves, peligrosos o preocupantes desde el punto de vista médico, busca ayuda médica de inmediato."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gracias por leer The Dementia Times."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con gratitud,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr. Erik Ilyayev, MD",
+      "bold": true
+    },
+    {
+      "type": "paragraph",
+      "text": "CEO, MedBetterHealth"
+    },
+    {
+      "type": "paragraph",
+      "text": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    },
+    {
+      "type": "paragraph",
+      "text": "UNA NOTA PARA PROFESIONALES DE LA SALUD Y DEL CUIDADO EN EL HOGAR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si trabajas en cuidado en el hogar, geriatría, derecho de las personas mayores, neurología, enfermería, residencias asistidas, centros de día para adultos, gestión de cuidados, salud conductual, atención primaria, planificación del alta hospitalaria, cuidado de relevo, residencias para personas mayores, terapia ocupacional o cualquier campo que apoye a las familias que viven con demencia, me encantaría tenerte en mi pódcast, Straight Talk with Dr. Erik."
+    },
+    {
+      "type": "paragraph",
+      "text": "Siempre estoy buscando profesionales con experiencia real en primera línea y una visión valiosa sobre el cuidado de la demencia y el apoyo a los cuidadores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si te identificas con esto, conectemos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Trend Media Company",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/floridatrend/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alzheimer's Foundation of America",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/alzheimer%27s-foundation-of-america/"
+    },
+    {
+      "type": "paragraph",
+      "text": "South Florida Business Journal",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/south-florida-business-journal/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Florida Department of Elder Affairs",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/fdoea/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aging with Dignity",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aging-with-dignity/"
+    },
+    {
+      "type": "paragraph",
+      "text": "American Society on Aging",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/american-society-on-aging/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Family Caregiver Alliance / National Center on Caregiving",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/family-caregiver-alliance/"
+    },
+    {
+      "type": "paragraph",
+      "text": "AARP",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/aarp/"
+    },
+    {
+      "type": "paragraph",
+      "text": "USF Health Byrd Alzheimer's Institute",
+      "bold": true,
+      "href": "https://www.linkedin.com/company/usf-health-byrd-alzheimer%27s-institute/"
+    }
+  ],
+  "disclaimer": "",
+  "hasInlineYoutubeBanner": true
+}
